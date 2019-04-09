@@ -1,0 +1,110 @@
+{
+  "id": 85903023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":867641.01382,
+    "geom:bbox":"47.969055,29.327114,47.969055,29.327114",
+    "geom:latitude":29.327114,
+    "geom:longitude":47.969055,
+    "gn:id":"",
+    "iso:country":"KW",
+    "lbl:latitude":29.327114,
+    "lbl:longitude":47.969055,
+    "mps:latitude":29.327965,
+    "mps:longitude":47.969326,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_colloquial":[
+        "Al \u2018Adiliyah"
+    ],
+    "name:eng_x_preferred":[
+        "Al Adiliyah"
+    ],
+    "name:eng_x_variant":[
+        "Al \u2018Ad\u012bl\u012byah"
+    ],
+    "name:unk_x_variant":[
+        "Al Adiliyah"
+    ],
+    "qs:gn_adm0_cc":"KW",
+    "qs:gn_id":0,
+    "qs:gn_local":285787,
+    "qs:gn_nam_loc":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, KW",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":1268,
+    "qs:local_sum":5995,
+    "qs:localhoods":31,
+    "qs:name":"Al Adiliyah",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm2":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_local":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:photo_max":3,
+    "qs:photo_sum":3,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424870,
+    "qs:woe_adm1":20070169,
+    "qs:woe_adm2":55943085,
+    "qs:woe_lau":0,
+    "qs:woe_local":1940631,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1940531,
+        "qs:id":996419,
+        "qs_pg:id":996419
+    },
+    "wof:country":"KW",
+    "wof:geomhash":"bb61c18bd567cf5ffa65c443e84a9f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":-1,
+            "neighbourhood_id":85903023,
+            "region_id":85673389
+        }
+    ],
+    "wof:id":85903023,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935990,
+    "wof:name":"Al Adiliyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.969055,
+    29.327114,
+    47.969055,
+    29.327114
+],
+  "geometry": {"coordinates":[47.969055,29.327114],"type":"Point"}
+}

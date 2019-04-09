@@ -1,0 +1,101 @@
+{
+  "id": 1242884635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6518,29.3842,47.6518,29.3842",
+    "geom:latitude":29.3842,
+    "geom:longitude":47.6518,
+    "gn:asciiname":"Highway of Death",
+    "gn:country_code":"KW",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6942029,
+    "gn:latitude":29.3842,
+    "gn:longitude":47.6518,
+    "gn:modification_date":"2009-06-10",
+    "gn:name":"Highway of Death",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuwait",
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0631\u064a\u0642 \u0627\u0644\u0645\u0648\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Kuoleman moottoritie"
+    ],
+    "name:hrv_x_preferred":[
+        "Autocesta smrti"
+    ],
+    "name:ita_x_preferred":[
+        "Autostrada della morte"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6b7b\u306e\u30cf\u30a4\u30a6\u30a7\u30a4"
+    ],
+    "name:lit_x_preferred":[
+        "Mirties greitkelis"
+    ],
+    "name:nld_x_preferred":[
+        "Snelweg des Doods"
+    ],
+    "name:por_x_preferred":[
+        "Autoestrada da Morte"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u0441\u0441\u0435 \u0441\u043c\u0435\u0440\u0442\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Autopista de la muerte"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0443\u0442\u043e-\u043f\u0443\u0442 \u0441\u043c\u0440\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "D\u00f6dens motorv\u00e4g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6942029,
+        "wk:page":"Highway_of_Death"
+    },
+    "wof:country":"KW",
+    "wof:geomhash":"f2704bd094990b0597bc031e0805f90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":1242884635,
+            "region_id":85673399
+        }
+    ],
+    "wof:id":1242884635,
+    "wof:lastmodified":1537659335,
+    "wof:name":"Highway of Death",
+    "wof:parent_id":85673399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6518,
+    29.3842,
+    47.6518,
+    29.3842
+],
+  "geometry": {"coordinates":[47.6518,29.3842],"type":"Point"}
+}

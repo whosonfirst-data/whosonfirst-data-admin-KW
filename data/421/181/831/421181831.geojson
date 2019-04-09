@@ -1,0 +1,93 @@
+{
+  "id": 421181831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"48.005876,29.31425,48.005876,29.31425",
+    "geom:latitude":29.31425,
+    "geom:longitude":48.005876,
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Surra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Surra"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0930\u094d\u0930\u093e \u0930\u094b\u0917"
+    ],
+    "name:pol_x_preferred":[
+        "Surra"
+    ],
+    "name:por_x_preferred":[
+        "Surra"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Surra",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":506099,
+    "qs:woe_adm0":23424870,
+    "qs:woe_id":10644934,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1148,
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":10644934,
+        "qs:id":506099,
+        "wd:id":"Q1526645"
+    },
+    "wof:country":"KW",
+    "wof:created":1459009308,
+    "wof:geomhash":"efc1243e736eab6b436c3d5826ddd7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":-1,
+            "neighbourhood_id":421181831,
+            "region_id":85673405
+        }
+    ],
+    "wof:id":421181831,
+    "wof:lastmodified":1531858477,
+    "wof:name":"Surra",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.005876,
+    29.31425,
+    48.005876,
+    29.31425
+],
+  "geometry": {"coordinates":[48.005876,29.31425],"type":"Point"}
+}

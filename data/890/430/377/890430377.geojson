@@ -1,0 +1,73 @@
+{
+  "id": 890430377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.13028,29.145,48.13028,29.145",
+    "geom:latitude":29.145,
+    "geom:longitude":48.13028,
+    "gn:country":"KW",
+    "gn:fcode":"PPL",
+    "gn:pop":18178,
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0652\u0645\u064e\u0647\u0652\u0628\u064f\u0648\u0644\u064e\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0647\u0628\u0648\u0644\u0629"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u0645\u0647\u0628\u0648\u0644\u0629"
+    ],
+    "qs:name":"Al Mahb\u016blah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285782,
+        "gp:id":1940620,
+        "qs:id":124017
+    },
+    "wof:country":"KW",
+    "wof:created":1469051850,
+    "wof:geomhash":"b0270b8586797ed8a323e784359b0671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":890430377,
+            "region_id":85673391
+        }
+    ],
+    "wof:id":890430377,
+    "wof:lastmodified":1505343518,
+    "wof:name":"Al Mahb\u016blah",
+    "wof:parent_id":85673391,
+    "wof:placetype":"locality",
+    "wof:population":18178,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.13028,
+    29.145,
+    48.13028,
+    29.145
+],
+  "geometry": {"coordinates":[48.13028,29.145],"type":"Point"}
+}

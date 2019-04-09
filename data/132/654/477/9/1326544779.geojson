@@ -1,0 +1,72 @@
+{
+  "id": 1326544779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.96722,28.96667,47.96722,28.96667",
+    "geom:latitude":28.96667,
+    "geom:longitude":47.96722,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ju`aydan",
+    "gn:country_code":"KW",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285599,
+    "gn:latitude":28.96667,
+    "gn:longitude":47.96722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ju\u2018ayd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuwait",
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u064f\u0639\u064e\u064a\u0652\u062f\u064e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Juaidan",
+        "Ju\u2018ayd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285599
+    },
+    "wof:country":"KW",
+    "wof:geomhash":"76a04e2cc1fde971fd82b0f5079da724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":1326544779,
+            "region_id":85673391
+        }
+    ],
+    "wof:id":1326544779,
+    "wof:lastmodified":1537659330,
+    "wof:name":"Ju`aydan",
+    "wof:parent_id":85673391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.96722000000001,
+    28.96667,
+    47.96722000000001,
+    28.96667
+],
+  "geometry": {"coordinates":[47.96722000000001,28.96667],"type":"Point"}
+}

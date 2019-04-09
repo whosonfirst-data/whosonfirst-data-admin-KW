@@ -1,0 +1,68 @@
+{
+  "id": 1243457643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.29917,29.43167,48.29917,29.43167",
+    "geom:latitude":29.43167,
+    "geom:longitude":48.29917,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ash Shubaykah",
+    "gn:country_code":"KW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":387939,
+    "gn:latitude":29.43167,
+    "gn:longitude":48.29917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shubaykah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuwait",
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0634\u064f\u0651\u0628\u064e\u064a\u0652\u0643\u064e\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387939
+    },
+    "wof:country":"KW",
+    "wof:geomhash":"95582e3779544029d1e2565d301a3fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":1243457643,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":1243457643,
+    "wof:lastmodified":1537659334,
+    "wof:name":"Ash Shubaykah",
+    "wof:parent_id":85673383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.29917,
+    29.43167,
+    48.29917,
+    29.43167
+],
+  "geometry": {"coordinates":[48.29917,29.43167],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343368839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.20722,28.92361,48.20722,28.92361",
+    "geom:latitude":28.92361,
+    "geom:longitude":48.20722,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ad Duba`iyah",
+    "gn:country_code":"KW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388102,
+    "gn:latitude":28.92361,
+    "gn:longitude":48.20722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u1e11 \u1e10ub\u0101\u2018\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuwait",
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0636\u064f\u0651\u0628\u064e\u0627\u0639\u0650\u064a\u064e\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10ub\u0101\u2018\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388102
+    },
+    "wof:country":"KW",
+    "wof:geomhash":"556216f55e6952b76d3f12c77877209d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":1343368839,
+            "region_id":85673391
+        }
+    ],
+    "wof:id":1343368839,
+    "wof:lastmodified":1537659335,
+    "wof:name":"Ad Duba`iyah",
+    "wof:parent_id":85673391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.20722,
+    28.92361,
+    48.20722,
+    28.92361
+],
+  "geometry": {"coordinates":[48.20722,28.92361],"type":"Point"}
+}

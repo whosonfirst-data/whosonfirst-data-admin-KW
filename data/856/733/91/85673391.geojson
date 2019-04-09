@@ -1,0 +1,312 @@
+{
+  "id": 85673391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.444936,
+    "geom:area_square_m":4819807440.178514,
+    "geom:bbox":"47.4463232339,28.5335049441,48.4327812271,29.2662501083",
+    "geom:latitude":28.829531,
+    "geom:longitude":47.930403,
+    "gn:id":"",
+    "iso:country":"KW",
+    "label:eng_x_preferred_longname":[
+        "Al Ahmadi Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
+    "lbl:latitude":28.837058,
+    "lbl:longitude":47.939826,
+    "mps:latitude":28.837058,
+    "mps:longitude":47.939826,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u062d\u0645\u062f\u0649"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u064f\u062d\u064e\u0627\u0641\u064e\u0638\u064e\u0629 \u0627\u064e\u0644\u0623\u064e\u062d\u0652\u0645\u064e\u062f\u0650\u064a",
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0623\u062d\u0645\u062f\u064a"
+    ],
+    "name:arm_x_preferred":[
+        "\u0537\u056c \u0531\u0570\u0574\u0561\u0564\u056b"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u0986\u09b9\u09ae\u09be\u09a6\u09bf \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043b-\u0410\u0445\u043c\u0430\u0434\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Governaci\u00f3 d'Ahmad\u00ed"
+    ],
+    "name:chi_x_preferred":[
+        "\u827e\u54c8\u8fc8\u8fea\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Al Ahmadi Governorate"
+    ],
+    "name:deu_x_preferred":[
+        "Ahmadi"
+    ],
+    "name:dut_x_preferred":[
+        "Ahmadi"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ahmadi"
+    ],
+    "name:eng_x_variant":[
+        "Ahmadi",
+        "Al A\u1e29mad\u012b",
+        "Al Ahmadi Governorate"
+    ],
+    "name:fin_x_preferred":[
+        "Al Ahmadin kuvernoraatti"
+    ],
+    "name:fra_x_preferred":[
+        "Al Ahmadi"
+    ],
+    "name:fre_x_preferred":[
+        "Al Ahmadi"
+    ],
+    "name:ger_x_preferred":[
+        "Gouvernement Ahmadi"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bb \u0391\u03c7\u03bc\u03ac\u03bd\u03c4\u03b9 \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0ab2 \u0a85\u0ab9\u0aae\u0aa6\u0ac0 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u0905\u0939\u092e\u0926\u0940 \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Ahmadi korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:ind_x_preferred":[
+        "Kegubernuran Al-Ahmadi"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Ahmad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30cf\u30de\u30c7\u30a3\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0cb2\u0ccd \u0c85\u0cb9\u0ccd\u0cae\u0ca6\u0cbf \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c\uc544\ub9c8\ub514"
+    ],
+    "name:lav_x_preferred":[
+        "Ahmedi muh\u0101faza"
+    ],
+    "name:lit_x_preferred":[
+        "Al Achmad\u017eio muchafaza"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0932 \u0905\u0939\u092e\u0926\u0940 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
+    ],
+    "name:may_x_preferred":[
+        "Al Ahmadi Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Ahmadi"
+    ],
+    "name:nob_x_preferred":[
+        "Al Ahmadi Governorate"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u062d\u0645\u062f\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Ahmadi"
+    ],
+    "name:por_x_preferred":[
+        "Al Ahmadi"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0410\u0445\u043c\u0430\u0434\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Al Ahmadi Govrenorate"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dbd\u0dca \u0d85\u0dc4\u0db8\u0daf\u0dd2 \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Ahmad\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at al A\u1e29mad\u012b"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb2\u0bcd  \u0b85\u0bb9\u0bcd\u0bae\u0b9f\u0bbf \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c32\u0c4d \u0c05\u0c39\u0c4d\u0c2e\u0c26\u0c3f \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e25\u0e2d\u0e32\u0e2b\u0e4c\u0e21\u0e32\u0e14\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "El Ahmed\u00ee Valili\u011fi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0415\u043b\u044c-\u0410\u0445\u043c\u0430\u0434\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Mu\u1e29\u0101faz\u0327at al A\u1e29madi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0627\u062d\u0645\u062f\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Al Ahmadi"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"KWT",
+    "ne:adm0_label":"3",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"KWT-1665",
+    "ne:adm1_code":"KWT-1665",
+    "ne:admin":"Kuwait",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"KW.AH",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1665",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"KU04",
+    "ne:fips_alt":"KU01",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Kuwait",
+    "ne:gn_a1_code":"KW.04",
+    "ne:gn_id":"285841",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Muhafazat al Ahmadi",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"KU04",
+    "ne:gns_id":"-789494",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Al Ahmadi",
+    "ne:gns_region":"",
+    "ne:gu_a3":"KWT",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"KW-",
+    "ne:iso_a2":"KW",
+    "ne:labelrank":"7",
+    "ne:latitude":"28.86530000000",
+    "ne:longitude":"47.93930000000",
+    "ne:mapcolor13":2,
+    "ne:mapcolor9":2,
+    "ne:name":"Al Ahmadi",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"AH",
+    "ne:provnum_ne":"2",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"7",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"KWT",
+    "ne:sub_code":"",
+    "ne:type":"Muhafazah",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070166,
+    "ne:woe_label":"Al Ahmadi, KW, Kuwait",
+    "ne:woe_name":"Al Ahmadi",
+    "qs:a0":"Kuwait",
+    "qs:a0_lc":"KW",
+    "qs:a1":"Al Ahmadi",
+    "qs:a1_lc":"KWT-1665",
+    "qs:adm0":"Kuwait",
+    "qs:adm0_a3":"KWT",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-04-20",
+    "statoids:area_km":"5,120",
+    "statoids:area_mi":"1,977",
+    "statoids:as_of_date":"2005-04-20",
+    "statoids:capital":"Al Ahmadi",
+    "statoids:country":"KW",
+    "statoids:gec":"KU04",
+    "statoids:hasc":"KW.AH",
+    "statoids:iso":"AH",
+    "statoids:name":"Al Ahmadi",
+    "statoids:population":"390927",
+    "statoids:timezone":"+3",
+    "statoids:type":"governorate",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191569,
+        85632401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"KU04",
+        "gn:id":285841,
+        "gp:id":20070166,
+        "hasc:id":"KW.AH",
+        "iso:id":"KW-AH",
+        "qs:id":1154064,
+        "wd:id":"Q552354"
+    },
+    "wof:country":"KW",
+    "wof:geomhash":"7c44ab66a317f9ffa57466c79bd152d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "region_id":85673391
+        }
+    ],
+    "wof:id":85673391,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553814805,
+    "wof:name":"Al Ahmadi",
+    "wof:parent_id":85632401,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"governorate",
+    "wof:population":390927,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:shortcode":"AH",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.44632323393017,
+    28.53350494409796,
+    48.43278122707204,
+    29.26625010825592
+],
+  "geometry": {"coordinates":[[[47.87721235536594,29.18504059544716],[48.03456709169797,29.20873423929373],[48.09740563326341,29.21250661918521],[48.10613070197036,29.21352475966],[48.11465851068175,29.19325583309029],[48.12844677869595,29.1739002795743],[48.13380381349526,29.15361735415763],[48.15845787932773,29.01727936395156],[48.17603600375861,28.98379140784726],[48.22592207124666,28.91828034106493],[48.2409774102793,28.90566640867786],[48.2794702482534,28.89443594026648],[48.28239993640801,28.87938060123383],[48.27816816482897,28.85968659146306],[48.27686608230391,28.83958567893598],[48.28516686346001,28.81989166916526],[48.31251061267471,28.7859561222773],[48.31836998808456,28.77383047139921],[48.3287866554798,28.7599551454137],[48.35230553497252,28.75120677347388],[48.39356529999867,28.74339427292739],[48.3837996752149,28.72801341438759],[48.37964928508649,28.71035390850614],[48.38070722685711,28.69208405253704],[48.38672936336945,28.67511627819374],[48.37159264378556,28.68439362236785],[48.3662215498847,28.68870677359877],[48.36500084701152,28.68081289340034],[48.36597741002953,28.67572663007996],[48.37045332146369,28.67194245018396],[48.37989342494166,28.66766998967836],[48.37240644570096,28.65916575759371],[48.36768639441163,28.65672435094808],[48.36378014413839,28.65814850564908],[48.35954837345872,28.66144440313673],[48.35271243593024,28.66144440313673],[48.35181725436286,28.64052969049288],[48.36101321708634,28.63556549754975],[48.37468509214335,28.64166901191544],[48.38672936336945,28.65399811462134],[48.3894962904215,28.6437442083286],[48.39356529999867,28.59564850487465],[48.39714602986544,28.58331940306806],[48.40528404991903,28.56989166966486],[48.42090905011264,28.55158112207118],[48.43246503982976,28.54071686389221],[48.43278122707204,28.54047972346052],[48.25522464999767,28.5388792935446],[48.07740604645193,28.53727732398937],[47.89958744290624,28.53562367849003],[47.72182051620393,28.53397003209136],[47.66812870307723,28.53350494409796],[47.65980879693848,28.56004079184913],[47.64110192891093,28.57724904400823],[47.61815759299856,28.59148590105355],[47.59681522754079,28.60882334442186],[47.581674032031,28.63148345949412],[47.568031453289,28.66099070235907],[47.5584196368568,28.69147979805427],[47.55459558102132,28.74537831765531],[47.54994470198648,28.77059641669132],[47.49449589147224,28.9040249633814],[47.44632323393017,28.97624273961077],[47.47429121336887,28.99112478288248],[47.52312544098635,29.02101959937505],[47.74678104041271,29.04897654952816],[47.76993208190009,29.05579783799988],[47.7738078136797,29.06913035748005],[47.78409142368031,29.20366994910893],[47.84165897038525,29.26625010825592],[47.86129601439961,29.24909353294026],[47.87607547380412,29.22754446100811],[47.87721235536594,29.18504059544716]]],"type":"Polygon"}
+}

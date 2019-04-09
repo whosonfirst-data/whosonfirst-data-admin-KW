@@ -1,0 +1,76 @@
+{
+  "id": 1327343401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.19861,28.94306,48.19861,28.94306",
+    "geom:latitude":28.94306,
+    "geom:longitude":48.19861,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"An Nuqayyat",
+    "gn:cc2":"KW",
+    "gn:country_code":"KW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285746,
+    "gn:latitude":28.94306,
+    "gn:longitude":48.19861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"An Nuqayy\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuwait",
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0646\u064f\u0651\u0642\u064e\u064a\u064e\u0651\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "An Nuqay\u2018\u0101t",
+        "Al-Nigaiyat",
+        "An Niggaiyat",
+        "An Nugayy\u0101t",
+        "An Nuqayy\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285746
+    },
+    "wof:country":"KW",
+    "wof:geomhash":"285f4ed5e05f17dda1f890aef5864a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":1327343401,
+            "region_id":85673391
+        }
+    ],
+    "wof:id":1327343401,
+    "wof:lastmodified":1537659331,
+    "wof:name":"An Nuqayyat",
+    "wof:parent_id":85673391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.19861,
+    28.94306,
+    48.19861,
+    28.94306
+],
+  "geometry": {"coordinates":[48.19861,28.94306],"type":"Point"}
+}

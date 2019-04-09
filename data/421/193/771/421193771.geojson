@@ -1,0 +1,73 @@
+{
+  "id": 421193771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"48.08305,29.288176,48.08305,29.288176",
+    "geom:latitude":29.288176,
+    "geom:longitude":48.08305,
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Salwa-block 10",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u062d\u0648\u0644\u0649",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":42,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1188462,
+    "qs:woe_adm0":23424870,
+    "qs:woe_id":55943149,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55943149,
+        "qs:id":1188462
+    },
+    "wof:country":"KW",
+    "wof:created":1459009782,
+    "wof:geomhash":"7dd02662bb724ca1ebaac9e92416b8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":-1,
+            "neighbourhood_id":421193771,
+            "region_id":85673395
+        }
+    ],
+    "wof:id":421193771,
+    "wof:lastmodified":1531858719,
+    "wof:name":"Salwa-block 10",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.08305,
+    29.288176,
+    48.08305,
+    29.288176
+],
+  "geometry": {"coordinates":[48.08305,29.288176],"type":"Point"}
+}

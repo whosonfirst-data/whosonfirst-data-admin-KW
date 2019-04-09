@@ -1,0 +1,78 @@
+{
+  "id": 1293721381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.13111,29.65472,48.13111,29.65472",
+    "geom:latitude":29.65472,
+    "geom:longitude":48.13111,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Hujayjah",
+    "gn:cc2":"KW",
+    "gn:country_code":"KW",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285803,
+    "gn:latitude":29.65472,
+    "gn:longitude":48.13111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al \u1e28ujayjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuwait",
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0652\u062d\u064f\u062c\u064e\u064a\u0652\u062c\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al-Hijajah",
+        "Haqaijah",
+        "Hugaija",
+        "Hagaija",
+        "Haqaija",
+        "Al \u1e28ujayjah",
+        "Al Hujayjah",
+        "\u0627\u0644\u062d\u062c\u064a\u062c\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285803
+    },
+    "wof:country":"KW",
+    "wof:geomhash":"9cc62b8e70a831f2cf7f685db74082a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":1293721381,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293721381,
+    "wof:lastmodified":1537659332,
+    "wof:name":"Al Hujayjah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.13111,
+    29.65472,
+    48.13111,
+    29.65472
+],
+  "geometry": {"coordinates":[48.13111,29.65472],"type":"Point"}
+}

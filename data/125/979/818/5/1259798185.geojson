@@ -1,0 +1,73 @@
+{
+  "id": 1259798185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.18333,28.9,48.18333,28.9",
+    "geom:latitude":28.9,
+    "geom:longitude":48.18333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"`Urayfijan",
+    "gn:country_code":"KW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285384,
+    "gn:latitude":28.9,
+    "gn:longitude":48.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u2018Urayfij\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuwait",
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064f\u0631\u064e\u064a\u0652\u0641\u0650\u062c\u064e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Araifj\u0101n",
+        "Arefjan",
+        "\u2018Urayfij\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285384
+    },
+    "wof:country":"KW",
+    "wof:geomhash":"2771a863281a9fd7092363b119716c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":1259798185,
+            "region_id":85673391
+        }
+    ],
+    "wof:id":1259798185,
+    "wof:lastmodified":1537659329,
+    "wof:name":"`Urayfijan",
+    "wof:parent_id":85673391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.18333,
+    28.9,
+    48.18333,
+    28.9
+],
+  "geometry": {"coordinates":[48.18333,28.9],"type":"Point"}
+}

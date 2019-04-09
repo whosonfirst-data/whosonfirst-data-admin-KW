@@ -1,0 +1,71 @@
+{
+  "id": 1310219837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.66389,29.31583,47.66389,29.31583",
+    "geom:latitude":29.31583,
+    "geom:longitude":47.66389,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"`Ushaysh al Jahra'",
+    "gn:country_code":"KW",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285375,
+    "gn:latitude":29.31583,
+    "gn:longitude":47.66389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u2018Ushaysh al Jahr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuwait",
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064f\u0634\u064e\u064a\u0652\u0634 \u0627\u064e\u0644\u0652\u062c\u064e\u0647\u0652\u0631\u064e\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ushaysh al Jahr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285375
+    },
+    "wof:country":"KW",
+    "wof:geomhash":"21108a4e842a28402d0c3fd54245bd3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":1310219837,
+            "region_id":85673399
+        }
+    ],
+    "wof:id":1310219837,
+    "wof:lastmodified":1537659329,
+    "wof:name":"`Ushaysh al Jahra'",
+    "wof:parent_id":85673399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.66389,
+    29.31583,
+    47.66389,
+    29.31583
+],
+  "geometry": {"coordinates":[47.66389,29.31583],"type":"Point"}
+}

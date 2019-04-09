@@ -1,0 +1,71 @@
+{
+  "id": 1343468837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.26667,28.81667,48.26667,28.81667",
+    "geom:latitude":28.81667,
+    "geom:longitude":48.26667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Al Ad`ami",
+    "gn:country_code":"KW",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285845,
+    "gn:latitude":28.81667,
+    "gn:longitude":48.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Ad\u2018am\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuwait",
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0623\u064e\u062f\u0652\u0639\u064e\u0645\u0650\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Ad\u2018am\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285845
+    },
+    "wof:country":"KW",
+    "wof:geomhash":"3dae152524763b1dbe7839ebd55f5069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":1343468837,
+            "region_id":85673391
+        }
+    ],
+    "wof:id":1343468837,
+    "wof:lastmodified":1537659332,
+    "wof:name":"Al Ad`ami",
+    "wof:parent_id":85673391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.26667,
+    28.81667,
+    48.26667,
+    28.81667
+],
+  "geometry": {"coordinates":[48.26667,28.81667],"type":"Point"}
+}

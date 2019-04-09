@@ -1,0 +1,114 @@
+{
+  "id": 85903025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1692364.227128,
+    "geom:bbox":"47.961543,29.362315,47.961543,29.362315",
+    "geom:latitude":29.362315,
+    "geom:longitude":47.961543,
+    "gn:latitude":29.36333,
+    "gn:longitude":47.96889,
+    "iso:country":"KW",
+    "lbl:latitude":29.362315,
+    "lbl:longitude":47.961543,
+    "mps:latitude":29.359137,
+    "mps:longitude":47.962873,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ara_x_colloquial":[
+        "As Salihiyah"
+    ],
+    "name:ara_x_preferred":[
+        "As S\u0101lih\u012byah"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u064e\u0644\u0635\u064e\u0651\u0627\u0644\u0650\u062d\u0650\u064a\u064e\u0651\u0629"
+    ],
+    "name:unk_x_variant":[
+        "A\u015f \u015e\u0101li\u1e29\u012byah",
+        "As S\u0101lih\u012byah"
+    ],
+    "qs:gn_adm0_cc":"KW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":285787,
+    "qs:gn_nam_loc":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, KW",
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"A\u015f \u015e\u0101li\u1e29\u012byah",
+    "qs:local_max":1268,
+    "qs:local_sum":5995,
+    "qs:localhoods":31,
+    "qs:name":"As S\u0101lih\u012byah",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm2":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_local":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:photo_max":56,
+    "qs:photo_sum":134,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424870,
+    "qs:woe_adm1":20070169,
+    "qs:woe_adm2":55943085,
+    "qs:woe_lau":0,
+    "qs:woe_local":1940631,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387995,
+        "gp:id":1940580,
+        "qs:id":1168201,
+        "qs_pg:id":1168201
+    },
+    "wof:country":"KW",
+    "wof:geomhash":"1e2df21e7a6145c8b67ee2e7939e724b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":-1,
+            "neighbourhood_id":85903025,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":85903025,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531935991,
+    "wof:name":"As S\u0101lih\u012byah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.961543,
+    29.362315,
+    47.961543,
+    29.362315
+],
+  "geometry": {"coordinates":[47.961543,29.362315],"type":"Point"}
+}

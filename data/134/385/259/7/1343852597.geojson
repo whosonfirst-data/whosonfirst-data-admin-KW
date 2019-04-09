@@ -1,0 +1,81 @@
+{
+  "id": 1343852597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.96889,29.2925,47.96889,29.2925",
+    "geom:latitude":29.2925,
+    "geom:longitude":47.96889,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Abraq Khaytan",
+    "gn:cc2":"KW",
+    "gn:country_code":"KW",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285866,
+    "gn:latitude":29.2925,
+    "gn:longitude":47.96889,
+    "gn:modification_date":"2016-09-13",
+    "gn:name":"Abraq Khay\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kuwait",
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064e\u0628\u0652\u0631\u064e\u0642 \u062e\u064e\u064a\u0652\u0637\u064e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Abrak Khetan",
+        "Khitan",
+        "Abraq Kh\u012b\u0163\u0101n",
+        "Abraq Khetan",
+        "Abrag Kh\u012b\u0163\u0101n",
+        "Khaitan",
+        "Abraq Haytan",
+        "Koetan",
+        "Abraq Khaitan",
+        "Abraq Khay\u0163\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285866
+    },
+    "wof:country":"KW",
+    "wof:geomhash":"e51c9b50c6f927c2ae9e2859fe6f8925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":1343852597,
+            "region_id":85673389
+        }
+    ],
+    "wof:id":1343852597,
+    "wof:lastmodified":1537659334,
+    "wof:name":"Abraq Khaytan",
+    "wof:parent_id":85673389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.96889,
+    29.2925,
+    47.96889,
+    29.2925
+],
+  "geometry": {"coordinates":[47.96889,29.2925],"type":"Point"}
+}

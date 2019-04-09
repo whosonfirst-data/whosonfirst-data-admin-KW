@@ -1,0 +1,84 @@
+{
+  "id": 421184309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.00139,29.365,48.00139,29.365",
+    "geom:latitude":29.365,
+    "geom:longitude":48.00139,
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u062f\u064e\u0651\u0633\u0652\u0645\u064e\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Dasmah"
+    ],
+    "qs:gn_country":"KW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":285856,
+    "qs:gn_pop":17585,
+    "qs:name":"Ad Dasmah",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"6",
+    "qs:qs_id":994147,
+    "qs:woe_adm0":23424870,
+    "qs:woe_id":1940523,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285856,
+        "gp:id":1940523,
+        "qs:id":994147
+    },
+    "wof:country":"KW",
+    "wof:created":1459009407,
+    "wof:geomhash":"a0de9c587982fa5450631719aff3c6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":-1,
+            "neighbourhood_id":421184309,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":421184309,
+    "wof:lastmodified":1531858529,
+    "wof:name":"Ad Dasmah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":17585,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.00139,
+    29.365,
+    48.00139,
+    29.365
+],
+  "geometry": {"coordinates":[48.00139,29.365],"type":"Point"}
+}

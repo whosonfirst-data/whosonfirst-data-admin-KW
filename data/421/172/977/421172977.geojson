@@ -1,0 +1,71 @@
+{
+  "id": 421172977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"48.008193,29.271425,48.008193,29.271425",
+    "geom:latitude":29.271425,
+    "geom:longitude":48.008193,
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"South Khaitan",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0627\u0644\u0641\u0631\u0648\u0627\u0646\u064a\u0629",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":281730,
+    "qs:woe_adm0":23424870,
+    "qs:woe_id":10644964,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":10644964,
+        "qs:id":281730
+    },
+    "wof:country":"KW",
+    "wof:created":1459008961,
+    "wof:geomhash":"4b5fb4630958935213c76345c7db3f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":421172977,
+            "region_id":85673389
+        }
+    ],
+    "wof:id":421172977,
+    "wof:lastmodified":1466635836,
+    "wof:name":"South Khaitan",
+    "wof:parent_id":85673389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.008193,
+    29.271425,
+    48.008193,
+    29.271425
+],
+  "geometry": {"coordinates":[48.008193,29.271425],"type":"Point"}
+}

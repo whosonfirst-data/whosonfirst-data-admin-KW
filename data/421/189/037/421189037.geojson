@@ -1,0 +1,99 @@
+{
+  "id": 421189037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.065959,29.282655,48.065959,29.282655",
+    "geom:latitude":29.282655,
+    "geom:longitude":48.065959,
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0636\u0627\u062d\u064a\u0629 \u0635\u0628\u0627\u062d \u0627\u0644\u0633\u0627\u0644\u0645"
+    ],
+    "name:dut_x_preferred":[
+        "Sabah Al-Salem"
+    ],
+    "name:eng_x_preferred":[
+        "Sabah Al-Salem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u0628\u0627\u062d \u0627\u0644\u0633\u0627\u0644\u0645"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0635\u0628\u0627\u062d \u0627\u0644\u0633\u0627\u0644\u0645"
+    ],
+    "name:per_x_preferred":[
+        "\u0635\u0628\u0627\u062d \u0627\u0644\u0633\u0627\u0644\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Sabah as-Salim"
+    ],
+    "name:swe_x_preferred":[
+        "\u015eab\u0101\u1e29 as S\u0101lim"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sabah As Salem",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0645\u0628\u0627\u0631\u0643 \u0627\u0644\u0643\u0628\u064a\u0631",
+    "qs:photos":13,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":330,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1109770,
+    "qs:woe_adm0":23424870,
+    "qs:woe_id":22724743,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724743,
+        "qs:id":1109770,
+        "wd:id":"Q3495478"
+    },
+    "wof:country":"KW",
+    "wof:created":1459009602,
+    "wof:geomhash":"46dc78ef61e922b93c93fc40f93d3a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":421189037,
+            "region_id":85673395
+        }
+    ],
+    "wof:id":421189037,
+    "wof:lastmodified":1527716266,
+    "wof:name":"Sabah As Salem",
+    "wof:parent_id":85673395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.065959,
+    29.282655,
+    48.065959,
+    29.282655
+],
+  "geometry": {"coordinates":[48.065959,29.282655],"type":"Point"}
+}

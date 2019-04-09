@@ -1,0 +1,86 @@
+{
+  "id": 421204369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"47.96333,29.34139,47.96333,29.34139",
+    "geom:latitude":29.34139,
+    "geom:longitude":47.96333,
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0641\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u064e\u064a\u0652\u0641\u064e\u0627\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Keefan"
+    ],
+    "qs:gn_country":"KW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":285590,
+    "qs:gn_pop":0,
+    "qs:name":"Kayfan",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1189755,
+    "qs:woe_adm0":23424870,
+    "qs:woe_id":1940606,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285590,
+        "gp:id":1940606,
+        "qs:id":1189755,
+        "wd:id":"Q12236750",
+        "wk:page":"Kaifan"
+    },
+    "wof:country":"KW",
+    "wof:created":1459010184,
+    "wof:geomhash":"3ae9311c5dd81f3077ed3a03c444b4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":-1,
+            "neighbourhood_id":421204369,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":421204369,
+    "wof:lastmodified":1531858847,
+    "wof:name":"Kayfan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.96333,
+    29.34139,
+    47.96333,
+    29.34139
+],
+  "geometry": {"coordinates":[47.96333,29.34139],"type":"Point"}
+}

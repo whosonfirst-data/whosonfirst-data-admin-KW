@@ -1,0 +1,115 @@
+{
+  "id": 85903031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3613829.121446,
+    "geom:bbox":"48.006689,29.367866,48.006689,29.367866",
+    "geom:latitude":29.367866,
+    "geom:longitude":48.006689,
+    "gn:latitude":29.37556,
+    "gn:longitude":48.0025,
+    "iso:country":"KW",
+    "lbl:latitude":29.367866,
+    "lbl:longitude":48.006689,
+    "mps:latitude":29.363223,
+    "mps:longitude":48.006853,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ara_x_colloquial":[
+        "Bunayd al Qaar",
+        "Bunayd al Qar"
+    ],
+    "name:ara_x_preferred":[
+        "Bunayd al Q\u00e5r"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064f\u0646\u064e\u064a\u0652\u062f \u0627\u064e\u0644\u0652\u0642\u064e\u0627\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Bunayd al Q\u0101r",
+        "Bunayd al Q\u00e5r"
+    ],
+    "qs:gn_adm0_cc":"KW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":285787,
+    "qs:gn_nam_loc":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, KW",
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Bunayd al Q\u0101r",
+    "qs:local_max":1268,
+    "qs:local_sum":5995,
+    "qs:localhoods":31,
+    "qs:name":"Bunayd al Q\u00e5r",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm2":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_local":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:photo_max":93,
+    "qs:photo_sum":260,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424870,
+    "qs:woe_adm1":20070169,
+    "qs:woe_adm2":55943085,
+    "qs:woe_lau":0,
+    "qs:woe_local":1940631,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387951,
+        "gp:id":1940595,
+        "qs:id":233042,
+        "qs_pg:id":233042
+    },
+    "wof:country":"KW",
+    "wof:geomhash":"3ec653ff09a0bfa93775812672b7aa56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":-1,
+            "neighbourhood_id":85903031,
+            "region_id":85673405
+        }
+    ],
+    "wof:id":85903031,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531935992,
+    "wof:name":"Bunayd al Q\u00e5r",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.006689,
+    29.367866,
+    48.006689,
+    29.367866
+],
+  "geometry": {"coordinates":[48.006689,29.367866],"type":"Point"}
+}

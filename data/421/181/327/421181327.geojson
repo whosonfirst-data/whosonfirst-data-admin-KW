@@ -1,0 +1,107 @@
+{
+  "id": 421181327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.924562,29.253972,47.924562,29.253972",
+    "geom:latitude":29.253972,
+    "geom:longitude":47.924562,
+    "iso:country":"KW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u064a\u0628 \u0627\u0644\u0634\u064a\u0648\u062e"
+    ],
+    "name:eng_x_preferred":[
+        "Jleeb Al-Shuyoukh"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0644\u06cc\u0628 \u0627\u0644\u0634\u06cc\u0648\u062e"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30a7\u30ea\u30fc\u30d6\u30fb\u30a2\u30eb\uff1d\u30b7\u30e5\u30e6\u30fc\u30af"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d2c\u0d4d\u0d2c\u0d3e\u0d38\u0d3f\u0d2f"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062c\u0644\u06cc\u0628 \u0627\u0644\u0634\u06cc\u0648\u062e"
+    ],
+    "name:per_x_preferred":[
+        "\u062c\u0644\u06cc\u0628 \u0627\u0644\u0634\u06cc\u0648\u062e"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017calib asz-Szujuch"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u043b\u0438\u0431 \u0410\u043b\u044c-\u0428\u0443\u044f\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0644\u06cc\u0628 \u0627\u0644\u0634\u06cc\u0648\u062e"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Jleeb al Shuyoukh",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0627\u0644\u0641\u0631\u0648\u0627\u0646\u064a\u0629",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":492730,
+    "qs:woe_adm0":23424870,
+    "qs:woe_id":1940602,
+    "src:geom":"quattroshapes",
+    "wd:latitude":29.266667,
+    "wd:longitude":47.933333,
+    "wd:wordcount":210,
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1940602,
+        "qs:id":492730,
+        "wd:id":"Q4119092"
+    },
+    "wof:country":"KW",
+    "wof:created":1459009292,
+    "wof:geomhash":"6bd9d01364e1532c5c8a8817bf256e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":421181327,
+            "region_id":85673389
+        }
+    ],
+    "wof:id":421181327,
+    "wof:lastmodified":1527716332,
+    "wof:name":"Jleeb al Shuyoukh",
+    "wof:parent_id":85673389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.924562,
+    29.253972,
+    47.924562,
+    29.253972
+],
+  "geometry": {"coordinates":[47.924562,29.253972],"type":"Point"}
+}
