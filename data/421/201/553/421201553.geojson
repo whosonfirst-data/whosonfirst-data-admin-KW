@@ -5,12 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.933349,29.343875,47.933349,29.343875",
     "geom:latitude":29.343875,
     "geom:longitude":47.933349,
     "iso:country":"KW",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Kuwait City"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -42,7 +50,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459010076,
-    "wof:geomhash":"7e197bd5cc77e17701978f526759f6d7",
+    "wof:geomhash":"a7087e8d2853fd74a7267d1ce9149db8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +60,8 @@
         }
     ],
     "wof:id":421201553,
-    "wof:lastmodified":1466635893,
-    "wof:name":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "wof:lastmodified":1554495751,
+    "wof:name":"Kuwait City",
     "wof:parent_id":85673383,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kw",
