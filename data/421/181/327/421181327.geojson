@@ -31,9 +31,6 @@
     "name:mzn_x_preferred":[
         "\u062c\u0644\u06cc\u0628 \u0627\u0644\u0634\u06cc\u0648\u062e"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u0644\u06cc\u0628 \u0627\u0644\u0634\u06cc\u0648\u062e"
-    ],
     "name:pol_x_preferred":[
         "D\u017calib asz-Szujuch"
     ],
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":421181327,
-    "wof:lastmodified":1527716332,
+    "wof:lastmodified":1561827106,
     "wof:name":"Jleeb al Shuyoukh",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",

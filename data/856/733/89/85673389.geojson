@@ -32,23 +32,20 @@
         "\u0645\u064f\u062d\u064e\u0627\u0641\u064e\u0638\u064e\u0629 \u0627\u064e\u0644\u0652\u0641\u064e\u0631\u0652\u0648\u064e\u0627\u0646\u0650\u064a\u064e\u0651\u0629",
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0641\u0631\u0648\u0627\u0646\u064a\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0537\u056c \u0556\u0561\u0580\u057e\u0561\u0576\u056b\u0575\u0561\u0570"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u09ab\u09be\u09b0\u09ac\u09be\u09a8\u09bf\u09af\u09bc\u09be\u09b9 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
     "name:bul_x_preferred":[
         "\u0424\u0430\u0440\u0443\u0430\u043d\u0438\u044f"
     ],
-    "name:chi_x_preferred":[
-        "\u8cbb\u723e\u74e6\u5c3c\u8036\u7701"
-    ],
     "name:dan_x_preferred":[
         "Al Farwaniyah Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Farwaniya"
+    "name:deu_x_preferred":[
+        "Gouvernement Al Farwaniya"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u03a6\u03b1\u03c1\u03b2\u03b1\u03bd\u03b9\u03b3\u03b9\u03ac \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Al Farwaniyah"
@@ -60,17 +57,14 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u0641\u0631\u0648\u0627\u0646\u06cc\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0641\u0631\u0648\u0627\u0646\u06cc\u0647"
+    ],
     "name:fin_x_preferred":[
         "Al Farwaniyahn kuvernoraatti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Al Farwaniyah"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernement Al Farwaniya"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb \u03a6\u03b1\u03c1\u03b2\u03b1\u03bd\u03b9\u03b3\u03b9\u03ac \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0aab\u0ab0\u0ab5\u0abe\u0aa8\u0abf\u0aaf\u0abe\u0ab9 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -80,6 +74,9 @@
     ],
     "name:hun_x_preferred":[
         "Farv\u00e1nijja korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c \u0556\u0561\u0580\u057e\u0561\u0576\u056b\u0575\u0561\u0570"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Al-Farwaniyah"
@@ -105,7 +102,7 @@
     "name:mar_x_preferred":[
         "\u0905\u0932 \u092b\u0930\u0935\u093f\u0928\u093f\u092f\u093e \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Al Farwaniyah Governorate"
     ],
     "name:mzn_x_preferred":[
@@ -116,9 +113,6 @@
     ],
     "name:nob_x_preferred":[
         "Al Farwaniyah"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0641\u0631\u0648\u0627\u0646\u06cc\u0647"
     ],
     "name:pol_x_preferred":[
         "Al-Farwanijja"
@@ -167,6 +161,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6cd5\u5c14\u74e6\u5c3c\u4e9a"
+    ],
+    "name:zho_x_variant":[
+        "\u8cbb\u723e\u74e6\u5c3c\u8036\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"KWT",
@@ -289,7 +286,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550399,
+    "wof:lastmodified":1561827106,
     "wof:name":"Al Farwaniyah",
     "wof:parent_id":85632401,
     "wof:placetype":"region",

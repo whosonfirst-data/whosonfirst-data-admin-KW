@@ -33,17 +33,11 @@
         "\u0645\u064f\u062d\u064e\u0627\u0641\u064e\u0638\u064e\u0629 \u0627\u0644\u062c\u064e\u0647\u0652\u0631\u064e\u0627\u0621",
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0647\u0631\u0627\u0621"
     ],
-    "name:arm_x_preferred":[
-        "\u0537\u056c \u054b\u0561\u0570\u0580\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u0414\u0436\u0430\u0445\u0440\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5091\u8d6b\u62c9\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Jahra"
+    "name:deu_x_preferred":[
+        "Gouvernement al-Dschahra"
     ],
     "name:eng_x_preferred":[
         "Al Jahra"
@@ -56,20 +50,20 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u062c\u0647\u0631\u0627\u0621"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062c\u0647\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
         "Al Jahra"
-    ],
-    "name:fre_x_preferred":[
-        "Al Jahra"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernement al-Dschahra"
     ],
     "name:hrv_x_preferred":[
         "Al Jahra"
     ],
     "name:hun_x_preferred":[
         "Dzsahr\u00e1 korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c \u054b\u0561\u0570\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Al-Jahra"
@@ -89,8 +83,8 @@
     "name:mzn_x_preferred":[
         "\u0627\u0644\u062c\u0647\u0631\u0627\u0621"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062c\u0647\u0631\u0627"
+    "name:nld_x_preferred":[
+        "Jahra"
     ],
     "name:pol_x_preferred":[
         "Al-D\u017cahra"
@@ -118,6 +112,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u06c1\u0631\u0627\u0621"
+    ],
+    "name:zho_x_preferred":[
+        "\u5091\u8d6b\u62c9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"KWT",
@@ -240,7 +237,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550400,
+    "wof:lastmodified":1561827106,
     "wof:name":"Al Jahrah",
     "wof:parent_id":85632401,
     "wof:placetype":"region",

@@ -19,10 +19,10 @@
     "name:eng_x_preferred":[
         "Salwa"
     ],
-    "name:mzn_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0633\u0644\u0648\u06cc"
     ],
-    "name:per_x_preferred":[
+    "name:mzn_x_preferred":[
         "\u0633\u0644\u0648\u06cc"
     ],
     "name:swe_x_preferred":[
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":421190385,
-    "wof:lastmodified":1527716393,
+    "wof:lastmodified":1561827107,
     "wof:name":"Salwa",
     "wof:parent_id":85673395,
     "wof:placetype":"locality",

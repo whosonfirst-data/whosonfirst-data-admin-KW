@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Salmiya"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0633\u0627\u0644\u0645\u06cc\u0647"
+    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30eb\u30df\u30a2"
     ],
@@ -32,9 +35,6 @@
         "\u0d38\u0d3e\u0d7d\u0d2e\u0d3f\u0d2f"
     ],
     "name:mzn_x_preferred":[
-        "\u0627\u0644\u0633\u0627\u0644\u0645\u06cc\u0647"
-    ],
-    "name:per_x_preferred":[
         "\u0627\u0644\u0633\u0627\u0644\u0645\u06cc\u0647"
     ],
     "name:pol_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":421190475,
-    "wof:lastmodified":1553816379,
+    "wof:lastmodified":1561827107,
     "wof:name":"Salmiya",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

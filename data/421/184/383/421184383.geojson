@@ -20,11 +20,11 @@
     "name:ara_x_variant":[
         "\u062d\u0648\u0644\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u74e6\u5229"
-    ],
     "name:eng_x_preferred":[
         "Hawalli"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0648\u0644\u06cc"
     ],
     "name:ind_x_preferred":[
         "Hawalli"
@@ -42,9 +42,6 @@
         "Havalis"
     ],
     "name:mzn_x_preferred":[
-        "\u062d\u0648\u0644\u06cc"
-    ],
-    "name:per_x_preferred":[
         "\u062d\u0648\u0644\u06cc"
     ],
     "name:pol_x_preferred":[
@@ -70,6 +67,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062d\u0648\u0644\u06cc\u060c \u06a9\u0648\u06cc\u062a"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u74e6\u5229"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kuwait",
@@ -209,7 +209,7 @@
         }
     ],
     "wof:id":421184383,
-    "wof:lastmodified":1553816374,
+    "wof:lastmodified":1561827107,
     "wof:name":"East Hawalli",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",
