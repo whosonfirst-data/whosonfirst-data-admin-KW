@@ -158,9 +158,6 @@
     "name:cym_x_variant":[
         "Coweit"
     ],
-    "name:cze_x_preferred":[
-        "Kuvajt"
-    ],
     "name:dan_x_preferred":[
         "Kuwait"
     ],
@@ -567,9 +564,6 @@
     "name:ron_x_preferred":[
         "Kuweit"
     ],
-    "name:rum_x_preferred":[
-        "Kuweit"
-    ],
     "name:run_x_preferred":[
         "Koweti"
     ],
@@ -755,9 +749,6 @@
     "name:zho_x_preferred":[
         "\u79d1\u5a01\u7279"
     ],
-    "name:zho_x_variant":[
-        "\u79d1\u5a01\u7279"
-    ],
     "name:zho_yue_x_preferred":[
         "\u79d1\u5a01\u7279"
     ],
@@ -909,7 +900,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1544059122,
+    "wof:lastmodified":1561827105,
     "wof:name":"Kuwait",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

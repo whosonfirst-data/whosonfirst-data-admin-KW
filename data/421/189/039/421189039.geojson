@@ -19,13 +19,13 @@
     "name:eng_x_preferred":[
         "Jabriya"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0628\u0631\u06cc\u0647"
+    ],
     "name:lit_x_preferred":[
         "D\u017eabrija"
     ],
     "name:mzn_x_preferred":[
-        "\u062c\u0627\u0628\u0631\u06cc\u0647"
-    ],
-    "name:per_x_preferred":[
         "\u062c\u0627\u0628\u0631\u06cc\u0647"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":421189039,
-    "wof:lastmodified":1527716266,
+    "wof:lastmodified":1561827106,
     "wof:name":"Jabriya",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

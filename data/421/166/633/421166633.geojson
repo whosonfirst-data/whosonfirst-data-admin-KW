@@ -16,10 +16,10 @@
     "name:ara_x_preferred":[
         "\u0642\u064f\u0631\u0652\u0637\u064f\u0628\u064e\u0629"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Qurtubah"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Qurtubah"
     ],
     "name:unk_x_variant":[
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":421166633,
-    "wof:lastmodified":1527716103,
+    "wof:lastmodified":1561827106,
     "wof:name":"Qurtubah",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",
