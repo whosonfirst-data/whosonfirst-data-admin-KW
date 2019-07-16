@@ -32,11 +32,17 @@
         "\u0645\u064f\u062d\u064e\u0627\u0641\u064e\u0638\u064e\u0629 \u0627\u064e\u0644\u0652\u0641\u064e\u0631\u0652\u0648\u064e\u0627\u0646\u0650\u064a\u064e\u0651\u0629",
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0641\u0631\u0648\u0627\u0646\u064a\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0641\u0631\u0648\u0627\u0646\u06cc\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u09ab\u09be\u09b0\u09ac\u09be\u09a8\u09bf\u09af\u09bc\u09be\u09b9 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
     "name:bul_x_preferred":[
         "\u0424\u0430\u0440\u0443\u0430\u043d\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at al Farw\u0101n\u012byah"
     ],
     "name:dan_x_preferred":[
         "Al Farwaniyah Governorate"
@@ -93,11 +99,17 @@
     "name:kor_x_preferred":[
         "\uc54c\ud30c\ub974\uc640\ub2c8\uc57c"
     ],
+    "name:kor_x_variant":[
+        "\uc54c\ud30c\ub974\uc640\ub2c8\uc57c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Farv\u0101nijas muh\u0101faza"
     ],
     "name:lit_x_preferred":[
         "Al Farvanija"
+    ],
+    "name:lit_x_variant":[
+        "Al Farvanijos muchafaza"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0932 \u092b\u0930\u0935\u093f\u0928\u093f\u092f\u093e \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
@@ -111,6 +123,9 @@
     "name:nld_x_preferred":[
         "Farwaniya"
     ],
+    "name:nno_x_preferred":[
+        "Farwaniya guvernement"
+    ],
     "name:nob_x_preferred":[
         "Al Farwaniyah"
     ],
@@ -123,6 +138,9 @@
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c-\u0424\u0430\u0440\u0432\u0430\u043d\u0438\u044f"
     ],
+    "name:rus_x_variant":[
+        "\u0424\u0430\u0440\u0432\u0430\u043d\u0438\u044f"
+    ],
     "name:sco_x_preferred":[
         "Al Farwaniyah Govrenorate"
     ],
@@ -131,6 +149,9 @@
     ],
     "name:spa_x_preferred":[
         "Farwaniya"
+    ],
+    "name:spa_x_variant":[
+        "Al Farwaniyah"
     ],
     "name:swe_x_preferred":[
         "Al Farwaniyah"
@@ -286,7 +307,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827106,
+    "wof:lastmodified":1563236668,
     "wof:name":"Al Farwaniyah",
     "wof:parent_id":85632401,
     "wof:placetype":"region",

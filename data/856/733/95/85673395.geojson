@@ -28,11 +28,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0628\u0627\u0631\u0643 \u0627\u0644\u0643\u0628\u064a\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0628\u0627\u0631\u0643 \u0627\u0644\u0643\u0628\u064a\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Mubarak Al-Kabeer"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09ac\u09be\u09b0\u0995 \u0986\u09b2-\u0995\u09be\u09ac\u09bf\u09b0 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0443\u0431\u0430\u0440\u0430\u043a \u0430\u043b-\u041a\u0430\u0431\u0438\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at Mub\u0101rak al Kab\u012br"
     ],
     "name:dan_x_preferred":[
         "Mubarak Al-Kabeer Governorate"
@@ -90,6 +99,9 @@
     "name:kor_x_preferred":[
         "\ubb34\ubc14\ub77c\ud06c\uc54c\uce74\ube44\ub974 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubb34\ubc14\ub77c\ud06c\uc54c\uce74\ube44\ub974\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Mubar\u0101k el Keb\u012bras muh\u0101faza"
     ],
@@ -108,6 +120,9 @@
     "name:nld_x_preferred":[
         "Mubarak Al-Kabier"
     ],
+    "name:nno_x_preferred":[
+        "Mubarak Al-Kabeer guvernement"
+    ],
     "name:nob_x_preferred":[
         "Mubarak Al-Kabeer"
     ],
@@ -119,6 +134,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0431\u0430\u0440\u0430\u043a \u0430\u043b\u044c-\u041a\u0430\u0431\u0438\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0443\u0431\u0430\u0440\u0430\u043a-\u044d\u043b\u044c-\u041a\u0430\u0431\u0438\u0440"
     ],
     "name:sco_x_preferred":[
         "Mubarak Al-Kabeer Govrenorate"
@@ -278,7 +296,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827106,
+    "wof:lastmodified":1563236667,
     "wof:name":"Mubarak Al-Kabeer",
     "wof:parent_id":85632401,
     "wof:placetype":"region",

@@ -33,8 +33,20 @@
         "\u0645\u064f\u062d\u064e\u0627\u0641\u064e\u0638\u064e\u0629 \u0627\u0644\u062c\u064e\u0647\u0652\u0631\u064e\u0627\u0621",
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0647\u0631\u0627\u0621"
     ],
+    "name:ast_x_preferred":[
+        "Al Jahra"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0647\u0631\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0436\u0430\u0445\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Governaci\u00f3 d'Al Jahra"
+    ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at al Jahr\u0101'"
     ],
     "name:deu_x_preferred":[
         "Gouvernement al-Dschahra"
@@ -71,20 +83,35 @@
     "name:ita_x_preferred":[
         "Jahrah"
     ],
+    "name:ita_x_variant":[
+        "Al-Jahra"
+    ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30cf\u30e9\u30fc"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b8\u30e3\u30cf\u30e9\u30fc\u770c"
     ],
     "name:kor_x_preferred":[
         "\uc54c\uc790\ub77c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc54c\uc790\ub77c\uc8fc"
+    ],
     "name:lit_x_preferred":[
         "Al D\u017eahra"
+    ],
+    "name:lit_x_variant":[
+        "Al D\u017eahros muchafaza"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0644\u062c\u0647\u0631\u0627\u0621"
     ],
     "name:nld_x_preferred":[
         "Jahra"
+    ],
+    "name:nno_x_preferred":[
+        "Jahra guvernement"
     ],
     "name:pol_x_preferred":[
         "Al-D\u017cahra"
@@ -95,8 +122,14 @@
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c-\u0414\u0436\u0430\u0445\u0440\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0414\u0436\u0430\u0445\u0440\u0430"
+    ],
     "name:sco_x_preferred":[
         "Al Jahra"
+    ],
+    "name:sco_x_variant":[
+        "Al Jahra Govrenorate"
     ],
     "name:spa_x_preferred":[
         "Yahra"
@@ -107,11 +140,17 @@
     "name:tur_x_preferred":[
         "El Cehre"
     ],
+    "name:tur_x_variant":[
+        "El Cehr\u00e2"
+    ],
     "name:unk_x_variant":[
         "Mu\u1e29\u0101faz\u0327at al Jahrah"
     ],
     "name:urd_x_preferred":[
         "\u062c\u06c1\u0631\u0627\u0621"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u062c\u06c1\u0631\u0627\u0621"
     ],
     "name:zho_x_preferred":[
         "\u5091\u8d6b\u62c9\u7701"
@@ -237,7 +276,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827106,
+    "wof:lastmodified":1563236668,
     "wof:name":"Al Jahrah",
     "wof:parent_id":85632401,
     "wof:placetype":"region",

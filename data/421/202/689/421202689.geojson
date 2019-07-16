@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Bay\u0101n"
+    ],
     "name:eng_x_preferred":[
         "Bayan"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421202689,
-    "wof:lastmodified":1514469392,
+    "wof:lastmodified":1563236680,
     "wof:name":"Bayan",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0645\u064a\u062b\u064a\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Ar Rumayth\u012byah"
+    ],
     "name:eng_x_preferred":[
         "Rumaithiya"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0644\u0631\u0645\u06cc\u062b\u06cc\u0647"
+    ],
+    "name:spa_x_preferred":[
+        "Rumaithiya"
     ],
     "name:swe_x_preferred":[
         "Ar Rumayth\u012byah"
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":421190737,
-    "wof:lastmodified":1561827107,
+    "wof:lastmodified":1563236693,
     "wof:name":"Rumaithiya",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

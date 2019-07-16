@@ -19,11 +19,29 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0632\u0628\u064a\u0631"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09af-\u09af\u09c1\u09ac\u09be\u09af\u09bc\u09c7\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Az Zubayr"
+    ],
+    "name:dan_x_preferred":[
+        "Az Zubayr"
+    ],
     "name:deu_x_preferred":[
         "Zubair"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b6 \u0396\u03bf\u03c5\u03bc\u03c0\u03ad\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Al Zubair"
+    ],
+    "name:eng_x_variant":[
+        "Az Zubayr"
+    ],
+    "name:epo_x_preferred":[
+        "Zubajr"
     ],
     "name:est_x_preferred":[
         "Az-Zubayr"
@@ -31,8 +49,32 @@
     "name:fas_x_preferred":[
         "\u0632\u0628\u06cc\u0631\u060c \u0639\u0631\u0627\u0642"
     ],
+    "name:fas_x_variant":[
+        "\u0632\u0628\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Az Zubayr"
+    ],
+    "name:fra_x_preferred":[
+        "Az Zubayr"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0a9d \u0a9d\u0ac1\u0aac\u0abe\u0aaf\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u091c\u093c \u091c\u093c\u0941\u092c\u0948\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Az Zubayr"
+    ],
+    "name:ita_x_preferred":[
+        "Az-Zubayr"
+    ],
     "name:jpn_x_preferred":[
         "\u30ba\u30d0\u30a4\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0c9c\u0ccd \u0c9c\u0cc1\u0cac\u0cbe\u0caf\u0cb0\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10da-\u10d6\u10e3\u10d1\u10d0\u10d8\u10e0\u10d8"
@@ -40,8 +82,32 @@
     "name:kaz_x_preferred":[
         "\u042d\u0437-\u0417\u0443\u0431\u0430\u0439\u0440"
     ],
+    "name:kor_x_preferred":[
+        "\uc8fc\ubc14\uc774\ub974"
+    ],
+    "name:lav_x_preferred":[
+        "Az Zubaira"
+    ],
+    "name:lit_x_preferred":[
+        "Az Zubairas"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u091d \u091d\u0941\u092c\u0948\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Az Zubayr"
+    ],
     "name:mzn_x_preferred":[
         "\u0632\u0628\u06cc\u0631\u060c \u0639\u0631\u0627\u0642"
+    ],
+    "name:mzn_x_variant":[
+        "\u0632\u0628\u06cc\u0631"
+    ],
+    "name:nld_x_preferred":[
+        "Az Zubayr"
+    ],
+    "name:nob_x_preferred":[
+        "Az Zubayr"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0644\u0632\u0628\u064a\u0631"
@@ -52,14 +118,38 @@
     "name:rus_x_preferred":[
         "\u042d\u0437-\u0417\u0443\u0431\u0430\u0439\u0440"
     ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dc3\u0dca \u0dc3\u0dd4\u0db6\u0dba\u0dd2\u0dbb\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Az Zubayr"
+    ],
+    "name:swe_x_preferred":[
+        "Az Zubayr"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb8\u0bcd  \u0bb8\u0bc1\u0baa\u0bc8\u0baf\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c1c\u0c4d \u0c1c\u0c41\u0c2c\u0c3e\u0c2f\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2d\u0e0b \u0e0b\u0e39\u0e41\u0e1a\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Ez-Z\u00fcbeyr"
     ],
+    "name:tur_x_variant":[
+        "Ez-Zubeyr"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0437-\u0417\u0443\u0431\u0430\u0439\u0440"
+    ],
     "name:urd_x_preferred":[
         "\u0632\u0628\u06cc\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Az Zubayr"
     ],
     "name:zho_x_preferred":[
         "\u7956\u62dc\u723e"
@@ -109,7 +199,7 @@
         }
     ],
     "wof:id":421203291,
-    "wof:lastmodified":1554495751,
+    "wof:lastmodified":1563236679,
     "wof:name":"Al Zubair",
     "wof:parent_id":85673399,
     "wof:placetype":"county",
