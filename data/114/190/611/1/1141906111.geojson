@@ -17,8 +17,14 @@
     "name:ara_x_preferred":[
         "\u062d\u0648\u0644\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "\u1e28awall\u012b"
+    ],
     "name:eng_x_preferred":[
         "Hawalli"
+    ],
+    "name:epo_x_preferred":[
+        "Havali"
     ],
     "name:fas_x_preferred":[
         "\u062d\u0648\u0644\u06cc"
@@ -61,6 +67,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062d\u0648\u0644\u06cc\u060c \u06a9\u0648\u06cc\u062a"
+    ],
+    "name:urd_x_variant":[
+        "\u062d\u0648\u0644\u06cc"
     ],
     "name:zho_x_preferred":[
         "\u54c8\u74e6\u5229"
@@ -182,7 +191,7 @@
         }
     ],
     "wof:id":1141906111,
-    "wof:lastmodified":1561827107,
+    "wof:lastmodified":1563236719,
     "wof:name":"Hawalli",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

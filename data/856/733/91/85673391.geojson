@@ -32,6 +32,12 @@
         "\u0645\u064f\u062d\u064e\u0627\u0641\u064e\u0638\u064e\u0629 \u0627\u064e\u0644\u0623\u064e\u062d\u0652\u0645\u064e\u062f\u0650\u064a",
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0623\u062d\u0645\u062f\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Al Ahmadi"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u062d\u0645\u062f\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u0986\u09b9\u09ae\u09be\u09a6\u09bf \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:cat_x_preferred":[
         "Governaci\u00f3 d'Ahmad\u00ed"
+    ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at al A\u1e29mad\u012b"
     ],
     "name:dan_x_preferred":[
         "Al Ahmadi Governorate"
@@ -97,6 +106,9 @@
     "name:kor_x_preferred":[
         "\uc54c\uc544\ub9c8\ub514"
     ],
+    "name:kor_x_variant":[
+        "\uc54c\uc544\ub9c8\ub514\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Ahmedi muh\u0101faza"
     ],
@@ -112,11 +124,17 @@
     "name:nld_x_preferred":[
         "Ahmadi"
     ],
+    "name:nno_x_preferred":[
+        "Ahmadi guvernement"
+    ],
     "name:nob_x_preferred":[
         "Al Ahmadi Governorate"
     ],
     "name:pol_x_preferred":[
         "Ahmadi"
+    ],
+    "name:pol_x_variant":[
+        "Al-Ahmadi"
     ],
     "name:por_x_preferred":[
         "Al Ahmadi"
@@ -282,7 +300,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827106,
+    "wof:lastmodified":1563236668,
     "wof:name":"Al Ahmadi",
     "wof:parent_id":85632401,
     "wof:placetype":"region",

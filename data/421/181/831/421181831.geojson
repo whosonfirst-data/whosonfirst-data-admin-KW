@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.005876,29.31425,48.005876,29.31425",
     "geom:latitude":29.31425,
     "geom:longitude":48.005876,
@@ -12,7 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0631\u0627"
+    ],
     "name:deu_x_preferred":[
+        "Surra"
+    ],
+    "name:eng_x_preferred":[
         "Surra"
     ],
     "name:fas_x_preferred":[
@@ -74,7 +81,7 @@
         }
     ],
     "wof:id":421181831,
-    "wof:lastmodified":1531858477,
+    "wof:lastmodified":1563236690,
     "wof:name":"Surra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
