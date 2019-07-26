@@ -16,8 +16,62 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0647\u0631\u0627\u0621"
     ],
+    "name:cat_x_preferred":[
+        "Al Jahra"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Jahr\u0101'"
+    ],
     "name:eng_x_preferred":[
         "Al Jahra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062c\u0647\u0631\u0627\u0621"
+    ],
+    "name:fra_x_preferred":[
+        "Al Jahra"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05d2'\u05d4\u05e8\u05d0\u05d0"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Jahra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30cf\u30e9\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c\uc790\ub77c"
+    ],
+    "name:lit_x_preferred":[
+        "Al D\u017eahra"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0644\u062c\u0647\u0631\u0627\u0621"
+    ],
+    "name:nno_x_preferred":[
+        "Al Jahra"
+    ],
+    "name:pol_x_preferred":[
+        "Al-D\u017cahra"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0414\u0436\u0430\u0445\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Al Jahra"
+    ],
+    "name:spa_x_preferred":[
+        "Yahra"
+    ],
+    "name:swe_x_preferred":[
+        "Al Jahr\u0101'"
+    ],
+    "name:tur_x_preferred":[
+        "El Cehre"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06c1\u0631\u0627\u0621"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -60,7 +114,7 @@
         }
     ],
     "wof:id":421170031,
-    "wof:lastmodified":1554495749,
+    "wof:lastmodified":1564131088,
     "wof:name":"Al Jahra",
     "wof:parent_id":85673399,
     "wof:placetype":"county",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0627\u064e\u0644\u0652\u0628\u064e\u062d\u0652\u0631\u064e\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Bahra"
+    ],
+    "name:deu_x_preferred":[
+        "Bahra"
+    ],
+    "name:swe_x_preferred":[
+        "Bahra"
+    ],
     "name:und_x_variant":[
         "Al-Bahra",
         "Ba\u1e29rah",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226052469,
-    "wof:lastmodified":1537659332,
+    "wof:lastmodified":1564131094,
     "wof:name":"Bahra",
     "wof:parent_id":85673399,
     "wof:placetype":"locality",
