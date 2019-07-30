@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062f\u064e\u0646\u0652\u062a"
     ],
+    "name:deu_x_preferred":[
+        "Dant"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1242696201,
-    "wof:lastmodified":1537659330,
+    "wof:lastmodified":1564131092,
     "wof:name":"Dant",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",

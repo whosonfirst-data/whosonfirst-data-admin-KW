@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0648\u064e\u0627\u0631\u064e\u0629"
     ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0930\u093e\u0939"
+    ],
+    "name:snd_x_preferred":[
+        "\u0648\u0627\u0631\u06be"
+    ],
     "name:und_x_variant":[
         "W\u0101rah"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1344071825,
-    "wof:lastmodified":1537659334,
+    "wof:lastmodified":1564131051,
     "wof:name":"Warah",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",
