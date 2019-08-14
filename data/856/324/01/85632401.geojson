@@ -15,6 +15,9 @@
     "itu:country_code":[
         "965"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KW"
+    ],
     "lbl:latitude":29.422226,
     "lbl:longitude":47.330015,
     "mps:latitude":29.422226,
@@ -981,16 +984,13 @@
         }
     ],
     "wof:id":85632401,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563236666,
+    "wof:lastmodified":1565726026,
     "wof:name":"Kuwait",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
