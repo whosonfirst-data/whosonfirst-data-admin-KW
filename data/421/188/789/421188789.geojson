@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.970771,29.2955215,47.970771,29.2955215",
     "geom:latitude":29.295521,
     "geom:longitude":47.970771,
     "iso:country":"KW",
+    "lbl:bbox":"47.950771,29.2755215,47.990771,29.3155215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1940518,
-        "qs:id":31160
+        "qs_pg:id":31160
     },
     "wof:country":"KW",
     "wof:created":1459009578,
-    "wof:geomhash":"2c8fe7888b983fc9112cda819b11f508",
+    "wof:geomhash":"573f149d857fccd0e3b03fd4884c74ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421188789,
-    "wof:lastmodified":1466635868,
+    "wof:lastmodified":1566591067,
     "wof:name":"Abrak Khetan",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",

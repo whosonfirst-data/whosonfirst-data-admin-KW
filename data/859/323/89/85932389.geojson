@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1816976.671691,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.03162,29.352898,48.03162,29.352898",
     "geom:latitude":29.352898,
     "geom:longitude":48.03162,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"48.02662,29.347898,48.03662,29.357898",
     "lbl:latitude":29.352898,
     "lbl:longitude":48.03162,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.354249,
     "mps:longitude":48.03069,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Sha'ab-block 8"
-    ],
-    "name:unk_x_variant":[
         "Sha'ab-block 8"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -64,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943218,
-        "qs:id":230860,
         "qs_pg:id":230860
     },
     "wof:country":"KW",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939498,
+    "wof:lastmodified":1566591054,
     "wof:name":"Sha'ab-block 8",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

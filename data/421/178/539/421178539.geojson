@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.731132,29.338937,47.731132,29.338937",
     "geom:latitude":29.338937,
     "geom:longitude":47.731132,
     "iso:country":"KW",
+    "lbl:bbox":"47.711132,29.318937,47.751132,29.358937",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943604,
-        "qs:id":128151
+        "qs_pg:id":128151
     },
     "wof:country":"KW",
     "wof:created":1459009185,
-    "wof:geomhash":"372552154992852506b0e46d0ced9937",
+    "wof:geomhash":"ee7e691e79c47bb356701ab5481841af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421178539,
-    "wof:lastmodified":1466635847,
+    "wof:lastmodified":1566591074,
     "wof:name":"South Jahra",
     "wof:parent_id":85673399,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4082706.190133,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.963531,29.371066,47.963531,29.371066",
     "geom:latitude":29.371066,
     "geom:longitude":47.963531,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"47.958531,29.366066,47.968531,29.376066",
     "lbl:latitude":29.371066,
     "lbl:longitude":47.963531,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.380702,
     "mps:longitude":47.952527,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Qublah-block 3"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0642\u0628\u0644\u0629-\u0642\u0637\u0639\u0629 3"
     ],
     "qs:gn_adm0_cc":"KW",
     "qs:gn_id":0,
@@ -65,8 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -75,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943281,
-        "qs:id":233881,
         "qs_pg:id":233881
     },
     "wof:country":"KW",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939504,
+    "wof:lastmodified":1566591052,
     "wof:name":"\u0627\u0644\u0642\u0628\u0644\u0629-\u0642\u0637\u0639\u0629 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

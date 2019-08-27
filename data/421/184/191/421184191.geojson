@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.00167,29.36514,48.00167,29.36514",
     "geom:latitude":29.36514,
     "geom:longitude":48.00167,
     "iso:country":"KW",
+    "lbl:bbox":"47.99667,29.36014,48.00667,29.37014",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724735,
-        "qs:id":990011
+        "qs_pg:id":990011
     },
     "wof:country":"KW",
     "wof:created":1459009403,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421184191,
-    "wof:lastmodified":1531858520,
+    "wof:lastmodified":1566591072,
     "wof:name":"Dasma",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

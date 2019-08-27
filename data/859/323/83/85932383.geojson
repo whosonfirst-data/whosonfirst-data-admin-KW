@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1261559.389292,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.072283,29.29191,48.072283,29.29191",
     "geom:latitude":29.29191,
     "geom:longitude":48.072283,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"48.067283,29.28691,48.077283,29.29691",
     "lbl:latitude":29.29191,
     "lbl:longitude":48.072283,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.293469,
     "mps:longitude":48.072643,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Salwa-block 7"
-    ],
-    "name:unk_x_variant":[
         "Salwa-block 7"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -64,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943216,
-        "qs:id":214680,
         "qs_pg:id":214680
     },
     "wof:country":"KW",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939498,
+    "wof:lastmodified":1566591054,
     "wof:name":"Salwa-block 7",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

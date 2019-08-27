@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12023239.591686,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.129778,29.138561,48.129778,29.138561",
     "geom:latitude":29.138561,
     "geom:longitude":48.129778,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"48.124778,29.133561,48.134778,29.143561",
     "lbl:latitude":29.138561,
     "lbl:longitude":48.129778,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.13776,
     "mps:longitude":48.127806,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Abu Halifa-block 1"
-    ],
-    "name:unk_x_variant":[
         "Abu Halifa-block 1"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -64,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943297,
-        "qs:id":233883,
         "qs_pg:id":233883
     },
     "wof:country":"KW",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939507,
+    "wof:lastmodified":1566591053,
     "wof:name":"Abu Halifa-block 1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

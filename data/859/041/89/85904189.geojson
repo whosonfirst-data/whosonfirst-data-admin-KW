@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5911220.814515,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.002183,29.389273,48.002183,29.389273",
     "geom:latitude":29.389273,
     "geom:longitude":48.002183,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"47.997183,29.384273,48.007183,29.394273",
     "lbl:latitude":29.389273,
     "lbl:longitude":48.002183,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.393131,
     "mps:longitude":48.006955,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "Dasman"
-    ],
-    "name:unk_x_variant":[
         "Dasman"
     ],
     "qs:gn_adm0_cc":"KW",
@@ -58,8 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401
@@ -67,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":10644971,
-        "qs:id":1119164,
         "qs_pg:id":1119164
     },
     "wof:country":"KW",
@@ -85,7 +82,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936200,
+    "wof:lastmodified":1566591051,
     "wof:name":"Dasman",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

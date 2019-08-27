@@ -11,8 +11,10 @@
     "geom:longitude":47.877502,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"47.872502,29.313732,47.882502,29.323732",
     "lbl:latitude":29.318732,
     "lbl:longitude":47.877502,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.318874,
     "mps:longitude":47.884115,
     "mz:hierarchy_label":0,
@@ -300,9 +302,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0430\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "Granada"
-    ],
     "name:urd_x_preferred":[
         "\u063a\u0631\u0646\u0627\u0637\u06c1"
     ],
@@ -352,7 +351,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -361,7 +360,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724749,
-        "qs:id":508052,
         "qs_pg:id":508052
     },
     "wof:country":"KW",
@@ -379,7 +377,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1564131063,
+    "wof:lastmodified":1566591057,
     "wof:name":"Granada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

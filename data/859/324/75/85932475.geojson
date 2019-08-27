@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6294076.910654,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.024409,29.272578,48.024409,29.272578",
     "geom:latitude":29.272578,
     "geom:longitude":48.024409,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"48.019409,29.267578,48.029409,29.277578",
     "lbl:latitude":29.272578,
     "lbl:longitude":48.024409,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.276851,
     "mps:longitude":48.020634,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Hateen-block 3"
-    ],
-    "name:unk_x_variant":[
         "Hateen-block 3"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -64,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943341,
-        "qs:id":973303,
         "qs_pg:id":973303
     },
     "wof:country":"KW",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939511,
+    "wof:lastmodified":1566591052,
     "wof:name":"Hateen-block 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

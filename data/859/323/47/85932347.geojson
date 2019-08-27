@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":366865.237674,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.985535,29.365421,47.985535,29.365421",
     "geom:latitude":29.365421,
     "geom:longitude":47.985535,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"47.980535,29.360421,47.990535,29.370421",
     "lbl:latitude":29.365421,
     "lbl:longitude":47.985535,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.36542,
     "mps:longitude":47.986381,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Mirqab-block 6"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0645\u0631\u0642\u0627\u0628-\u0642\u0637\u0639\u0629 6"
     ],
     "qs:gn_adm0_cc":"KW",
     "qs:gn_id":0,
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -74,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943140,
-        "qs:id":888769,
         "qs_pg:id":888769
     },
     "wof:country":"KW",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939492,
+    "wof:lastmodified":1566591055,
     "wof:name":"\u0627\u0644\u0645\u0631\u0642\u0627\u0628-\u0642\u0637\u0639\u0629 6",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

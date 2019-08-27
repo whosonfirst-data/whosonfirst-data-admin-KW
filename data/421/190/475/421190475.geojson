@@ -10,8 +10,12 @@
     "geom:latitude":29.341462,
     "geom:longitude":48.065528,
     "iso:country":"KW",
+    "lbl:bbox":"48.045528,29.321462,48.085528,29.361462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0627\u0644\u0645\u064a\u0629"
@@ -83,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724741,
-        "qs:id":1119622,
+        "qs_pg:id":1119622,
         "wd:id":"Q3505782"
     },
     "wof:country":"KW",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421190475,
-    "wof:lastmodified":1563236696,
+    "wof:lastmodified":1566591069,
     "wof:name":"Salmiya",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

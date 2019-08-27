@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1751194.384986,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.004503,29.378729,48.004503,29.378729",
     "geom:latitude":29.378729,
     "geom:longitude":48.004503,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"47.999503,29.373729,48.009503,29.383729",
     "lbl:latitude":29.378729,
     "lbl:longitude":48.004503,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.378682,
     "mps:longitude":48.004931,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:eng_x_variant":[
         "Bneid Al Qar",
         "Beneid Al Gar"
-    ],
-    "name:unk_x_variant":[
-        "\u0628\u0646\u064a\u062f \u0627\u0644\u0642\u0627\u0631"
     ],
     "qs:gn_adm0_cc":"KW",
     "qs:gn_id":0,
@@ -66,7 +65,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401
@@ -74,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724734,
-        "qs:id":43493,
         "qs_pg:id":43493
     },
     "wof:country":"KW",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936534,
+    "wof:lastmodified":1566591057,
     "wof:name":"\u0628\u0646\u064a\u062f \u0627\u0644\u0642\u0627\u0631",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,11 @@
     "geom:latitude":29.34139,
     "geom:longitude":47.96333,
     "iso:country":"KW",
+    "lbl:bbox":"47.95833,29.33639,47.96833,29.34639",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u064a\u0641\u0627\u0646"
@@ -31,7 +34,7 @@
     "name:nno_x_preferred":[
         "Kaifan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Keefan"
     ],
     "qs:gn_country":"KW",
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":285590,
         "gp:id":1940606,
-        "qs:id":1189755,
+        "qs_pg:id":1189755,
         "wd:id":"Q12236750",
         "wk:page":"Kaifan"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421204369,
-    "wof:lastmodified":1563236676,
+    "wof:lastmodified":1566591063,
     "wof:name":"Kayfan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

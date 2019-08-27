@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2468877.205557,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.088805,29.266371,48.088805,29.266371",
     "geom:latitude":29.266371,
     "geom:longitude":48.088805,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"48.083805,29.261371,48.093805,29.271371",
     "lbl:latitude":29.266371,
     "lbl:longitude":48.088805,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.267233,
     "mps:longitude":48.088111,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Messila-block 41"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0645\u0633\u064a\u0644\u0629-\u0642\u0637\u0639\u0629 41"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -71,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943444,
-        "qs:id":986750,
         "qs_pg:id":986750
     },
     "wof:country":"KW",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939518,
+    "wof:lastmodified":1566591057,
     "wof:name":"\u0627\u0644\u0645\u0633\u064a\u0644\u0629-\u0642\u0637\u0639\u0629 41",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1908585.876609,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.984045,29.317182,47.984045,29.317182",
     "geom:latitude":29.317182,
     "geom:longitude":47.984045,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"47.979045,29.312182,47.989045,29.322182",
     "lbl:latitude":29.317182,
     "lbl:longitude":47.984045,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.320356,
     "mps:longitude":47.982925,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Qurtuba-block 4"
-    ],
-    "name:unk_x_variant":[
         "Qurtuba-block 4"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -64,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943362,
-        "qs:id":1316616,
         "qs_pg:id":1316616
     },
     "wof:country":"KW",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939512,
+    "wof:lastmodified":1566591053,
     "wof:name":"Qurtuba-block 4",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

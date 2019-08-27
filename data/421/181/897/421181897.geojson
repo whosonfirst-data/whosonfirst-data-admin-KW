@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.982358,29.36686,47.982358,29.36686",
     "geom:latitude":29.36686,
     "geom:longitude":47.982358,
     "iso:country":"KW",
+    "lbl:bbox":"47.977358,29.36186,47.987358,29.37186",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724724,
-        "qs:id":507997
+        "qs_pg:id":507997
     },
     "wof:country":"KW",
     "wof:created":1459009312,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421181897,
-    "wof:lastmodified":1531858482,
+    "wof:lastmodified":1566591068,
     "wof:name":"Umm Sedda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

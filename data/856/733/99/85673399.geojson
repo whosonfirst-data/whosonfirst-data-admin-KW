@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":29.585103,
     "lbl:longitude":47.385911,
+    "lbl:min_zoom":8.0,
     "mps:latitude":29.585103,
     "mps:longitude":47.385911,
     "mz:hierarchy_label":1,
@@ -146,7 +147,7 @@
     "name:tur_x_variant":[
         "El Cehr\u00e2"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mu\u1e29\u0101faz\u0327at al Jahrah"
     ],
     "name:urd_x_preferred":[
@@ -228,9 +229,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-04-20",
+    "src:population_date":"2005-04-20",
     "statoids:area_km":"12,750",
     "statoids:area_mi":"4,923",
     "statoids:as_of_date":"2005-04-20",
@@ -256,7 +257,7 @@
         "gp:id":20070165,
         "hasc:id":"KW.JA",
         "iso:id":"KW-JA",
-        "qs:id":1154063,
+        "qs_pg:id":1154063,
         "unlc:id":"KW-JA",
         "wd:id":"Q405701"
     },
@@ -276,11 +277,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565726026,
+    "wof:lastmodified":1566591059,
     "wof:name":"Al Jahrah",
     "wof:parent_id":85632401,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":269915,
     "wof:population_rank":10,

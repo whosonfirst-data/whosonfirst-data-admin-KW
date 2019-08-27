@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4607961.945888,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.938636,29.346772,47.938636,29.346772",
     "geom:latitude":29.346772,
     "geom:longitude":47.938636,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"47.933636,29.341772,47.943636,29.351772",
     "lbl:latitude":29.346772,
     "lbl:longitude":47.938636,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.347698,
     "mps:longitude":47.938198,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Mina`a Al-shuwakh"
-    ],
-    "name:unk_x_variant":[
         "Mina`a Al-shuwakh"
     ],
     "qs:gn_adm0_cc":"KW",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":10644966,
-        "qs:id":233606,
         "qs_pg:id":233606
     },
     "wof:country":"KW",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936199,
+    "wof:lastmodified":1566591051,
     "wof:name":"Mina`a Al-shuwakh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

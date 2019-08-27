@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":867641.01382,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.969055,29.327114,47.969055,29.327114",
     "geom:latitude":29.327114,
     "geom:longitude":47.969055,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"47.964055,29.322114,47.974055,29.332114",
     "lbl:latitude":29.327114,
     "lbl:longitude":47.969055,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.327965,
     "mps:longitude":47.969326,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Al \u2018Ad\u012bl\u012byah"
-    ],
-    "name:unk_x_variant":[
-        "Al Adiliyah"
     ],
     "qs:gn_adm0_cc":"KW",
     "qs:gn_id":0,
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -73,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1940531,
-        "qs:id":996419,
         "qs_pg:id":996419
     },
     "wof:country":"KW",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935990,
+    "wof:lastmodified":1566591051,
     "wof:name":"Al Adiliyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

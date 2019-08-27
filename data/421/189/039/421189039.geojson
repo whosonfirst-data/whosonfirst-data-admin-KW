@@ -10,8 +10,12 @@
     "geom:latitude":29.31845,
     "geom:longitude":48.030071,
     "iso:country":"KW",
+    "lbl:bbox":"48.010071,29.29845,48.050071,29.33845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0627\u0628\u0631\u064a\u0629"
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724747,
-        "qs:id":1109771,
+        "qs_pg:id":1109771,
         "wd:id":"Q4115240"
     },
     "wof:country":"KW",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421189039,
-    "wof:lastmodified":1563236686,
+    "wof:lastmodified":1566591066,
     "wof:name":"Jabriya",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

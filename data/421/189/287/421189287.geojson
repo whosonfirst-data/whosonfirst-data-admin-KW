@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.059193,29.2219935,48.059193,29.2219935",
     "geom:latitude":29.221993,
     "geom:longitude":48.059193,
     "iso:country":"KW",
+    "lbl:bbox":"48.039193,29.2019935,48.079193,29.2419935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u062f\u0627\u0646"
@@ -47,11 +53,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943381,
-        "qs:id":1111561
+        "qs_pg:id":1111561
     },
     "wof:country":"KW",
     "wof:created":1459009616,
-    "wof:geomhash":"b5601cee8c036c828d2cf431fddf1de4",
+    "wof:geomhash":"79a330508c8123281e4bc9b3b6db6da9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":421189287,
-    "wof:lastmodified":1467245660,
+    "wof:lastmodified":1566591066,
     "wof:name":"Al Adan",
     "wof:parent_id":85673395,
     "wof:placetype":"locality",

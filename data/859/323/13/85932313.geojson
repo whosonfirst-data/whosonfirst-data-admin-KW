@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4225916.040186,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.138361,29.091401,48.138361,29.091401",
     "geom:latitude":29.091401,
     "geom:longitude":48.138361,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"48.133361,29.086401,48.143361,29.096401",
     "lbl:latitude":29.091401,
     "lbl:longitude":48.138361,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.092912,
     "mps:longitude":48.141903,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Fahaheel-block 10"
-    ],
-    "name:unk_x_variant":[
         "Fahaheel-block 10"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -64,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943089,
-        "qs:id":18215,
         "qs_pg:id":18215
     },
     "wof:country":"KW",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939487,
+    "wof:lastmodified":1566591055,
     "wof:name":"Fahaheel-block 10",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

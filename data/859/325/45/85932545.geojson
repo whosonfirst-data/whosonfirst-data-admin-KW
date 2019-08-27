@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4447798.783059,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.956401,29.314702,47.956401,29.314702",
     "geom:latitude":29.314702,
     "geom:longitude":47.956401,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"47.951401,29.309702,47.961401,29.319702",
     "lbl:latitude":29.314702,
     "lbl:longitude":47.956401,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.31671,
     "mps:longitude":47.954426,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Yarmouk-block 4"
-    ],
-    "name:unk_x_variant":[
         "Yarmouk-block 4"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -64,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943508,
-        "qs:id":1295859,
         "qs_pg:id":1295859
     },
     "wof:country":"KW",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939521,
+    "wof:lastmodified":1566591055,
     "wof:name":"Yarmouk-block 4",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

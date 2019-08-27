@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5731825.130145,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.085632,29.197192,48.085632,29.197192",
     "geom:latitude":29.197192,
     "geom:longitude":48.085632,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"48.080632,29.192192,48.090632,29.202192",
     "lbl:latitude":29.197192,
     "lbl:longitude":48.085632,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.193134,
     "mps:longitude":48.086008,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Mubarak Al Kabeer-block 1"
-    ],
-    "name:unk_x_variant":[
         "Mubarak Al Kabeer-block 1"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -64,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943262,
-        "qs:id":961503,
         "qs_pg:id":961503
     },
     "wof:country":"KW",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939501,
+    "wof:lastmodified":1566591052,
     "wof:name":"Mubarak Al Kabeer-block 1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

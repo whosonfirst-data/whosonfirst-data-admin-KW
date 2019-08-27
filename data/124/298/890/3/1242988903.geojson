@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuwait",
     "iso:country":"KW",
+    "lbl:bbox":"47.79194,29.29444,47.83194,29.33444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u064e\u0644\u062f\u064e\u0651\u0648\u0652\u062d\u064e\u0629"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242988903,
-    "wof:lastmodified":1537659335,
+    "wof:lastmodified":1566591077,
     "wof:name":"Ad Dawhah",
     "wof:parent_id":85673399,
     "wof:placetype":"locality",

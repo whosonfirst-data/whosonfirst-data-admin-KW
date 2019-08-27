@@ -11,8 +11,10 @@
     "geom:longitude":48.019822,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"48.014822,29.33009,48.024822,29.34009",
     "lbl:latitude":29.33509,
     "lbl:longitude":48.019822,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.3368,
     "mps:longitude":48.021045,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     ],
     "name:mzn_x_preferred":[
         "\u062c\u0627\u0628\u0631\u06cc\u0647"
-    ],
-    "name:unk_x_variant":[
-        "Jabriya"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u0628\u0631\u06cc\u06c1\u060c \u06a9\u0648\u06cc\u062a"
@@ -72,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -81,7 +80,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724739,
-        "qs:id":233684,
         "qs_pg:id":233684
     },
     "wof:country":"KW",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1564131061,
+    "wof:lastmodified":1566591057,
     "wof:name":"Jabriya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
