@@ -10,10 +10,14 @@
     "geom:latitude":29.337472,
     "geom:longitude":47.658062,
     "iso:country":"KW",
+    "lbl:bbox":"47.6380622953,29.3174715363,47.6780622953,29.3574715363",
     "lbl:latitude":29.337472,
     "lbl:longitude":47.658062,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0647\u0631\u0627\u0621"
     ],
@@ -263,7 +267,7 @@
         }
     ],
     "wof:id":1141906441,
-    "wof:lastmodified":1563236718,
+    "wof:lastmodified":1566591078,
     "wof:name":"Al Jahra",
     "wof:parent_id":85673399,
     "wof:placetype":"locality",

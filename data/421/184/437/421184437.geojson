@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.386993,28.624911,48.386993,28.624911",
     "geom:latitude":28.624911,
     "geom:longitude":48.386993,
     "iso:country":"KW",
+    "lbl:bbox":"48.366993,28.604911,48.406993,28.644911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1940549,
-        "qs:id":996421
+        "qs_pg:id":996421
     },
     "wof:country":"KW",
     "wof:created":1459009410,
-    "wof:geomhash":"f59068a9a0be73babb63ade84c6b3080",
+    "wof:geomhash":"5efbfc56a6425ddcae5731cf93e983a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421184437,
-    "wof:lastmodified":1466635859,
+    "wof:lastmodified":1566591071,
     "wof:name":"\u062e\u064a\u0631\u0627\u0646",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.008193,29.271425,48.008193,29.271425",
     "geom:latitude":29.271425,
     "geom:longitude":48.008193,
     "iso:country":"KW",
+    "lbl:bbox":"47.988193,29.251425,48.028193,29.291425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":10644964,
-        "qs:id":281730
+        "qs_pg:id":281730
     },
     "wof:country":"KW",
     "wof:created":1459008961,
-    "wof:geomhash":"4b5fb4630958935213c76345c7db3f3d",
+    "wof:geomhash":"2706aaf2331073ef9f350cae5f470c83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421172977,
-    "wof:lastmodified":1466635836,
+    "wof:lastmodified":1566591067,
     "wof:name":"South Khaitan",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",

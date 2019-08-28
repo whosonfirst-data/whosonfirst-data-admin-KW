@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7384687.96803,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.12212,29.164629,48.12212,29.164629",
     "geom:latitude":29.164629,
     "geom:longitude":48.12212,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"48.11712,29.159629,48.12712,29.169629",
     "lbl:latitude":29.164629,
     "lbl:longitude":48.12212,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.162625,
     "mps:longitude":48.121731,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Fintas-block 3"
-    ],
-    "name:unk_x_variant":[
         "Fintas-block 3"
     ],
     "qs:gn_adm0_cc":"KW",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943461,
-        "qs:id":383476,
         "qs_pg:id":383476
     },
     "wof:country":"KW",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939520,
+    "wof:lastmodified":1566591056,
     "wof:name":"Fintas-block 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

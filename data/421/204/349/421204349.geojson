@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.137283,29.08378,48.137283,29.08378",
     "geom:latitude":29.08378,
     "geom:longitude":48.137283,
     "iso:country":"KW",
+    "lbl:bbox":"48.117283,29.06378,48.157283,29.10378",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1940542,
-        "qs:id":239331
+        "qs_pg:id":239331
     },
     "wof:country":"KW",
     "wof:created":1459010183,
-    "wof:geomhash":"940c094f4784298ffeb449e2c9fa38ad",
+    "wof:geomhash":"c5105b62da4663e0e597fd5bc4eb6584",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421204349,
-    "wof:lastmodified":1466635898,
+    "wof:lastmodified":1566591063,
     "wof:name":"Al Ifhaihil",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",

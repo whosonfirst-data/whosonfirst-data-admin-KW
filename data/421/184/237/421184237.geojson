@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.005447,29.312072,48.005447,29.312072",
     "geom:latitude":29.312072,
     "geom:longitude":48.005447,
     "iso:country":"KW",
+    "lbl:bbox":"48.000447,29.307072,48.010447,29.317072",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943156,
-        "qs:id":991490
+        "qs_pg:id":991490
     },
     "wof:country":"KW",
     "wof:created":1459009404,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421184237,
-    "wof:lastmodified":1531858524,
+    "wof:lastmodified":1566591073,
     "wof:name":"Surra-block 6",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.97718,29.320928,47.97718,29.320928",
     "geom:latitude":29.320928,
     "geom:longitude":47.97718,
     "iso:country":"KW",
+    "lbl:bbox":"47.95718,29.300928,47.99718,29.340928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":10644943,
-        "qs:id":995598
+        "qs_pg:id":995598
     },
     "wof:country":"KW",
     "wof:created":1459009408,
-    "wof:geomhash":"98a0bb4f06e4125e90f66a04336fd8cb",
+    "wof:geomhash":"5105b62221f5611ae68d49f2dc15e556",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421184361,
-    "wof:lastmodified":1466635858,
+    "wof:lastmodified":1566591072,
     "wof:name":"Sudeeq",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",

@@ -10,8 +10,11 @@
     "geom:latitude":29.31425,
     "geom:longitude":48.005876,
     "iso:country":"KW",
+    "lbl:bbox":"48.000876,29.30925,48.010876,29.31925",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u0627"
@@ -65,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":10644934,
-        "qs:id":506099,
+        "qs_pg:id":506099,
         "wd:id":"Q1526645"
     },
     "wof:country":"KW",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421181831,
-    "wof:lastmodified":1563236690,
+    "wof:lastmodified":1566591068,
     "wof:name":"Surra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

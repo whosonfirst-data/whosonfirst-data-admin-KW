@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.063189,29.304761,48.063189,29.304761",
     "geom:latitude":29.304761,
     "geom:longitude":48.063189,
     "iso:country":"KW",
+    "lbl:bbox":"48.058189,29.299761,48.068189,29.309761",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943178,
-        "qs:id":992624
+        "qs_pg:id":992624
     },
     "wof:country":"KW",
     "wof:created":1459009406,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421184275,
-    "wof:lastmodified":1531858528,
+    "wof:lastmodified":1566591071,
     "wof:name":"Salwa-block 1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

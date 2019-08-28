@@ -10,8 +10,12 @@
     "geom:latitude":29.253972,
     "geom:longitude":47.924562,
     "iso:country":"KW",
+    "lbl:bbox":"47.904562,29.233972,47.944562,29.273972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u0644\u064a\u0628 \u0627\u0644\u0634\u064a\u0648\u062e"
@@ -76,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1940602,
-        "qs:id":492730,
+        "qs_pg:id":492730,
         "wd:id":"Q4119092"
     },
     "wof:country":"KW",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421181327,
-    "wof:lastmodified":1563236691,
+    "wof:lastmodified":1566591068,
     "wof:name":"Jleeb al Shuyoukh",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",

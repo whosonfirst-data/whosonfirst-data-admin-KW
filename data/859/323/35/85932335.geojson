@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8420158.829008,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.965489,29.267275,47.965489,29.267275",
     "geom:latitude":29.267275,
     "geom:longitude":47.965489,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"47.960489,29.262275,47.970489,29.272275",
     "lbl:latitude":29.267275,
     "lbl:longitude":47.965489,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.267526,
     "mps:longitude":47.965766,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Farwaniyah-block 6"
-    ],
-    "name:unk_x_variant":[
         "Farwaniyah-block 6"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -64,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943127,
-        "qs:id":1188461,
         "qs_pg:id":1188461
     },
     "wof:country":"KW",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939490,
+    "wof:lastmodified":1566591053,
     "wof:name":"Farwaniyah-block 6",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

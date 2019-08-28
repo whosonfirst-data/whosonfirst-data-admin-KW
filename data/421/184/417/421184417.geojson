@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.0882725,29.319788,48.0882725,29.319788",
     "geom:latitude":29.319788,
     "geom:longitude":48.088273,
     "iso:country":"KW",
+    "lbl:bbox":"48.0832725,29.314788,48.0932725,29.324788",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943285,
-        "qs:id":996314
+        "qs_pg:id":996314
     },
     "wof:country":"KW",
     "wof:created":1459009410,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421184417,
-    "wof:lastmodified":1531858531,
+    "wof:lastmodified":1566591072,
     "wof:name":"Rumaithiya-block 6",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8229604.485029,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.093413,29.34891,48.093413,29.34891",
     "geom:latitude":29.34891,
     "geom:longitude":48.093413,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"48.088413,29.34391,48.098413,29.35391",
     "lbl:latitude":29.34891,
     "lbl:longitude":48.093413,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.353271,
     "mps:longitude":48.099971,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Salmiya-block 1"
-    ],
-    "name:unk_x_variant":[
         "Salmiya-block 1"
     ],
     "qs:gn_id":0,
@@ -55,8 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401
@@ -64,7 +62,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943102,
-        "qs:id":505413,
         "qs_pg:id":505413
     },
     "wof:country":"KW",
@@ -82,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939489,
+    "wof:lastmodified":1566591055,
     "wof:name":"Salmiya-block 1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

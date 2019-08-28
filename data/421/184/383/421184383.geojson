@@ -10,6 +10,9 @@
     "geom:latitude":29.340733,
     "geom:longitude":48.042526,
     "iso:country":"KW",
+    "lbl:bbox":"48.0225255,29.3207325,48.0625255,29.3607325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -68,7 +71,7 @@
     "name:tur_x_preferred":[
         "Havalli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hawali-nogra"
     ],
     "name:urd_x_preferred":[
@@ -203,7 +206,7 @@
     "wof:concordances":{
         "gn:id":285629,
         "gp:id":22724740,
-        "qs:id":995740,
+        "qs_pg:id":995740,
         "wd:id":"Q3235220"
     },
     "wof:country":"KW",
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":421184383,
-    "wof:lastmodified":1563236703,
+    "wof:lastmodified":1566591072,
     "wof:name":"East Hawalli",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

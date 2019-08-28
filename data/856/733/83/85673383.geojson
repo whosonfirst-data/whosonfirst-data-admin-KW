@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":29.343205,
     "lbl:longitude":47.923531,
+    "lbl:min_zoom":8.0,
     "mps:latitude":29.343205,
     "mps:longitude":47.923531,
     "mz:hierarchy_label":1,
@@ -136,7 +137,7 @@
     "name:tur_x_preferred":[
         "El Asime Valili\u011fi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Governorate of Metropolis"
     ],
     "name:urd_x_preferred":[
@@ -215,9 +216,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-04-20",
+    "src:population_date":"2005-04-20",
     "statoids:area_km":"175",
     "statoids:area_mi":"68",
     "statoids:as_of_date":"2005-04-20",
@@ -231,7 +232,6 @@
     "statoids:timezone":"+3",
     "statoids:type":"governorate",
     "wd:wordcount":49,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85632401
@@ -243,7 +243,7 @@
         "gp:id":20070169,
         "hasc:id":"KW.KU",
         "iso:id":"KW-KU",
-        "qs:id":891476,
+        "qs_pg:id":891476,
         "wd:id":"Q1046645"
     },
     "wof:country":"KW",
@@ -262,11 +262,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565726027,
+    "wof:lastmodified":1566591059,
     "wof:name":"Al Asimah",
     "wof:parent_id":85632401,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":254503,
     "wof:population_rank":10,

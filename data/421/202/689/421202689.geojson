@@ -10,8 +10,12 @@
     "geom:latitude":29.303529,
     "geom:longitude":48.039093,
     "iso:country":"KW",
+    "lbl:bbox":"48.019093,29.283529,48.059093,29.323529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0627\u0646"
@@ -52,7 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1940594,
-        "qs:id":31167,
+        "qs_pg:id":31167,
         "wd:id":"Q4268642"
     },
     "wof:country":"KW",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":421202689,
-    "wof:lastmodified":1563236680,
+    "wof:lastmodified":1566591064,
     "wof:name":"Bayan",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

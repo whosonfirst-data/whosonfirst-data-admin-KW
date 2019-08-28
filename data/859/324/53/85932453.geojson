@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9697657.365381,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.993516,29.268431,47.993516,29.268431",
     "geom:latitude":29.268431,
     "geom:longitude":47.993516,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"47.988516,29.263431,47.998516,29.273431",
     "lbl:latitude":29.268431,
     "lbl:longitude":47.993516,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.262795,
     "mps:longitude":47.994777,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Zahra-block 8"
-    ],
-    "name:unk_x_variant":[
         "Zahra-block 8"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -64,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943304,
-        "qs:id":1119981,
         "qs_pg:id":1119981
     },
     "wof:country":"KW",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939508,
+    "wof:lastmodified":1566591053,
     "wof:name":"Zahra-block 8",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

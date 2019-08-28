@@ -10,10 +10,14 @@
     "geom:latitude":29.33334,
     "geom:longitude":47.999998,
     "iso:country":"KW",
+    "lbl:bbox":"47.9799975591,29.3133400154,48.0199975591,29.3533400154",
     "lbl:latitude":29.33334,
     "lbl:longitude":47.999998,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0648\u0644\u064a"
     ],
@@ -191,7 +195,7 @@
         }
     ],
     "wof:id":1141906111,
-    "wof:lastmodified":1563236719,
+    "wof:lastmodified":1566591078,
     "wof:name":"Hawalli",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":29.307506,
     "geom:longitude":47.969398,
     "iso:country":"KW",
+    "lbl:bbox":"47.949398,29.2875065,47.989398,29.3275065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u064a\u0631\u0645\u0648\u0643"
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1940567,
-        "qs:id":1119523
+        "qs_pg:id":1119523
     },
     "wof:country":"KW",
     "wof:created":1459009655,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421190367,
-    "wof:lastmodified":1564131078,
+    "wof:lastmodified":1566591069,
     "wof:name":"Yarmouk",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",

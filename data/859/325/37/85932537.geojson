@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5269082.440104,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.866402,29.320529,47.866402,29.320529",
     "geom:latitude":29.320529,
     "geom:longitude":47.866402,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"47.861402,29.315529,47.871402,29.325529",
     "lbl:latitude":29.320529,
     "lbl:longitude":47.866402,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.317805,
     "mps:longitude":47.864291,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Granada-block 3"
-    ],
-    "name:unk_x_variant":[
         "Granada-block 3"
     ],
     "qs:gn_adm0_cc":"KW",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943456,
-        "qs:id":383474,
         "qs_pg:id":383474
     },
     "wof:country":"KW",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939520,
+    "wof:lastmodified":1566591056,
     "wof:name":"Granada-block 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

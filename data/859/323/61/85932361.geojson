@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4296441.928814,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.99016,29.339716,47.99016,29.339716",
     "geom:latitude":29.339716,
     "geom:longitude":47.99016,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"47.98516,29.334716,47.99516,29.344716",
     "lbl:latitude":29.339716,
     "lbl:longitude":47.99016,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.338535,
     "mps:longitude":47.992212,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Nuzha-block 3"
-    ],
-    "name:unk_x_variant":[
         "Nuzha-block 3"
     ],
     "qs:gn_adm0_cc":"KW",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943167,
-        "qs:id":991491,
         "qs_pg:id":991491
     },
     "wof:country":"KW",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939494,
+    "wof:lastmodified":1566591053,
     "wof:name":"Nuzha-block 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

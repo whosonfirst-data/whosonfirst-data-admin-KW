@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":967530.304256,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.976136,29.374959,47.976136,29.374959",
     "geom:latitude":29.374959,
     "geom:longitude":47.976136,
     "iso:country":"KW",
+    "lbl:bbox":"47.971136,29.369959,47.981136,29.379959",
     "lbl:latitude":29.374959,
     "lbl:longitude":47.976136,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.373298,
     "mps:longitude":47.979503,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_variant":[
-        "Koeweit Stad"
-    ],
-    "name:unk_x_variant":[
         "Koeweit Stad"
     ],
     "qs:gn_adm0_cc":"KW",
@@ -58,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -80,7 +79,7 @@
         }
     ],
     "wof:id":85932417,
-    "wof:lastmodified":1531939503,
+    "wof:lastmodified":1566591052,
     "wof:name":"Koeweit Stad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.990308,29.357805,47.990308,29.357805",
     "geom:latitude":29.357805,
     "geom:longitude":47.990308,
     "iso:country":"KW",
+    "lbl:bbox":"47.985308,29.352805,47.995308,29.362805",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724723,
-        "qs:id":1109773
+        "qs_pg:id":1109773
     },
     "wof:country":"KW",
     "wof:created":1459009602,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421189041,
-    "wof:lastmodified":1531858641,
+    "wof:lastmodified":1566591065,
     "wof:name":"Mansouriya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

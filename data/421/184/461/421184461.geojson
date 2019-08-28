@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.952446,29.357005,47.952446,29.357005",
     "geom:latitude":29.357005,
     "geom:longitude":47.952446,
     "iso:country":"KW",
+    "lbl:bbox":"47.947446,29.352005,47.957446,29.362005",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943254,
-        "qs:id":393319
+        "qs_pg:id":393319
     },
     "wof:country":"KW",
     "wof:created":1459009411,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421184461,
-    "wof:lastmodified":1531858532,
+    "wof:lastmodified":1566591073,
     "wof:name":"Shuwaikh-block 5",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

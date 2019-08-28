@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.20723,28.697836,48.20723,28.697836",
     "geom:latitude":28.697836,
     "geom:longitude":48.20723,
     "iso:country":"KW",
+    "lbl:bbox":"48.18723,28.677836,48.22723,28.717836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22722921,
-        "qs:id":989986
+        "qs_pg:id":989986
     },
     "wof:country":"KW",
     "wof:created":1459009402,
-    "wof:geomhash":"c962557b14e89e2d24c75d2493e3e6e0",
+    "wof:geomhash":"c46a94ade46d49b0b01192d6b070f3d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421184173,
-    "wof:lastmodified":1466635858,
+    "wof:lastmodified":1566591072,
     "wof:name":"Jelaiaa",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",

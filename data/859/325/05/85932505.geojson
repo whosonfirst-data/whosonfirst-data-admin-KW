@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4040850.855356,
+    "geom:area_square_m":0.0,
     "geom:bbox":"48.132751,29.09942,48.132751,29.09942",
     "geom:latitude":29.09942,
     "geom:longitude":48.132751,
     "gn:id":"",
     "iso:country":"KW",
+    "lbl:bbox":"48.127751,29.09442,48.137751,29.10442",
     "lbl:latitude":29.09942,
     "lbl:longitude":48.132751,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.097795,
     "mps:longitude":48.12409,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Manqaf-block 4"
-    ],
-    "name:unk_x_variant":[
         "Manqaf-block 4"
     ],
     "qs:gn_adm0_cc":"KW",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943409,
-        "qs:id":986746,
         "qs_pg:id":986746
     },
     "wof:country":"KW",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939515,
+    "wof:lastmodified":1566591055,
     "wof:name":"Manqaf-block 4",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
