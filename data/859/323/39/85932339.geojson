@@ -69,6 +69,10 @@
         "qs_pg:id":991488
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"3f243fbaddd4c6d917e427e87501d4a2",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566591054,
+    "wof:lastmodified":1582331167,
     "wof:name":"Rawda-block 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

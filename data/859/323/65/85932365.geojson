@@ -69,6 +69,10 @@
         "qs_pg:id":962307
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ef9a05081cb09d3f38d63c63b73955b",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566591054,
+    "wof:lastmodified":1582331167,
     "wof:name":"Khaldiya-block 4",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

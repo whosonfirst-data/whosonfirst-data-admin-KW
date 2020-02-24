@@ -82,6 +82,10 @@
         "qs_pg:id":233042
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3ec653ff09a0bfa93775812672b7aa56",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566591051,
+    "wof:lastmodified":1582331166,
     "wof:name":"Bunayd al Q\u00e5r",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

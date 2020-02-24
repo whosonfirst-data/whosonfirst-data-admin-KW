@@ -76,6 +76,10 @@
         "qs_pg:id":43493
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"433dcf17ed703d6f1a4df262463797bb",
     "wof:hierarchy":[
         {
@@ -90,7 +94,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566591057,
+    "wof:lastmodified":1582331168,
     "wof:name":"\u0628\u0646\u064a\u062f \u0627\u0644\u0642\u0627\u0631",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

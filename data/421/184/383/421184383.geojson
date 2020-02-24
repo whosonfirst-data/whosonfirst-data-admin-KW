@@ -211,6 +211,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009409,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"d227296b1daebed33f066c6bb1e33c32",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":421184383,
-    "wof:lastmodified":1566591072,
+    "wof:lastmodified":1582331169,
     "wof:name":"East Hawalli",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

@@ -69,6 +69,10 @@
         "qs_pg:id":986751
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f7bdef5ad5fc4e2c554d110850cd69d0",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566591056,
+    "wof:lastmodified":1582331168,
     "wof:name":"Manqaf-block 1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

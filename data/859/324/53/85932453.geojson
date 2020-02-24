@@ -66,6 +66,10 @@
         "qs_pg:id":1119981
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f77cc35d1c4632870e2af2c80d71e618",
     "wof:hierarchy":[
         {
@@ -80,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566591053,
+    "wof:lastmodified":1582331167,
     "wof:name":"Zahra-block 8",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

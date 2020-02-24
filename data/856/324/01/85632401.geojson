@@ -921,6 +921,7 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -975,6 +976,10 @@
     },
     "wof:country":"KW",
     "wof:country_alpha3":"KWT",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"74271311b4f52ffbf7d535f7cd5c0e25",
     "wof:hierarchy":[
         {
@@ -989,7 +994,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566591058,
+    "wof:lastmodified":1582331168,
     "wof:name":"Kuwait",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
