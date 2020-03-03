@@ -921,7 +921,6 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -994,7 +993,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582331168,
+    "wof:lastmodified":1583213894,
     "wof:name":"Kuwait",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
