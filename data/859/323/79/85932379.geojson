@@ -69,6 +69,10 @@
         "qs_pg:id":260545
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"fde99dc7498efe8c5b9882fe386e6341",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566591054,
+    "wof:lastmodified":1582331167,
     "wof:name":"Fintas-block 1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

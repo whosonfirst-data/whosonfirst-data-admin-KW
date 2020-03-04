@@ -68,6 +68,9 @@
         "gp:id":55943276
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0728d834f36127fdd0417d9a4958d03a",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":85932417,
-    "wof:lastmodified":1566591052,
+    "wof:lastmodified":1582331167,
     "wof:name":"Koeweit Stad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

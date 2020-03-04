@@ -83,6 +83,10 @@
         "qs_pg:id":233684
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8176a65a2e42907eaf63306cda517cee",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566591057,
+    "wof:lastmodified":1582331168,
     "wof:name":"Jabriya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

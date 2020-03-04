@@ -69,6 +69,10 @@
         "qs_pg:id":233606
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6c3618e10f941b1cfb5b883c389292eb",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566591051,
+    "wof:lastmodified":1582331166,
     "wof:name":"Mina`a Al-shuwakh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

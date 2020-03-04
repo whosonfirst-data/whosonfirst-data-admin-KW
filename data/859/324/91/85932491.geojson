@@ -66,6 +66,10 @@
         "qs_pg:id":467835
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6aa651c1e8c4707b58f3d226529af36a",
     "wof:hierarchy":[
         {
@@ -80,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566591052,
+    "wof:lastmodified":1582331167,
     "wof:name":"Omariyah-block 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
