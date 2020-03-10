@@ -951,9 +951,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Kuwait",
-        "digitalenvoy:country_code":[
-            414
-        ],
+        "digitalenvoy:country_code":414,
         "fb:id":"en.kuwait",
         "fifa:id":"KUW",
         "fips:code":"KU",
@@ -996,7 +994,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583529172,
+    "wof:lastmodified":1583797379,
     "wof:name":"Kuwait",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
