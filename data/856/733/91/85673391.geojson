@@ -277,9 +277,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25678
-        ],
+        "digitalenvoy:region_code":25678,
         "fips:code":"KU04",
         "gn:id":285841,
         "gp:id":20070166,
@@ -304,7 +302,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538402,
+    "wof:lastmodified":1583882880,
     "wof:name":"Al Ahmadi",
     "wof:parent_id":85632401,
     "wof:placetype":"region",

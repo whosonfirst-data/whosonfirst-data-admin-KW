@@ -238,9 +238,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25680
-        ],
+        "digitalenvoy:region_code":25680,
         "fips:code":"KU02",
         "gn:id":285788,
         "gp:id":20070169,
@@ -265,7 +263,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538402,
+    "wof:lastmodified":1583882880,
     "wof:name":"Al Asimah",
     "wof:parent_id":85632401,
     "wof:placetype":"region",
