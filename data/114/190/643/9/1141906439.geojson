@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.0837727445,29.0769448029,48.0837727445,29.0769448029",
+    "geom:bbox":"48.083773,29.076945,48.083773,29.076945",
     "geom:latitude":29.076945,
     "geom:longitude":48.083773,
     "iso:country":"KW",
@@ -109,7 +109,7 @@
         "\u0d85\u0dbd\u0dca \u0d85\u0dc4\u0db8\u0daf\u0dd2"
     ],
     "name:sin_x_variant":[
-        "\u0d85\u0dbd\u0dca \u0d85\u0dc4\u0db8\u0daf\u0dd2 "
+        "\u0d85\u0dbd\u0dca \u0d85\u0dc4\u0db8\u0daf\u0dd2"
     ],
     "name:swe_x_preferred":[
         "Al A\u1e29mad\u012b"
@@ -118,7 +118,7 @@
         "\u0b85\u0bb2\u0bcd \u0b85\u0bb9\u0bae\u0b9f\u0bcd"
     ],
     "name:tam_x_variant":[
-        "\u0b85\u0bb2\u0bcd \u0b85\u0bb9\u0bae\u0b9f\u0bcd "
+        "\u0b85\u0bb2\u0bcd \u0b85\u0bb9\u0bae\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c32\u0c4d \u0c05\u0c39\u0c4d\u0c2e\u0c26\u0c3f"
@@ -136,7 +136,7 @@
         "\u0627\u0644 \u0627\u064e\u062d\u0652\u0645\u064e\u062f\u06cc \u060c \u06a9\u0648\u06cc\u062a"
     ],
     "name:urd_x_variant":[
-        "\u0627\u0644 \u0627\u064e\u062d\u0652\u0645\u064e\u062f\u06cc "
+        "\u0627\u0644 \u0627\u064e\u062d\u0652\u0645\u064e\u062f\u06cc"
     ],
     "name:vie_x_preferred":[
         "Al Ahmadi"
@@ -248,7 +248,7 @@
     },
     "wof:country":"KW",
     "wof:created":1499130588,
-    "wof:geomhash":"acebd19c3afd0e2bcb8c57fb5e04226c",
+    "wof:geomhash":"cd47af9e4150ed37d6090975a913a6f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -258,7 +258,7 @@
         }
     ],
     "wof:id":1141906439,
-    "wof:lastmodified":1566591078,
+    "wof:lastmodified":1587163114,
     "wof:name":"Al Ahmadi",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",
@@ -268,10 +268,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.08377274454608,
-    29.07694480286722,
-    48.08377274454608,
-    29.07694480286722
+    48.083773,
+    29.076945,
+    48.083773,
+    29.076945
 ],
-  "geometry": {"coordinates":[48.08377274454608,29.07694480286722],"type":"Point"}
+  "geometry": {"coordinates":[48.083773,29.076945],"type":"Point"}
 }
