@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u062d\u0645\u062f\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ahmadi"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":421190381,
-    "wof:lastmodified":1566591069,
-    "wof:name":"\u0627\u0644\u0627\u062d\u0645\u062f\u0649",
+    "wof:lastmodified":1601068388,
+    "wof:name":"Al Ahmadi",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",

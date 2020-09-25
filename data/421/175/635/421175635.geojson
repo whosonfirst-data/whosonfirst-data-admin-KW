@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0628\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Kabed"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":421175635,
-    "wof:lastmodified":1566591068,
-    "wof:name":"\u0643\u0628\u062f",
+    "wof:lastmodified":1601068399,
+    "wof:name":"Kabed",
     "wof:parent_id":85673399,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
