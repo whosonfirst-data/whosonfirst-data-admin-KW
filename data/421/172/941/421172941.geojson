@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.019351,29.3383385,48.019351,29.3383385",
+    "geom:bbox":"48.019351,29.338338,48.019351,29.338338",
     "geom:latitude":29.338338,
     "geom:longitude":48.019351,
     "iso:country":"KW",
@@ -54,7 +54,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459008960,
-    "wof:geomhash":"8311a9d08a0314b716c2bb593e3bbb41",
+    "wof:geomhash":"0cdb3af4bd737cfc397f7ac8f02a1550",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":421172941,
-    "wof:lastmodified":1601068396,
+    "wof:lastmodified":1601423089,
     "wof:name":"Hawalli",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",
@@ -75,9 +75,9 @@
 },
   "bbox": [
     48.019351,
-    29.3383385,
+    29.338338,
     48.019351,
-    29.3383385
+    29.338338
 ],
-  "geometry": {"coordinates":[48.019351,29.3383385],"type":"Point"}
+  "geometry": {"coordinates":[48.019351,29.338338],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.789303,29.2534495,47.789303,29.2534495",
+    "geom:bbox":"47.789303,29.253449,47.789303,29.253449",
     "geom:latitude":29.253449,
     "geom:longitude":47.789303,
     "iso:country":"KW",
@@ -54,7 +54,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009308,
-    "wof:geomhash":"5508323c52e94be8af5e9d502c1b7d8b",
+    "wof:geomhash":"c36375b07f057e9336967d3c1ddedc42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":421181833,
-    "wof:lastmodified":1601068391,
+    "wof:lastmodified":1601423087,
     "wof:name":"As Sulaibiya",
     "wof:parent_id":85673399,
     "wof:placetype":"locality",
@@ -75,9 +75,9 @@
 },
   "bbox": [
     47.789303,
-    29.2534495,
+    29.253449,
     47.789303,
-    29.2534495
+    29.253449
 ],
-  "geometry": {"coordinates":[47.789303,29.2534495],"type":"Point"}
+  "geometry": {"coordinates":[47.789303,29.253449],"type":"Point"}
 }

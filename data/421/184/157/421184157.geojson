@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.0988305,29.2125595,48.0988305,29.2125595",
+    "geom:bbox":"48.09883,29.21256,48.09883,29.21256",
     "geom:latitude":29.21256,
     "geom:longitude":48.09883,
     "iso:country":"KW",
@@ -54,7 +54,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009402,
-    "wof:geomhash":"260cd1e4f98f3e5d56a385bab148c3d9",
+    "wof:geomhash":"3ae92eade41a214ca91dc54b12d121d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":421184157,
-    "wof:lastmodified":1601068388,
+    "wof:lastmodified":1601423082,
     "wof:name":"Abu Al Hasaniya",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",
@@ -74,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.0988305,
-    29.2125595,
-    48.0988305,
-    29.2125595
+    48.09883,
+    29.21256,
+    48.09883,
+    29.21256
 ],
-  "geometry": {"coordinates":[48.0988305,29.2125595],"type":"Point"}
+  "geometry": {"coordinates":[48.09883,29.21256],"type":"Point"}
 }

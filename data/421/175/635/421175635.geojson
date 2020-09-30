@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.7410885,29.1025925,47.7410885,29.1025925",
+    "geom:bbox":"47.741088,29.102593,47.741088,29.102593",
     "geom:latitude":29.102593,
     "geom:longitude":47.741088,
     "iso:country":"KW",
@@ -54,7 +54,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009074,
-    "wof:geomhash":"eb02b7668fe4f7a1bc64648b5f0a33db",
+    "wof:geomhash":"01a77e079d71f4b699f7eec95a8a4504",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":421175635,
-    "wof:lastmodified":1601068399,
+    "wof:lastmodified":1601423090,
     "wof:name":"Kabed",
     "wof:parent_id":85673399,
     "wof:placetype":"locality",
@@ -74,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.7410885,
-    29.1025925,
-    47.7410885,
-    29.1025925
+    47.741088,
+    29.102593,
+    47.741088,
+    29.102593
 ],
-  "geometry": {"coordinates":[47.7410885,29.1025925],"type":"Point"}
+  "geometry": {"coordinates":[47.741088,29.102593],"type":"Point"}
 }
