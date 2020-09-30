@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.012342,29.2819815,48.012342,29.2819815",
+    "geom:bbox":"48.012342,29.281982,48.012342,29.281982",
     "geom:latitude":29.281982,
     "geom:longitude":48.012342,
     "iso:country":"KW",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062d\u0637\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Hittin"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -48,7 +54,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009588,
-    "wof:geomhash":"66e828feed93923af55939a4236bbcdf",
+    "wof:geomhash":"037a15c04cf9fd3df250fe97e71852c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":421188937,
-    "wof:lastmodified":1566591066,
-    "wof:name":"\u062d\u0637\u064a\u0646",
+    "wof:lastmodified":1601423089,
+    "wof:name":"Hittin",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     48.012342,
-    29.2819815,
+    29.281982,
     48.012342,
-    29.2819815
+    29.281982
 ],
-  "geometry": {"coordinates":[48.012342,29.2819815],"type":"Point"}
+  "geometry": {"coordinates":[48.012342,29.281982],"type":"Point"}
 }

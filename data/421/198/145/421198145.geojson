@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a\u062f\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Bnaider"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":421198145,
-    "wof:lastmodified":1566591068,
-    "wof:name":"\u0628\u0646\u064a\u062f\u0631",
+    "wof:lastmodified":1601423088,
+    "wof:name":"Bnaider",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",

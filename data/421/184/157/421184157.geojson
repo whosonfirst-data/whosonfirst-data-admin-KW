@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.0988305,29.2125595,48.0988305,29.2125595",
+    "geom:bbox":"48.09883,29.21256,48.09883,29.21256",
     "geom:latitude":29.21256,
     "geom:longitude":48.09883,
     "iso:country":"KW",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u0627\u0644\u062d\u0635\u0627\u0646\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Abu Al Hasaniya"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -48,7 +54,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009402,
-    "wof:geomhash":"260cd1e4f98f3e5d56a385bab148c3d9",
+    "wof:geomhash":"3ae92eade41a214ca91dc54b12d121d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":421184157,
-    "wof:lastmodified":1566591070,
-    "wof:name":"\u0627\u0628\u0648 \u0627\u0644\u062d\u0635\u0627\u0646\u064a\u0629",
+    "wof:lastmodified":1601423082,
+    "wof:name":"Abu Al Hasaniya",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.0988305,
-    29.2125595,
-    48.0988305,
-    29.2125595
+    48.09883,
+    29.21256,
+    48.09883,
+    29.21256
 ],
-  "geometry": {"coordinates":[48.0988305,29.2125595],"type":"Point"}
+  "geometry": {"coordinates":[48.09883,29.21256],"type":"Point"}
 }

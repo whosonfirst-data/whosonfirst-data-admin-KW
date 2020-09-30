@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u064a\u0635\u064a\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Nuwaiseeb"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":421181617,
-    "wof:lastmodified":1566591067,
-    "wof:name":"\u0646\u0648\u064a\u0635\u064a\u0628",
+    "wof:lastmodified":1601423091,
+    "wof:name":"Nuwaiseeb",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
