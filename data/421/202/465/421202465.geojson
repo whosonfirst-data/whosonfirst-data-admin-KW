@@ -599,7 +599,9 @@
         85673383
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632401,
+    "wof:capital_of":[
+        85632401
+    ],
     "wof:concordances":{
         "gn:id":285787,
         "gp:id":1940631,
@@ -623,7 +625,7 @@
         }
     ],
     "wof:id":421202465,
-    "wof:lastmodified":1587428054,
+    "wof:lastmodified":1607390887,
     "wof:name":"Kuwait City",
     "wof:parent_id":85673383,
     "wof:placetype":"locality",
