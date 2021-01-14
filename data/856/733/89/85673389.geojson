@@ -261,7 +261,7 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Province",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -299,7 +299,7 @@
         "wk:page":"Farwaniya_Governorate"
     },
     "wof:coterminous":[
-        "421204583"
+        421204583
     ],
     "wof:country":"KW",
     "wof:geom_alt":[
@@ -320,7 +320,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1610653056,
+    "wof:lastmodified":1610657589,
     "wof:name":"Al Farwaniyah",
     "wof:parent_id":85632401,
     "wof:placetype":"region",

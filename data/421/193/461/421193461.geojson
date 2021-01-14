@@ -63,7 +63,7 @@
         "qs_pg:id":900292
     },
     "wof:coterminous":[
-        "85673395"
+        85673395
     ],
     "wof:country":"KW",
     "wof:created":1459009772,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":421193461,
-    "wof:lastmodified":1610655885,
+    "wof:lastmodified":1610657590,
     "wof:name":"Mubarak Al-Kabeer",
     "wof:parent_id":85673395,
     "wof:placetype":"county",

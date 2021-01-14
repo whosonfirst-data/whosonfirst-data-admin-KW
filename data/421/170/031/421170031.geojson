@@ -117,7 +117,7 @@
         "qs_pg:id":212603
     },
     "wof:coterminous":[
-        "85673399"
+        85673399
     ],
     "wof:country":"KW",
     "wof:created":1459008834,
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":421170031,
-    "wof:lastmodified":1610655891,
+    "wof:lastmodified":1610657590,
     "wof:name":"Al Jahrah",
     "wof:parent_id":85673399,
     "wof:placetype":"county",

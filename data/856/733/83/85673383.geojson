@@ -225,7 +225,7 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Province",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -262,7 +262,7 @@
         "wk:page":"Capital_Governorate_(Kuwait)"
     },
     "wof:coterminous":[
-        "421201553"
+        421201553
     ],
     "wof:country":"KW",
     "wof:geom_alt":[
@@ -283,7 +283,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1610653060,
+    "wof:lastmodified":1610657590,
     "wof:name":"Al Asimah",
     "wof:parent_id":85632401,
     "wof:placetype":"region",

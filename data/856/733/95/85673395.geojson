@@ -252,7 +252,7 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Province",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -288,7 +288,7 @@
         "wk:page":"Mubarak_Al-Kabeer_Governorate"
     },
     "wof:coterminous":[
-        "421193461"
+        421193461
     ],
     "wof:country":"KW",
     "wof:geom_alt":[
@@ -309,7 +309,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1610653047,
+    "wof:lastmodified":1610657589,
     "wof:name":"Mubarak Al-Kabeer",
     "wof:parent_id":85632401,
     "wof:placetype":"region",
