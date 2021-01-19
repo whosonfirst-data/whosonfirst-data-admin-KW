@@ -1,0 +1,56 @@
+{
+  "id": 1729726345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000208,
+    "geom:area_square_m":2239693.275904,
+    "geom:bbox":"47.659033,29.312029,47.680244,29.328597",
+    "geom:latitude":29.320906,
+    "geom:longitude":47.670354,
+    "iso:country":"KW",
+    "lbl:latitude":29.32105,
+    "lbl:longitude":47.670354,
+    "mps:latitude":29.32105,
+    "mps:longitude":47.670354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0633\u064a\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Nasseem"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094340,
+    "wof:geomhash":"60722fada6425e979cd87af2d27db7be",
+    "wof:hierarchy":[],
+    "wof:id":1729726345,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611094340,
+    "wof:name":"Nasseem",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.659033,
+    29.312029,
+    47.680244,
+    29.328597
+],
+  "geometry": {"coordinates":[[[47.663128,29.328597],[47.680244,29.3244],[47.677715,29.315856],[47.678672,29.315446],[47.679561,29.314899],[47.679834,29.314079],[47.679561,29.312029],[47.659033,29.319268],[47.66179,29.325289],[47.663128,29.328597]]],"type":"Polygon"}
+}

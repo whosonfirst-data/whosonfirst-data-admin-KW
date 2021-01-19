@@ -4,21 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"47.877502,29.318732,47.877502,29.318732",
-    "geom:latitude":29.318732,
-    "geom:longitude":47.877502,
+    "geom:area":0.000274,
+    "geom:area_square_m":2953371.46247,
+    "geom:bbox":"47.862053,29.309358,47.885168,29.325787",
+    "geom:latitude":29.316484,
+    "geom:longitude":47.872833,
     "gn:id":"",
     "iso:country":"KW",
     "lbl:bbox":"47.872502,29.313732,47.882502,29.323732",
-    "lbl:latitude":29.318732,
-    "lbl:longitude":47.877502,
+    "lbl:latitude":29.316987,
+    "lbl:longitude":47.872833,
     "lbl:max_zoom":18.0,
-    "mps:latitude":29.318874,
-    "mps:longitude":47.884115,
+    "mps:latitude":29.316987,
+    "mps:longitude":47.872833,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -346,12 +346,11 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940631,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -367,7 +366,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef95930a563cc3254b9291bb4628c29a",
+    "wof:geomhash":"ea7cf61fbbbb40efd6482fcba1ea7119",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -381,7 +380,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582331168,
+    "wof:lastmodified":1611094331,
     "wof:name":"Granada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -391,10 +390,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.877502,
-    29.318732,
-    47.877502,
-    29.318732
+    47.862053,
+    29.309358,
+    47.885168,
+    29.325787
 ],
-  "geometry": {"coordinates":[47.877502,29.318732],"type":"Point"}
+  "geometry": {"coordinates":[[[47.878033,29.325787],[47.885168,29.310432],[47.882867,29.309358],[47.878918,29.30959],[47.865212,29.310287],[47.862053,29.310388],[47.8626,29.317633],[47.863163,29.320001],[47.863723,29.322676],[47.866398,29.32392],[47.869074,29.323174],[47.871438,29.323609],[47.876291,29.325227],[47.878033,29.325787]]],"type":"Polygon"}
 }

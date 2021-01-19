@@ -1,0 +1,56 @@
+{
+  "id": 1729726307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000161,
+    "geom:area_square_m":1739315.790431,
+    "geom:bbox":"47.971144,29.332008,47.987521,29.345916",
+    "geom:latitude":29.33854,
+    "geom:longitude":47.978667,
+    "iso:country":"KW",
+    "lbl:latitude":29.338855,
+    "lbl:longitude":47.978667,
+    "mps:latitude":29.338855,
+    "mps:longitude":47.978667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u064a\u062d\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Faiha"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094323,
+    "wof:geomhash":"3a70877ca4e63140c73ba877526d37d8",
+    "wof:hierarchy":[],
+    "wof:id":1729726307,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611094323,
+    "wof:name":"Faiha",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.971144,
+    29.332008,
+    47.987521,
+    29.345916
+],
+  "geometry": {"coordinates":[[[47.971144,29.332008],[47.972466,29.343881],[47.973118,29.343855],[47.979739,29.345017],[47.983079,29.345916],[47.987521,29.334911],[47.981365,29.333285],[47.976719,29.332588],[47.971144,29.332008]]],"type":"Polygon"}
+}

@@ -4,22 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"47.832511,29.315483,47.832511,29.315483",
-    "geom:latitude":29.315483,
-    "geom:longitude":47.832511,
+    "geom:area":0.000358,
+    "geom:area_square_m":3863442.723463,
+    "geom:bbox":"47.828835,29.310388,47.863163,29.325361",
+    "geom:latitude":29.316052,
+    "geom:longitude":47.844613,
     "gn:latitude":29.31528,
     "gn:longitude":47.83583,
     "iso:country":"KW",
     "lbl:bbox":"47.827511,29.310483,47.837511,29.320483",
-    "lbl:latitude":29.315483,
-    "lbl:longitude":47.832511,
+    "lbl:latitude":29.315752,
+    "lbl:longitude":47.844286,
     "lbl:max_zoom":18.0,
-    "mps:latitude":29.316898,
-    "mps:longitude":47.830771,
+    "mps:latitude":29.315752,
+    "mps:longitude":47.844286,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -82,12 +82,11 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940631,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":120,
     "wof:belongsto":[
         102191569,
@@ -107,7 +106,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1ecfc7ff37ebb5625f975454696051d6",
+    "wof:geomhash":"0c863e3484d1eaeae36c301547979730",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -121,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582331166,
+    "wof:lastmodified":1611094335,
     "wof:name":"As Sulaybikhat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -131,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.832511,
-    29.315483,
-    47.832511,
-    29.315483
+    47.828835,
+    29.310388,
+    47.863163,
+    29.325361
 ],
-  "geometry": {"coordinates":[47.832511,29.315483],"type":"Point"}
+  "geometry": {"coordinates":[[[47.828835,29.310799],[47.828972,29.319957],[47.829971,29.325361],[47.831198,29.324072],[47.832193,29.323574],[47.833811,29.322828],[47.834931,29.322454],[47.836797,29.32233],[47.838415,29.322828],[47.839908,29.322828],[47.841402,29.32233],[47.843766,29.321086],[47.845135,29.320588],[47.846504,29.320214],[47.847997,29.319841],[47.848992,29.319841],[47.850112,29.32009],[47.850983,29.320214],[47.851979,29.32009],[47.853348,29.319717],[47.85509,29.319343],[47.855961,29.319966],[47.856957,29.320588],[47.857952,29.320588],[47.859196,29.319966],[47.861187,29.319841],[47.863163,29.320001],[47.8626,29.317633],[47.862053,29.310388],[47.828835,29.310799]]],"type":"Polygon"}
 }

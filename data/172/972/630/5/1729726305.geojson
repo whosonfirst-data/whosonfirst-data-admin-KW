@@ -1,0 +1,56 @@
+{
+  "id": 1729726305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000152,
+    "geom:area_square_m":1635715.774377,
+    "geom:bbox":"47.983079,29.334911,48.000763,29.350244",
+    "geom:latitude":29.342558,
+    "geom:longitude":47.991492,
+    "iso:country":"KW",
+    "lbl:latitude":29.342701,
+    "lbl:longitude":47.991492,
+    "mps:latitude":29.342701,
+    "mps:longitude":47.991492,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0632\u0647\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Nuzha"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094322,
+    "wof:geomhash":"5526eef6ae6b8f8d8a3fc8a9b81d1165",
+    "wof:hierarchy":[],
+    "wof:id":1729726305,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611094322,
+    "wof:name":"Al Nuzha",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.983079,
+    29.334911,
+    48.000763,
+    29.350244
+],
+  "geometry": {"coordinates":[[[47.987521,29.334911],[47.983079,29.345916],[47.985779,29.346643],[47.991587,29.348966],[47.994026,29.350244],[48.000763,29.340371],[47.994607,29.337699],[47.987521,29.334911]]],"type":"Polygon"}
+}

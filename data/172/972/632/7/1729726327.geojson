@@ -1,0 +1,56 @@
+{
+  "id": 1729726327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000321,
+    "geom:area_square_m":3464726.899356,
+    "geom:bbox":"47.900294,29.344356,47.933006,29.362669",
+    "geom:latitude":29.354866,
+    "geom:longitude":47.916435,
+    "iso:country":"KW",
+    "lbl:latitude":29.354988,
+    "lbl:longitude":47.913955,
+    "mps:latitude":29.354988,
+    "mps:longitude":47.913955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062d\u0631\u0629 \u0627\u0644\u0643\u0648\u064a\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Kuwait Free Trade Zone"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094332,
+    "wof:geomhash":"bd5e18e6f3397a48369f24cf7ba807f8",
+    "wof:hierarchy":[],
+    "wof:id":1729726327,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611094332,
+    "wof:name":"Kuwait Free Trade Zone",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.900294,
+    29.344356,
+    47.933006,
+    29.362669
+],
+  "geometry": {"coordinates":[[[47.92287,29.347459],[47.922808,29.347435],[47.917548,29.344356],[47.914725,29.346239],[47.914726,29.346249],[47.900294,29.354395],[47.900743,29.355613],[47.905874,29.359269],[47.909017,29.361322],[47.912224,29.361963],[47.914469,29.361771],[47.918574,29.360488],[47.919921,29.360296],[47.921268,29.360681],[47.924604,29.362669],[47.932301,29.358756],[47.933006,29.35773],[47.929029,29.354138],[47.927362,29.353433],[47.920434,29.351957],[47.922443,29.349556],[47.923695,29.348249],[47.922832,29.347473],[47.92287,29.347459]]],"type":"Polygon"}
+}

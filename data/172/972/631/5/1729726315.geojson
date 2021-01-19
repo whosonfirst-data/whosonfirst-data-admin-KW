@@ -1,0 +1,56 @@
+{
+  "id": 1729726315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000239,
+    "geom:area_square_m":2580691.293195,
+    "geom:bbox":"47.904472,29.29864,47.927702,29.313539",
+    "geom:latitude":29.305022,
+    "geom:longitude":47.916696,
+    "iso:country":"KW",
+    "lbl:latitude":29.305021,
+    "lbl:longitude":47.916696,
+    "mps:latitude":29.305021,
+    "mps:longitude":47.916696,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0642\u0639\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Riggai"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094328,
+    "wof:geomhash":"a04bc63fb6be76a9428edcad464cf11c",
+    "wof:hierarchy":[],
+    "wof:id":1729726315,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611094328,
+    "wof:name":"Riggai",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.904472,
+    29.29864,
+    47.927702,
+    29.313539
+],
+  "geometry": {"coordinates":[[[47.904472,29.307499],[47.911673,29.308893],[47.920733,29.311681],[47.926309,29.313539],[47.927702,29.30053],[47.905229,29.29864],[47.904472,29.307499]]],"type":"Polygon"}
+}

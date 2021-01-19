@@ -1,0 +1,56 @@
+{
+  "id": 1729726323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000415,
+    "geom:area_square_m":4476293.553527,
+    "geom:bbox":"47.885168,29.30657,47.926309,29.326751",
+    "geom:latitude":29.314918,
+    "geom:longitude":47.908894,
+    "iso:country":"KW",
+    "lbl:latitude":29.314946,
+    "lbl:longitude":47.908894,
+    "mps:latitude":29.314946,
+    "mps:longitude":47.908894,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0628\u0627\u0631\u0643\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Mubarekiya"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094331,
+    "wof:geomhash":"897e4f8bb2e75cec29e3b46fa99ffb98",
+    "wof:hierarchy":[],
+    "wof:id":1729726323,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611094331,
+    "wof:name":"Mubarekiya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.885168,
+    29.30657,
+    47.926309,
+    29.326751
+],
+  "geometry": {"coordinates":[[[47.919751,29.326751],[47.923521,29.32167],[47.925844,29.317953],[47.926309,29.313539],[47.920733,29.311681],[47.911673,29.308893],[47.904472,29.307499],[47.900755,29.30657],[47.895412,29.30657],[47.891927,29.307732],[47.887746,29.309358],[47.885168,29.310432],[47.889836,29.31261],[47.901916,29.318185],[47.919751,29.326751]]],"type":"Polygon"}
+}

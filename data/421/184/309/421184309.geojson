@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -13,7 +14,7 @@
     "lbl:bbox":"47.99639,29.36,48.00639,29.37",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -66,14 +67,16 @@
         }
     ],
     "wof:id":421184309,
-    "wof:lastmodified":1566591070,
+    "wof:lastmodified":1611094324,
     "wof:name":"Ad Dasmah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:population":17585,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421184191
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

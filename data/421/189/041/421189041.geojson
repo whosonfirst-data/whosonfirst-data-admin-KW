@@ -4,16 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"47.990308,29.357805,47.990308,29.357805",
-    "geom:latitude":29.357805,
-    "geom:longitude":47.990308,
+    "geom:area":0.000118,
+    "geom:area_square_m":1273279.066197,
+    "geom:bbox":"47.986941,29.350244,48.003272,29.364879",
+    "geom:latitude":29.357803,
+    "geom:longitude":47.994618,
     "iso:country":"KW",
     "lbl:bbox":"47.985308,29.352805,47.995308,29.362805",
+    "lbl:latitude":29.357643,
+    "lbl:longitude":47.994617,
     "lbl:max_zoom":18.0,
+    "mps:latitude":29.357643,
+    "mps:longitude":47.994617,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
@@ -34,7 +38,11 @@
     "qs:qs_id":1109773,
     "qs:woe_adm0":23424870,
     "qs:woe_id":22724723,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -47,7 +55,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009602,
-    "wof:geomhash":"454a4a7e18a83ed25c9481f9626d5edd",
+    "wof:geomhash":"275559b8844e0996f3dfc5af154fc81a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +66,7 @@
         }
     ],
     "wof:id":421189041,
-    "wof:lastmodified":1566591065,
+    "wof:lastmodified":1611094324,
     "wof:name":"Mansouriya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -68,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.990308,
-    29.357805,
-    47.990308,
-    29.357805
+    47.986941,
+    29.350244,
+    48.003272,
+    29.364879
 ],
-  "geometry": {"coordinates":[47.990308,29.357805],"type":"Point"}
+  "geometry": {"coordinates":[[[47.992284,29.364879],[48.003272,29.357009],[48.002389,29.356284],[47.997743,29.352451],[47.994026,29.350244],[47.986941,29.361278],[47.992284,29.364879]]],"type":"Polygon"}
 }

@@ -4,21 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"47.969055,29.327114,47.969055,29.327114",
-    "geom:latitude":29.327114,
-    "geom:longitude":47.969055,
+    "geom:area":0.000254,
+    "geom:area_square_m":2736238.252755,
+    "geom:bbox":"47.971144,29.318418,47.993445,29.334911",
+    "geom:latitude":29.326177,
+    "geom:longitude":47.981901,
     "gn:id":"",
     "iso:country":"KW",
     "lbl:bbox":"47.964055,29.322114,47.974055,29.332114",
-    "lbl:latitude":29.327114,
-    "lbl:longitude":47.969055,
+    "lbl:latitude":29.326304,
+    "lbl:longitude":47.981901,
     "lbl:max_zoom":18.0,
-    "mps:latitude":29.327965,
-    "mps:longitude":47.969326,
+    "mps:latitude":29.326304,
+    "mps:longitude":47.981901,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -58,12 +58,11 @@
     "qs:woe_lau":0,
     "qs:woe_local":1940631,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -79,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bb61c18bd567cf5ffa65c443e84a9f3c",
+    "wof:geomhash":"544f3899c2b30539696c9e21a20d0591",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582331166,
+    "wof:lastmodified":1611094329,
     "wof:name":"Al Adiliyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -103,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.969055,
-    29.327114,
-    47.969055,
-    29.327114
+    47.971144,
+    29.318418,
+    47.993445,
+    29.334911
 ],
-  "geometry": {"coordinates":[47.969055,29.327114],"type":"Point"}
+  "geometry": {"coordinates":[[[47.971144,29.332008],[47.976719,29.332588],[47.981365,29.333285],[47.987521,29.334911],[47.993445,29.320392],[47.974628,29.318418],[47.971144,29.332008]]],"type":"Polygon"}
 }

@@ -4,16 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.005876,29.31425,48.005876,29.31425",
-    "geom:latitude":29.31425,
-    "geom:longitude":48.005876,
+    "geom:area":0.000339,
+    "geom:area_square_m":3651910.220287,
+    "geom:bbox":"47.993445,29.305591,48.020985,29.323064",
+    "geom:latitude":29.31399,
+    "geom:longitude":48.007208,
     "iso:country":"KW",
     "lbl:bbox":"48.000876,29.30925,48.010876,29.31925",
+    "lbl:latitude":29.31427,
+    "lbl:longitude":48.007208,
     "lbl:max_zoom":18.0,
+    "mps:latitude":29.31427,
+    "mps:longitude":48.007208,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -58,7 +62,11 @@
     "qs:qs_id":506099,
     "qs:woe_adm0":23424870,
     "qs:woe_id":10644934,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1148,
     "wof:belongsto":[
         102191569,
@@ -73,7 +81,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009308,
-    "wof:geomhash":"efc1243e736eab6b436c3d5826ddd7d2",
+    "wof:geomhash":"48c9e7b781c6443876abe2fcee4c8b4a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +92,7 @@
         }
     ],
     "wof:id":421181831,
-    "wof:lastmodified":1566591068,
+    "wof:lastmodified":1611094325,
     "wof:name":"Surra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -94,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.005876,
-    29.31425,
-    48.005876,
-    29.31425
+    47.993445,
+    29.305591,
+    48.020985,
+    29.323064
 ],
-  "geometry": {"coordinates":[48.005876,29.31425],"type":"Point"}
+  "geometry": {"coordinates":[[[47.993445,29.320392],[48.012146,29.323064],[48.015166,29.319231],[48.018767,29.314352],[48.02016,29.310752],[48.020985,29.307377],[48.018302,29.307035],[47.999534,29.305591],[47.993445,29.320392]]],"type":"Polygon"}
 }

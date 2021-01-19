@@ -1,0 +1,56 @@
+{
+  "id": 1729726337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000296,
+    "geom:area_square_m":3192161.169479,
+    "geom:bbox":"47.80628,29.295402,47.831996,29.311209",
+    "geom:latitude":29.304738,
+    "geom:longitude":47.821138,
+    "iso:country":"KW",
+    "lbl:latitude":29.304489,
+    "lbl:longitude":47.821383,
+    "mps:latitude":29.304489,
+    "mps:longitude":47.821383,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u0648\u0628 \u0627\u0644\u062f\u0648\u062d\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "South Doha"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094337,
+    "wof:geomhash":"a938f10d51d550ea15380d205683e4ab",
+    "wof:hierarchy":[],
+    "wof:id":1729726337,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611094337,
+    "wof:name":"South Doha",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.80628,
+    29.295402,
+    47.831996,
+    29.311209
+],
+  "geometry": {"coordinates":[[[47.826639,29.295443],[47.806372,29.305468],[47.80628,29.311209],[47.828835,29.310799],[47.831996,29.310759],[47.831898,29.295402],[47.826639,29.295443]]],"type":"Polygon"}
+}
