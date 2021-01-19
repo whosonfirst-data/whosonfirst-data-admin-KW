@@ -4,17 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.068618,29.270826,48.068618,29.270826",
-    "geom:latitude":29.270826,
-    "geom:longitude":48.068618,
+    "geom:area":0.000593,
+    "geom:area_square_m":6393268.345601,
+    "geom:bbox":"48.051592,29.264523,48.085671,29.293447",
+    "geom:latitude":29.276933,
+    "geom:longitude":48.067364,
     "iso:country":"KW",
     "lbl:bbox":"48.048618,29.250826,48.088618,29.290826",
+    "lbl:latitude":29.276555,
+    "lbl:longitude":48.067039,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.276555,
+    "mps:longitude":48.067039,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -44,7 +48,11 @@
     "qs:qs_id":1109769,
     "qs:woe_adm0":23424870,
     "qs:woe_id":22724742,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":125,
     "wof:belongsto":[
         102191569,
@@ -59,7 +67,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009602,
-    "wof:geomhash":"039daee7e305b8f399fbfe55c494d97e",
+    "wof:geomhash":"af457b066599d3c35658dada8828b54a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,8 +77,8 @@
         }
     ],
     "wof:id":421189035,
-    "wof:lastmodified":1566591066,
-    "wof:name":"Mishrif",
+    "wof:lastmodified":1611092478,
+    "wof:name":"Mishref",
     "wof:parent_id":85673395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
@@ -79,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.068618,
-    29.270826,
-    48.068618,
-    29.270826
+    48.051592,
+    29.264523,
+    48.085671,
+    29.293447
 ],
-  "geometry": {"coordinates":[48.068618,29.270826],"type":"Point"}
+  "geometry": {"coordinates":[[[48.056827,29.264523],[48.056827,29.268986],[48.054846,29.274645],[48.051592,29.284832],[48.055978,29.285823],[48.062204,29.28837],[48.065883,29.291199],[48.069431,29.293447],[48.072662,29.289379],[48.085671,29.268704],[48.079863,29.26731],[48.068945,29.265219],[48.059885,29.264523],[48.056827,29.264523]]],"type":"Polygon"}
 }

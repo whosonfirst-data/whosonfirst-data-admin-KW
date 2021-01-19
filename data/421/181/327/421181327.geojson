@@ -4,15 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"47.924562,29.253972,47.924562,29.253972",
-    "geom:latitude":29.253972,
-    "geom:longitude":47.924562,
+    "geom:area":0.000647,
+    "geom:area_square_m":6978860.812191,
+    "geom:bbox":"47.907574,29.245047,47.953641,29.267354",
+    "geom:latitude":29.25886,
+    "geom:longitude":47.932313,
     "iso:country":"KW",
     "lbl:bbox":"47.904562,29.233972,47.944562,29.273972",
+    "lbl:latitude":29.256541,
+    "lbl:longitude":47.934177,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.256541,
+    "mps:longitude":47.934177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -68,7 +72,11 @@
     "qs:qs_id":492730,
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940602,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":29.266667,
     "wd:longitude":47.933333,
     "wd:wordcount":210,
@@ -85,7 +93,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009292,
-    "wof:geomhash":"6bd9d01364e1532c5c8a8817bf256e1d",
+    "wof:geomhash":"70cb5acbd076e03a9fa44be22af8f8ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,8 +103,8 @@
         }
     ],
     "wof:id":421181327,
-    "wof:lastmodified":1566591068,
-    "wof:name":"Jleeb al Shuyoukh",
+    "wof:lastmodified":1611092491,
+    "wof:name":"Jleeb Al-Shuyoukh",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
@@ -105,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.924562,
-    29.253972,
-    47.924562,
-    29.253972
+    47.907574,
+    29.245047,
+    47.953641,
+    29.267354
 ],
-  "geometry": {"coordinates":[47.924562,29.253972],"type":"Point"}
+  "geometry": {"coordinates":[[[47.952683,29.266118],[47.953641,29.258853],[47.952001,29.257213],[47.946123,29.251745],[47.940791,29.249284],[47.931769,29.245047],[47.914545,29.25858],[47.908804,29.262954],[47.907847,29.264184],[47.907574,29.265688],[47.907901,29.267354],[47.910976,29.26731],[47.93049,29.267078],[47.950236,29.266149],[47.952683,29.266118]]],"type":"Polygon"}
 }

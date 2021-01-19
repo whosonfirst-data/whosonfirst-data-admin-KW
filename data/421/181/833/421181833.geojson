@@ -4,23 +4,30 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"47.789303,29.253449,47.789303,29.253449",
-    "geom:latitude":29.253449,
-    "geom:longitude":47.789303,
+    "geom:area":0.001924,
+    "geom:area_square_m":20746748.013042,
+    "geom:bbox":"47.784955,29.265005,47.864828,29.295764",
+    "geom:latitude":29.282584,
+    "geom:longitude":47.830136,
     "iso:country":"KW",
     "lbl:bbox":"47.769303,29.2334495,47.809303,29.2734495",
+    "lbl:latitude":29.280765,
+    "lbl:longitude":47.83413,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.280765,
+    "mps:longitude":47.83413,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u0644\u064a\u0628\u064a\u0629"
     ],
     "name:eng_x_preferred":[
+        "Sulaibiya"
+    ],
+    "name:eng_x_variant":[
         "As Sulaibiya"
     ],
     "qs:gn_country":null,
@@ -41,7 +48,11 @@
     "qs:qs_id":506101,
     "qs:woe_adm0":23424870,
     "qs:woe_id":10644937,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -54,7 +65,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009308,
-    "wof:geomhash":"c36375b07f057e9336967d3c1ddedc42",
+    "wof:geomhash":"3b94b8d6922b45fea5ad005accf6f7fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,8 +75,8 @@
         }
     ],
     "wof:id":421181833,
-    "wof:lastmodified":1601423087,
-    "wof:name":"As Sulaibiya",
+    "wof:lastmodified":1611092488,
+    "wof:name":"Sulaibiya",
     "wof:parent_id":85673399,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
@@ -74,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.789303,
-    29.253449,
-    47.789303,
-    29.253449
+    47.784955,
+    29.265005,
+    47.864828,
+    29.295764
 ],
-  "geometry": {"coordinates":[47.789303,29.253449],"type":"Point"}
+  "geometry": {"coordinates":[[[47.86405,29.266381],[47.856995,29.265688],[47.844692,29.265005],[47.835807,29.265825],[47.830066,29.266918],[47.807921,29.275257],[47.784955,29.283732],[47.786049,29.287833],[47.786049,29.290294],[47.785092,29.295762],[47.856312,29.295215],[47.864828,29.295764],[47.86405,29.266381]]],"type":"Polygon"}
 }

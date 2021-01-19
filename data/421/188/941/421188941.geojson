@@ -4,19 +4,29 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"47.888717,29.279212,47.888717,29.279212",
-    "geom:latitude":29.279212,
-    "geom:longitude":47.888717,
+    "geom:area":0.001156,
+    "geom:area_square_m":12470186.005771,
+    "geom:bbox":"47.879034,29.267145,47.928399,29.30053",
+    "geom:latitude":29.285851,
+    "geom:longitude":47.9074,
     "iso:country":"KW",
     "lbl:bbox":"47.868717,29.259212,47.908717,29.299212",
+    "lbl:latitude":29.288716,
+    "lbl:longitude":47.90693,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.288716,
+    "mps:longitude":47.90693,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0631\u0636\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ardiya"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -35,7 +45,11 @@
     "qs:qs_id":1105398,
     "qs:woe_adm0":23424870,
     "qs:woe_id":10644968,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -48,7 +62,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009588,
-    "wof:geomhash":"4a81012d582cc66978fb72536505ff1d",
+    "wof:geomhash":"305b904cb04383c1d3f609f7e691ec42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +72,8 @@
         }
     ],
     "wof:id":421188941,
-    "wof:lastmodified":1566591066,
-    "wof:name":"Aardiyah",
+    "wof:lastmodified":1611092493,
+    "wof:name":"Ardiya",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
@@ -68,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.888717,
-    29.279212,
-    47.888717,
-    29.279212
+    47.879034,
+    29.267145,
+    47.928399,
+    29.30053
 ],
-  "geometry": {"coordinates":[47.888717,29.279212],"type":"Point"}
+  "geometry": {"coordinates":[[[47.889045,29.27512],[47.88763,29.2791],[47.8867,29.281771],[47.885423,29.283514],[47.88368,29.28514],[47.881009,29.287114],[47.879267,29.290947],[47.879034,29.294897],[47.879034,29.296775],[47.905229,29.29864],[47.927702,29.30053],[47.928399,29.291238],[47.928155,29.288304],[47.92747,29.280087],[47.924847,29.267145],[47.910976,29.26731],[47.907901,29.267354],[47.906936,29.27865],[47.902613,29.278403],[47.898432,29.277706],[47.893321,29.27608],[47.889045,29.27512]]],"type":"Polygon"}
 }

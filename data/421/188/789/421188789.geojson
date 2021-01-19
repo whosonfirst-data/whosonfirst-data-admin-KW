@@ -4,19 +4,29 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"47.970771,29.2955215,47.970771,29.2955215",
-    "geom:latitude":29.295521,
-    "geom:longitude":47.970771,
+    "geom:area":0.000653,
+    "geom:area_square_m":7039230.289581,
+    "geom:bbox":"47.963644,29.265916,47.987895,29.304015",
+    "geom:latitude":29.284456,
+    "geom:longitude":47.975918,
     "iso:country":"KW",
     "lbl:bbox":"47.950771,29.2755215,47.990771,29.3155215",
+    "lbl:latitude":29.284876,
+    "lbl:longitude":47.976149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.284876,
+    "mps:longitude":47.976149,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062e\u064a\u0637\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Khaitan"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -35,7 +45,11 @@
     "qs:qs_id":31160,
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940518,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -48,7 +62,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009578,
-    "wof:geomhash":"573f149d857fccd0e3b03fd4884c74ba",
+    "wof:geomhash":"2c490ab6bd073042b926b8a3b9be2fef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +72,22 @@
         }
     ],
     "wof:id":421188789,
-    "wof:lastmodified":1566591067,
-    "wof:name":"Abrak Khetan",
+    "wof:lastmodified":1611092481,
+    "wof:name":"Khaitan",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343852597
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    47.970771,
-    29.2955215,
-    47.970771,
-    29.2955215
+    47.963644,
+    29.265916,
+    47.987895,
+    29.304015
 ],
-  "geometry": {"coordinates":[47.970771,29.2955215],"type":"Point"}
+  "geometry": {"coordinates":[[[47.970742,29.265916],[47.963644,29.303059],[47.979042,29.304015],[47.982004,29.294955],[47.985721,29.284036],[47.98665,29.27486],[47.987895,29.265916],[47.970742,29.265916]]],"type":"Polygon"}
 }

@@ -4,19 +4,29 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.1328465,29.1247975,48.1328465,29.1247975",
-    "geom:latitude":29.124797,
-    "geom:longitude":48.132846,
+    "geom:area":0.000353,
+    "geom:area_square_m":3810681.003188,
+    "geom:bbox":"48.114299,29.119216,48.138721,29.138086",
+    "geom:latitude":29.128495,
+    "geom:longitude":48.1255,
     "iso:country":"KW",
     "lbl:bbox":"48.1128465,29.1047975,48.1528465,29.1447975",
+    "lbl:latitude":29.12849,
+    "lbl:longitude":48.125256,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.12849,
+    "mps:longitude":48.125256,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062d\u0644\u064a\u0641\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Abu Halifa"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -35,7 +45,11 @@
     "qs:qs_id":1119534,
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940620,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -48,7 +62,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009655,
-    "wof:geomhash":"95239c8baae84bd92197fc05e73a2ec5",
+    "wof:geomhash":"cae9f570da0a51afeb6fbf6232106f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +72,22 @@
         }
     ],
     "wof:id":421190377,
-    "wof:lastmodified":1566591069,
-    "wof:name":"Abu Hulaifa",
+    "wof:lastmodified":1611092484,
+    "wof:name":"Abu Halifa",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276873349
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    48.1328465,
-    29.1247975,
-    48.1328465,
-    29.1247975
+    48.114299,
+    29.119216,
+    48.138721,
+    29.138086
 ],
-  "geometry": {"coordinates":[48.1328465,29.1247975],"type":"Point"}
+  "geometry": {"coordinates":[[[48.116863,29.119299],[48.114299,29.136683],[48.116791,29.13726],[48.125403,29.137397],[48.13376,29.138086],[48.133778,29.130806],[48.136276,29.128305],[48.138721,29.121639],[48.138721,29.121545],[48.130734,29.120583],[48.123215,29.119216],[48.117611,29.119216],[48.116863,29.119299]]],"type":"Polygon"}
 }

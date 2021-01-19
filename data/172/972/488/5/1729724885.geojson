@@ -1,0 +1,56 @@
+{
+  "id": 1729724885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00392,
+    "geom:area_square_m":42480040.616959,
+    "geom:bbox":"48.016317,28.740493,48.106812,28.812123",
+    "geom:latitude":28.781307,
+    "geom:longitude":48.061278,
+    "iso:country":"KW",
+    "lbl:latitude":28.783485,
+    "lbl:longitude":48.060416,
+    "mps:latitude":28.783485,
+    "mps:longitude":48.060416,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0635\u0628\u0627\u062d \u0627\u0644\u0623\u062d\u0645\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Sabah Al Ahmad"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611092492,
+    "wof:geomhash":"fadeb40f619a82f0a5e93d308ea05104",
+    "wof:hierarchy":[],
+    "wof:id":1729724885,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611092492,
+    "wof:name":"Sabah Al Ahmad",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.016317,
+    28.740493,
+    48.106812,
+    28.812123
+],
+  "geometry": {"coordinates":[[[48.102984,28.812123],[48.106812,28.809936],[48.070176,28.740493],[48.016317,28.762638],[48.044204,28.812123],[48.102984,28.812123]]],"type":"Polygon"}
+}

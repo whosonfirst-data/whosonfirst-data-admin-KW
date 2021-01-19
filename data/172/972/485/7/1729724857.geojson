@@ -1,0 +1,56 @@
+{
+  "id": 1729724857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000187,
+    "geom:area_square_m":2017269.607755,
+    "geom:bbox":"47.92747,29.27939,47.949539,29.289135",
+    "geom:latitude":29.284144,
+    "geom:longitude":47.938526,
+    "iso:country":"KW",
+    "lbl:latitude":29.284241,
+    "lbl:longitude":47.938526,
+    "mps:latitude":29.284241,
+    "mps:longitude":47.938526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062d\u0627\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Rihab"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611092479,
+    "wof:geomhash":"46d0324f432e88a304b78e80906904d8",
+    "wof:hierarchy":[],
+    "wof:id":1729724857,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611092479,
+    "wof:name":"Rihab",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.92747,
+    29.27939,
+    47.949539,
+    29.289135
+],
+  "geometry": {"coordinates":[[[47.928155,29.288304],[47.947731,29.289135],[47.949539,29.27939],[47.92747,29.280087],[47.928155,29.288304]]],"type":"Polygon"}
+}

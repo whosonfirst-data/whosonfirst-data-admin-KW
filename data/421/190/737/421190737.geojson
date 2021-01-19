@@ -4,15 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.06702,29.313379,48.06702,29.313379",
-    "geom:latitude":29.313379,
-    "geom:longitude":48.06702,
+    "geom:area":0.000559,
+    "geom:area_square_m":6026369.517708,
+    "geom:bbox":"48.052916,29.303425,48.092021,29.325851",
+    "geom:latitude":29.315839,
+    "geom:longitude":48.073762,
     "iso:country":"KW",
     "lbl:bbox":"48.04702,29.293379,48.08702,29.333379",
+    "lbl:latitude":29.317391,
+    "lbl:longitude":48.07339,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.317391,
+    "mps:longitude":48.07339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -59,7 +63,11 @@
     "qs:qs_id":1120286,
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940578,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":214,
     "wof:belongsto":[
         102191569,
@@ -74,7 +82,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009667,
-    "wof:geomhash":"ab4b83e41522cc6840763eeb031fb69b",
+    "wof:geomhash":"c8d4318355e6eda213d06ff1e74d8f42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +92,7 @@
         }
     ],
     "wof:id":421190737,
-    "wof:lastmodified":1566591069,
+    "wof:lastmodified":1611092482,
     "wof:name":"Rumaithiya",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",
@@ -94,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.06702,
-    29.313379,
-    48.06702,
-    29.313379
+    48.052916,
+    29.303425,
+    48.092021,
+    29.325851
 ],
-  "geometry": {"coordinates":[48.06702,29.313379],"type":"Point"}
+  "geometry": {"coordinates":[[[48.089581,29.307606],[48.084045,29.308661],[48.075682,29.30959],[48.071036,29.308661],[48.067086,29.307499],[48.061504,29.303425],[48.052916,29.314236],[48.061279,29.320741],[48.067783,29.324225],[48.072662,29.325619],[48.078005,29.325851],[48.086135,29.324458],[48.092021,29.322205],[48.091194,29.3125],[48.089584,29.309999],[48.089581,29.307606]]],"type":"Polygon"}
 }

@@ -1,0 +1,56 @@
+{
+  "id": 1729724861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000326,
+    "geom:area_square_m":3512972.075906,
+    "geom:bbox":"47.924847,29.266118,47.952683,29.280087",
+    "geom:latitude":29.272953,
+    "geom:longitude":47.938691,
+    "iso:country":"KW",
+    "lbl:latitude":29.273212,
+    "lbl:longitude":47.938691,
+    "mps:latitude":29.273212,
+    "mps:longitude":47.938691,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0625\u0634\u0628\u064a\u0644\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ishbiliya"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611092479,
+    "wof:geomhash":"ede0636f4a3d9641380967f04568b641",
+    "wof:hierarchy":[],
+    "wof:id":1729724861,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611092479,
+    "wof:name":"Ishbiliya",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.924847,
+    29.266118,
+    47.952683,
+    29.280087
+],
+  "geometry": {"coordinates":[[[47.92747,29.280087],[47.949539,29.27939],[47.952683,29.266118],[47.950236,29.266149],[47.93049,29.267078],[47.924847,29.267145],[47.92747,29.280087]]],"type":"Polygon"}
+}

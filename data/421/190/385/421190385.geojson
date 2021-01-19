@@ -4,15 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.0866425,29.2919375,48.0866425,29.2919375",
-    "geom:latitude":29.291937,
-    "geom:longitude":48.086643,
+    "geom:area":0.000675,
+    "geom:area_square_m":7275860.858727,
+    "geom:bbox":"48.061504,29.268704,48.091221,29.30959",
+    "geom:latitude":29.293302,
+    "geom:longitude":48.07995,
     "iso:country":"KW",
     "lbl:bbox":"48.0666425,29.2719375,48.1066425,29.3119375",
+    "lbl:latitude":29.296349,
+    "lbl:longitude":48.079725,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.296349,
+    "mps:longitude":48.079725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -59,7 +63,11 @@
     "qs:qs_id":1119537,
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940612,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":127,
     "wof:belongsto":[
         102191569,
@@ -74,7 +82,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009656,
-    "wof:geomhash":"352e526d366944dcc05a34401a1891fd",
+    "wof:geomhash":"66eaa6f3a7f9737795e2d2052aafa2c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,20 +92,22 @@
         }
     ],
     "wof:id":421190385,
-    "wof:lastmodified":1566591069,
+    "wof:lastmodified":1611092482,
     "wof:name":"Salwa",
     "wof:parent_id":85673395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890440363
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    48.0866425,
-    29.2919375,
-    48.0866425,
-    29.2919375
+    48.061504,
+    29.268704,
+    48.091221,
+    29.30959
 ],
-  "geometry": {"coordinates":[48.0866425,29.2919375],"type":"Point"}
+  "geometry": {"coordinates":[[[48.061504,29.303425],[48.067086,29.307499],[48.071036,29.308661],[48.075682,29.30959],[48.084045,29.308661],[48.089581,29.307606],[48.089554,29.283361],[48.091221,29.280027],[48.091221,29.270702],[48.087529,29.270098],[48.085671,29.268704],[48.072662,29.289379],[48.061504,29.303425]]],"type":"Polygon"}
 }

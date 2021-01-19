@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.08716,29.18979,48.08716,29.18979",
-    "geom:latitude":29.18979,
-    "geom:longitude":48.08716,
+    "geom:area":0.000427,
+    "geom:area_square_m":4612666.102765,
+    "geom:bbox":"48.064003,29.175877,48.091843,29.198569",
+    "geom:latitude":29.187913,
+    "geom:longitude":48.078205,
     "gn:admin1_code":"9.0",
     "gn:asciiname":"Mubarak al Kabir",
     "gn:country_code":"KW",
@@ -24,15 +24,29 @@
     "gn:timezone":"Asia/Kuwait",
     "iso:country":"KW",
     "lbl:bbox":"48.06716,29.16979,48.10716,29.20979",
+    "lbl:latitude":29.188262,
+    "lbl:longitude":48.07794,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.188262,
+    "mps:longitude":48.07794,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0628\u0627\u0631\u0643 \u0627\u0644\u0643\u0628\u064a\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Mubarak Al-Kabeer"
+    ],
     "name:und_x_variant":[
         "Mubarak Al-Kabeer"
     ],
-    "src:geom":"geonames",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -44,7 +58,7 @@
         "wk:page":"Mubarak_Al-Kabeer,_Kuwait"
     },
     "wof:country":"KW",
-    "wof:geomhash":"47a2c5d85a83aa5f4b7a1fc8905ad3fc",
+    "wof:geomhash":"4abee45dec0ba6e01e19101e5675b4a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,8 +68,8 @@
         }
     ],
     "wof:id":1193262799,
-    "wof:lastmodified":1566591060,
-    "wof:name":"Mubarak al Kabir",
+    "wof:lastmodified":1611092487,
+    "wof:name":"Mubarak Al-Kabeer",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
@@ -64,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.08716,
-    29.18979,
-    48.08716,
-    29.18979
+    48.064003,
+    29.175877,
+    48.091843,
+    29.198569
 ],
-  "geometry": {"coordinates":[48.08716,29.18979],"type":"Point"}
+  "geometry": {"coordinates":[[[48.064003,29.19204],[48.067579,29.193443],[48.073526,29.195904],[48.081864,29.198159],[48.085213,29.198569],[48.087606,29.198022],[48.091843,29.195972],[48.089929,29.192691],[48.089109,29.189684],[48.089656,29.186266],[48.091296,29.179841],[48.084461,29.180388],[48.07831,29.179568],[48.068741,29.175877],[48.064003,29.19204]]],"type":"Polygon"}
 }

@@ -1,0 +1,56 @@
+{
+  "id": 1729724887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000232,
+    "geom:area_square_m":2495878.54359,
+    "geom:bbox":"48.013307,29.342848,48.041468,29.360688",
+    "geom:latitude":29.350545,
+    "geom:longitude":48.026906,
+    "iso:country":"KW",
+    "lbl:latitude":29.350655,
+    "lbl:longitude":48.026693,
+    "mps:latitude":29.350655,
+    "mps:longitude":48.026693,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0639\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Shaab"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611092493,
+    "wof:geomhash":"c6c572e1e0f4b50eed37e304e236b9bd",
+    "wof:hierarchy":[],
+    "wof:id":1729724887,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611092493,
+    "wof:name":"Shaab",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.013307,
+    29.342848,
+    48.041468,
+    29.360688
+],
+  "geometry": {"coordinates":[[[48.03258,29.34389],[48.013307,29.349314],[48.014875,29.352044],[48.017431,29.355064],[48.019812,29.356922],[48.021179,29.35779],[48.026193,29.360688],[48.026411,29.360066],[48.0261,29.359288],[48.027686,29.356706],[48.02946,29.354871],[48.031202,29.354808],[48.031015,29.353564],[48.031451,29.352942],[48.032135,29.352382],[48.03286,29.352501],[48.033442,29.351884],[48.033846,29.351013],[48.034562,29.350733],[48.035122,29.350982],[48.036055,29.350297],[48.037082,29.350391],[48.037237,29.35008],[48.037424,29.349333],[48.038388,29.348711],[48.041468,29.348244],[48.037912,29.342848],[48.036028,29.343036],[48.034521,29.34313],[48.03258,29.34389]]],"type":"Polygon"}
+}

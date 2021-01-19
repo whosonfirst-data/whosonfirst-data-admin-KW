@@ -4,21 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.059193,29.2219935,48.059193,29.2219935",
-    "geom:latitude":29.221993,
-    "geom:longitude":48.059193,
+    "geom:area":0.000631,
+    "geom:area_square_m":6808831.447337,
+    "geom:bbox":"48.050258,29.219519,48.084596,29.245676",
+    "geom:latitude":29.232333,
+    "geom:longitude":48.068321,
     "iso:country":"KW",
     "lbl:bbox":"48.039193,29.2019935,48.079193,29.2419935",
+    "lbl:latitude":29.231996,
+    "lbl:longitude":48.068322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.231996,
+    "mps:longitude":48.068322,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u062f\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Adan"
     ],
     "name:fas_x_preferred":[
         "\u0639\u062f\u0627\u0646"
@@ -44,7 +51,11 @@
     "qs:qs_id":1111561,
     "qs:woe_adm0":23424870,
     "qs:woe_id":55943381,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -57,7 +68,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009616,
-    "wof:geomhash":"79a330508c8123281e4bc9b3b6db6da9",
+    "wof:geomhash":"688a932e68ebdec69773507d711083ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,20 +78,22 @@
         }
     ],
     "wof:id":421189287,
-    "wof:lastmodified":1566591066,
-    "wof:name":"Al Adan",
+    "wof:lastmodified":1611092493,
+    "wof:name":"Al-Adan",
     "wof:parent_id":85673395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276747987
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    48.059193,
-    29.2219935,
-    48.059193,
-    29.2219935
+    48.050258,
+    29.219519,
+    48.084596,
+    29.245676
 ],
-  "geometry": {"coordinates":[48.059193,29.2219935],"type":"Point"}
+  "geometry": {"coordinates":[[[48.082216,29.245676],[48.082617,29.243385],[48.083606,29.237941],[48.084321,29.233596],[48.084596,29.231781],[48.084486,29.230571],[48.084156,29.229801],[48.083778,29.228916],[48.081454,29.226046],[48.080702,29.224815],[48.079199,29.22297],[48.077216,29.222013],[48.074346,29.221398],[48.071202,29.221193],[48.067169,29.221808],[48.064298,29.221671],[48.061428,29.221124],[48.058557,29.220441],[48.055946,29.219519],[48.050258,29.23892],[48.061086,29.241356],[48.070928,29.242723],[48.077216,29.243816],[48.082216,29.245676]]],"type":"Polygon"}
 }

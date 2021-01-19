@@ -4,25 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.12111,29.17389,48.12111,29.17389",
-    "geom:latitude":29.17389,
-    "geom:longitude":48.12111,
+    "geom:area":0.000312,
+    "geom:area_square_m":3373879.936775,
+    "geom:bbox":"48.110229,29.158448,48.125416,29.185656",
+    "geom:latitude":29.170725,
+    "geom:longitude":48.118435,
     "iso:country":"KW",
     "lbl:bbox":"48.10111,29.15389,48.14111,29.19389",
+    "lbl:latitude":29.169859,
+    "lbl:longitude":48.119049,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
+    "mps:latitude":29.169859,
+    "mps:longitude":48.119049,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
-        "\u0627\u064e\u0644\u0652\u0641\u0650\u0646\u0652\u0637\u064e\u0627\u0633"
+        "\u0627\u0644\u0641\u0646\u0637\u0627\u0633"
     ],
     "name:ara_x_variant":[
         "Al Fin\u0163\u0101s",
-        "\u0627\u0644\u0641\u0646\u0637\u0627\u0633"
+        "\u0627\u064e\u0644\u0652\u0641\u0650\u0646\u0652\u0637\u064e\u0627\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Fintas"
     ],
     "name:und_x_variant":[
         "Fin\u0163\u0101s"
@@ -45,7 +52,11 @@
     "qs:qs_id":911276,
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940541,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191569,
@@ -60,7 +71,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009050,
-    "wof:geomhash":"1cb41388456cce54bebbbd5ce92833bc",
+    "wof:geomhash":"d9fc7bece4e3d6c10d57c31726476930",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,8 +81,8 @@
         }
     ],
     "wof:id":421174965,
-    "wof:lastmodified":1566591065,
-    "wof:name":"Al Fintas",
+    "wof:lastmodified":1611092486,
+    "wof:name":"Al-Fintas",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",
     "wof:population":23071,
@@ -82,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.12111,
-    29.17389,
-    48.12111,
-    29.17389
+    48.110229,
+    29.158448,
+    48.125416,
+    29.185656
 ],
-  "geometry": {"coordinates":[48.12111,29.17389],"type":"Point"}
+  "geometry": {"coordinates":[[[48.110672,29.1604],[48.110229,29.164326],[48.110913,29.168017],[48.1131,29.172118],[48.113783,29.176766],[48.113236,29.180457],[48.111839,29.183632],[48.119712,29.185656],[48.122028,29.182472],[48.122082,29.180861],[48.123749,29.179167],[48.123779,29.176666],[48.125416,29.173306],[48.12539,29.158817],[48.123079,29.158448],[48.118568,29.158585],[48.116244,29.159815],[48.113647,29.160772],[48.110672,29.1604]]],"type":"Polygon"}
 }
