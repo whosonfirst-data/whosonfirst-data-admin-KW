@@ -129,6 +129,9 @@
         "gp:id":23388328,
         "wd:id":"Q527157"
     },
+    "wof:coterminous":[
+        1729726339
+    ],
     "wof:country":"KW",
     "wof:geomhash":"80d48c4fdfdda0e54e597d93f668f614",
     "wof:hierarchy":[
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":102542307,
-    "wof:lastmodified":1611095080,
+    "wof:lastmodified":1611095461,
     "wof:name":"Kuwait International Airport",
     "wof:parent_id":85932335,
     "wof:placetype":"campus",

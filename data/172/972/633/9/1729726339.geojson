@@ -26,6 +26,9 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:coterminous":[
+        102542307
+    ],
     "wof:country":"KW",
     "wof:created":1611094338,
     "wof:geomhash":"80d48c4fdfdda0e54e597d93f668f614",
@@ -37,7 +40,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611094338,
+    "wof:lastmodified":1611095455,
     "wof:name":"Kuwait International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
