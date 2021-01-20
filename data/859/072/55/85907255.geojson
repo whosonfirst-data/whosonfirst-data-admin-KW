@@ -18,7 +18,7 @@
     "mps:longitude":47.993782,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -89,7 +89,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105468,
+    "wof:lastmodified":1611106936,
     "wof:name":"Bloush",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
