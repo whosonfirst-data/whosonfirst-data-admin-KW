@@ -10,7 +10,6 @@
     "geom:latitude":29.271425,
     "geom:longitude":48.008193,
     "iso:country":"KW",
-    "lbl:bbox":"47.988193,29.251425,48.028193,29.291425",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -58,7 +57,13 @@
         }
     ],
     "wof:id":421172977,
-    "wof:lastmodified":1566591067,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104546,
     "wof:name":"South Khaitan",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",

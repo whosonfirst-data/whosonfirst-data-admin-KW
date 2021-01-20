@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1243258503,
-    "wof:lastmodified":1611103245,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104550,
     "wof:name":"Abu Fatira",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",

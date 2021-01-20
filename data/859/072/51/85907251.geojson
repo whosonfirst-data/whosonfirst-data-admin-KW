@@ -11,7 +11,6 @@
     "geom:longitude":48.019822,
     "gn:id":"",
     "iso:country":"KW",
-    "lbl:bbox":"48.014822,29.33009,48.024822,29.34009",
     "lbl:latitude":29.33509,
     "lbl:longitude":48.019822,
     "lbl:max_zoom":18.0,
@@ -98,10 +97,13 @@
         }
     ],
     "wof:id":85907251,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "ara"
     ],
-    "wof:lastmodified":1582331168,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104538,
     "wof:name":"Jabriya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

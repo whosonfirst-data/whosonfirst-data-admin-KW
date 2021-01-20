@@ -10,7 +10,6 @@
     "geom:latitude":29.321884,
     "geom:longitude":48.017642,
     "iso:country":"KW",
-    "lbl:bbox":"48.012642,29.316884,48.022642,29.326884",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -58,7 +57,13 @@
         }
     ],
     "wof:id":421189289,
-    "wof:lastmodified":1566591066,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104545,
     "wof:name":"Jabriya-block 1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,7 +11,6 @@
     "geom:longitude":47.984045,
     "gn:id":"",
     "iso:country":"KW",
-    "lbl:bbox":"47.979045,29.312182,47.989045,29.322182",
     "lbl:latitude":29.317182,
     "lbl:longitude":47.984045,
     "lbl:max_zoom":18.0,
@@ -81,10 +80,13 @@
         }
     ],
     "wof:id":85932483,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "ara"
     ],
-    "wof:lastmodified":1582331167,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104536,
     "wof:name":"Qurtuba-block 4",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

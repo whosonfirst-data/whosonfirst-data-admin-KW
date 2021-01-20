@@ -23,7 +23,6 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuwait",
     "iso:country":"KW",
-    "lbl:bbox":"47.84667,29.64667,47.88667,29.68667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -67,7 +66,13 @@
         }
     ],
     "wof:id":1226052469,
-    "wof:lastmodified":1566591078,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104551,
     "wof:name":"Bahra",
     "wof:parent_id":85673399,
     "wof:placetype":"locality",

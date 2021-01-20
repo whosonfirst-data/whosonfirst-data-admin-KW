@@ -62,6 +62,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009411,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1f19cc0ea180fe543b038f2d3946beed",
     "wof:hierarchy":[
         {
@@ -72,7 +75,13 @@
         }
     ],
     "wof:id":421184443,
-    "wof:lastmodified":1611092492,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104549,
     "wof:name":"Al Zour",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",

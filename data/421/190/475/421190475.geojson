@@ -106,6 +106,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009658,
+    "wof:geom_alt":[
+        "whosonfirst"
+    ],
     "wof:geomhash":"cb24b538c0cb4219649b85f4bc82735e",
     "wof:hierarchy":[
         {
@@ -116,7 +119,13 @@
         }
     ],
     "wof:id":421190475,
-    "wof:lastmodified":1611092495,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104547,
     "wof:name":"Abu Fateira",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

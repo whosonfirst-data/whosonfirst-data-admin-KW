@@ -68,6 +68,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009616,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"688a932e68ebdec69773507d711083ec",
     "wof:hierarchy":[
         {
@@ -78,7 +81,13 @@
         }
     ],
     "wof:id":421189287,
-    "wof:lastmodified":1611092493,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104545,
     "wof:name":"Al-Adan",
     "wof:parent_id":85673395,
     "wof:placetype":"locality",

@@ -82,6 +82,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009667,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c8d4318355e6eda213d06ff1e74d8f42",
     "wof:hierarchy":[
         {
@@ -92,7 +95,13 @@
         }
     ],
     "wof:id":421190737,
-    "wof:lastmodified":1611092482,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104547,
     "wof:name":"Rumaithiya",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

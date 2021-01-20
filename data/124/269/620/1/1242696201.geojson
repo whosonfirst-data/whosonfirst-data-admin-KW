@@ -23,7 +23,6 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuwait",
     "iso:country":"KW",
-    "lbl:bbox":"48.09667,29.14667,48.13667,29.18667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -56,7 +55,13 @@
         }
     ],
     "wof:id":1242696201,
-    "wof:lastmodified":1566591076,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104550,
     "wof:name":"Dant",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",

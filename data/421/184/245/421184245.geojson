@@ -10,7 +10,6 @@
     "geom:latitude":29.316537,
     "geom:longitude":48.068036,
     "iso:country":"KW",
-    "lbl:bbox":"48.063036,29.311537,48.073036,29.321537",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -58,7 +57,13 @@
         }
     ],
     "wof:id":421184245,
-    "wof:lastmodified":1566591071,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104548,
     "wof:name":"Rumaithiya-block 10",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

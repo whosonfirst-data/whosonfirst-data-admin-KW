@@ -10,7 +10,6 @@
     "geom:latitude":29.357507,
     "geom:longitude":47.986296,
     "iso:country":"KW",
-    "lbl:bbox":"47.981296,29.352507,47.991296,29.362507",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -58,7 +57,13 @@
         }
     ],
     "wof:id":421184689,
-    "wof:lastmodified":1566591071,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104548,
     "wof:name":"Mansouriyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -82,10 +82,13 @@
         }
     ],
     "wof:id":85904189,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "ara"
     ],
-    "wof:lastmodified":1611094321,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104534,
     "wof:name":"Dasman",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

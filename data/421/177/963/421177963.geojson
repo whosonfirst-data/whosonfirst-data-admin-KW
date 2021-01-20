@@ -68,6 +68,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009166,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8a1c73f358d88645b6e6afb25c963297",
     "wof:hierarchy":[
         {
@@ -78,7 +81,13 @@
         }
     ],
     "wof:id":421177963,
-    "wof:lastmodified":1611092481,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104549,
     "wof:name":"Al-Siddeeq",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",

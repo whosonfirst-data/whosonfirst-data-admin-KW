@@ -79,6 +79,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009602,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f09db2b486a9658281a0cf98e0edecbc",
     "wof:hierarchy":[
         {
@@ -89,7 +92,13 @@
         }
     ],
     "wof:id":421189039,
-    "wof:lastmodified":1611092482,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104545,
     "wof:name":"Jabriya",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

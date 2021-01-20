@@ -11,7 +11,6 @@
     "geom:longitude":47.968738,
     "gn:id":"",
     "iso:country":"KW",
-    "lbl:bbox":"47.963738,29.301943,47.973738,29.311943",
     "lbl:latitude":29.306943,
     "lbl:longitude":47.968738,
     "lbl:max_zoom":18.0,
@@ -81,10 +80,13 @@
         }
     ],
     "wof:id":85932399,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "ara"
     ],
-    "wof:lastmodified":1582331167,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104537,
     "wof:name":"Yarmouk-block 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

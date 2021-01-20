@@ -71,6 +71,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009050,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d9fc7bece4e3d6c10d57c31726476930",
     "wof:hierarchy":[
         {
@@ -81,7 +84,13 @@
         }
     ],
     "wof:id":421174965,
-    "wof:lastmodified":1611092486,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104545,
     "wof:name":"Al-Fintas",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",

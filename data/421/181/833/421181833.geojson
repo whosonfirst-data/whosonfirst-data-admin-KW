@@ -65,6 +65,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009308,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b94b8d6922b45fea5ad005accf6f7fc",
     "wof:hierarchy":[
         {
@@ -75,7 +78,13 @@
         }
     ],
     "wof:id":421181833,
-    "wof:lastmodified":1611092488,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104546,
     "wof:name":"Sulaibiya",
     "wof:parent_id":85673399,
     "wof:placetype":"locality",

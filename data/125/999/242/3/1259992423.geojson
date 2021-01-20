@@ -23,7 +23,6 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuwait",
     "iso:country":"KW",
-    "lbl:bbox":"48.29389,29.4425,48.33389,29.4825",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -53,7 +52,13 @@
         }
     ],
     "wof:id":1259992423,
-    "wof:lastmodified":1566591077,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104551,
     "wof:name":"Ad Dasht",
     "wof:parent_id":85673383,
     "wof:placetype":"locality",

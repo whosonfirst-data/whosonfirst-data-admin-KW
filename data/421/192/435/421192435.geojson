@@ -83,6 +83,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009736,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"18071b400197307c251f11033c02f0a2",
     "wof:hierarchy":[
         {
@@ -94,7 +97,13 @@
         }
     ],
     "wof:id":421192435,
-    "wof:lastmodified":1611094321,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104543,
     "wof:name":"Al Murq\u00e5b",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

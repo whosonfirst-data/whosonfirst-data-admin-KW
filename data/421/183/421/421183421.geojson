@@ -10,7 +10,6 @@
     "geom:latitude":29.323941,
     "geom:longitude":48.054778,
     "iso:country":"KW",
-    "lbl:bbox":"48.049778,29.318941,48.059778,29.328941",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -58,7 +57,13 @@
         }
     ],
     "wof:id":421183421,
-    "wof:lastmodified":1566591074,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104550,
     "wof:name":"Salmiya-block 12",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,7 +10,6 @@
     "geom:latitude":29.364223,
     "geom:longitude":47.970085,
     "iso:country":"KW",
-    "lbl:bbox":"47.965085,29.359223,47.975085,29.369223",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -58,7 +57,13 @@
         }
     ],
     "wof:id":421184189,
-    "wof:lastmodified":1566591072,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104548,
     "wof:name":"Salhiya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

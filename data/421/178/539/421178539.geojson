@@ -10,7 +10,6 @@
     "geom:latitude":29.338937,
     "geom:longitude":47.731132,
     "iso:country":"KW",
-    "lbl:bbox":"47.711132,29.318937,47.751132,29.358937",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -58,7 +57,13 @@
         }
     ],
     "wof:id":421178539,
-    "wof:lastmodified":1566591074,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104550,
     "wof:name":"South Jahra",
     "wof:parent_id":85673399,
     "wof:placetype":"locality",

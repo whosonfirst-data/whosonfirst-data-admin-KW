@@ -80,6 +80,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459010184,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"15b83df770e0ac5f5fabca5d2f1f3fa2",
     "wof:hierarchy":[
         {
@@ -91,7 +94,13 @@
         }
     ],
     "wof:id":421204369,
-    "wof:lastmodified":1611094324,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104544,
     "wof:name":"Kayfan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -53,6 +53,9 @@
         "gn:id":285790
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"debcbcb60a33bc27b32bb0c83021d193",
     "wof:hierarchy":[
         {
@@ -63,7 +66,13 @@
         }
     ],
     "wof:id":1259985895,
-    "wof:lastmodified":1611092492,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104551,
     "wof:name":"Al Khiran",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

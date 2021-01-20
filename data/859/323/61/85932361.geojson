@@ -11,7 +11,6 @@
     "geom:longitude":47.99016,
     "gn:id":"",
     "iso:country":"KW",
-    "lbl:bbox":"47.98516,29.334716,47.99516,29.344716",
     "lbl:latitude":29.339716,
     "lbl:longitude":47.99016,
     "lbl:max_zoom":18.0,
@@ -84,10 +83,13 @@
         }
     ],
     "wof:id":85932361,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "ara"
     ],
-    "wof:lastmodified":1582331167,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104536,
     "wof:name":"Nuzha-block 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

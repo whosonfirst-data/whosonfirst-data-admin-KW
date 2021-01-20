@@ -62,6 +62,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459010183,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"deb708c8b30d34ec87531f678d924d82",
     "wof:hierarchy":[
         {
@@ -72,7 +75,13 @@
         }
     ],
     "wof:id":421204349,
-    "wof:lastmodified":1611092483,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104544,
     "wof:name":"Fahaheel",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",

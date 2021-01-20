@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":421193461,
-    "wof:lastmodified":1610657590,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104543,
     "wof:name":"Mubarak Al-Kabeer",
     "wof:parent_id":85673395,
     "wof:placetype":"county",

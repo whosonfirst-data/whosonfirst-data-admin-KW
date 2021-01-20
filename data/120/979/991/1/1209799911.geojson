@@ -54,6 +54,9 @@
         "gn:id":7329410
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"6949e71ecb50c51223d76857e11905e7",
     "wof:hierarchy":[
         {
@@ -64,7 +67,13 @@
         }
     ],
     "wof:id":1209799911,
-    "wof:lastmodified":1611092487,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104539,
     "wof:name":"Al-Qurain",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",

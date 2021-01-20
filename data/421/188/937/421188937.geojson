@@ -65,6 +65,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009588,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ff39c82cc42daa6719ce0a4d371d71c",
     "wof:hierarchy":[
         {
@@ -75,7 +78,13 @@
         }
     ],
     "wof:id":421188937,
-    "wof:lastmodified":1611092481,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104545,
     "wof:name":"Hateen",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",

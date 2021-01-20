@@ -6,11 +6,10 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.986489,29.3393345,47.986489,29.3393345",
+    "geom:bbox":"47.986489,29.339334,47.986489,29.339334",
     "geom:latitude":29.339334,
     "geom:longitude":47.986489,
     "iso:country":"KW",
-    "lbl:bbox":"47.981489,29.3343345,47.991489,29.3443345",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -47,7 +46,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009404,
-    "wof:geomhash":"44202ef17177d862539ddfd4b31e1e05",
+    "wof:geomhash":"70998d214ce27ab2055c825ca5b9df70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +57,13 @@
         }
     ],
     "wof:id":421184239,
-    "wof:lastmodified":1566591073,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104549,
     "wof:name":"Nuzha-block 2",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -69,9 +74,9 @@
 },
   "bbox": [
     47.986489,
-    29.3393345,
+    29.339334,
     47.986489,
-    29.3393345
+    29.339334
 ],
-  "geometry": {"coordinates":[47.986489,29.3393345],"type":"Point"}
+  "geometry": {"coordinates":[47.986489,29.339334],"type":"Point"}
 }

@@ -11,7 +11,6 @@
     "geom:longitude":47.968858,
     "gn:id":"",
     "iso:country":"KW",
-    "lbl:bbox":"47.963858,29.370896,47.973858,29.380896",
     "lbl:latitude":29.375896,
     "lbl:longitude":47.968858,
     "lbl:max_zoom":18.0,
@@ -91,10 +90,13 @@
         }
     ],
     "wof:id":85932563,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "ara"
     ],
-    "wof:lastmodified":1582331168,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104538,
     "wof:name":"\u0633\u0648\u0642 \u0634\u0631\u0642",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -55,6 +55,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009403,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"017e4a38a07963980f9ffc1c1008430b",
     "wof:hierarchy":[
         {
@@ -66,7 +69,13 @@
         }
     ],
     "wof:id":421184191,
-    "wof:lastmodified":1611094324,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104548,
     "wof:name":"Dasma",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

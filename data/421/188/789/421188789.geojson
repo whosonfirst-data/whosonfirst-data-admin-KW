@@ -62,6 +62,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009578,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2c490ab6bd073042b926b8a3b9be2fef",
     "wof:hierarchy":[
         {
@@ -72,7 +75,13 @@
         }
     ],
     "wof:id":421188789,
-    "wof:lastmodified":1611092481,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104546,
     "wof:name":"Khaitan",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",

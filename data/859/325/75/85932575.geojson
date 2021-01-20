@@ -11,7 +11,6 @@
     "geom:longitude":47.97435,
     "gn:id":"",
     "iso:country":"KW",
-    "lbl:bbox":"47.96935,29.376564,47.97935,29.386564",
     "lbl:latitude":29.381564,
     "lbl:longitude":47.97435,
     "lbl:max_zoom":18.0,
@@ -84,10 +83,13 @@
         }
     ],
     "wof:id":85932575,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "ara"
     ],
-    "wof:lastmodified":1582331168,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104537,
     "wof:name":"Sawaber-block 10",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

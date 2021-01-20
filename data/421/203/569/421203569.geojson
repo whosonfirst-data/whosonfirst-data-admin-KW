@@ -239,6 +239,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459010156,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2568d5568220fc006497fe297a022bd3",
     "wof:hierarchy":[
         {
@@ -250,7 +253,13 @@
         }
     ],
     "wof:id":421203569,
-    "wof:lastmodified":1611094321,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104544,
     "wof:name":"Qibla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -59,6 +59,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009292,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac2a057ee0af6b850c9dccc722091296",
     "wof:hierarchy":[
         {
@@ -69,7 +72,13 @@
         }
     ],
     "wof:id":421181319,
-    "wof:lastmodified":1611092479,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104546,
     "wof:name":"Ar Rabiyah",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",

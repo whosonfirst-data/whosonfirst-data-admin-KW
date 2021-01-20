@@ -60,6 +60,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459010145,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"362194bc38a15804a000abf8c0e61346",
     "wof:hierarchy":[
         {
@@ -68,7 +71,13 @@
         }
     ],
     "wof:id":421203273,
-    "wof:lastmodified":1611094340,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104544,
     "wof:name":"Qasr",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

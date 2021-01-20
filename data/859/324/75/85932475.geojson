@@ -11,7 +11,6 @@
     "geom:longitude":48.024409,
     "gn:id":"",
     "iso:country":"KW",
-    "lbl:bbox":"48.019409,29.267578,48.029409,29.277578",
     "lbl:latitude":29.272578,
     "lbl:longitude":48.024409,
     "lbl:max_zoom":18.0,
@@ -81,10 +80,13 @@
         }
     ],
     "wof:id":85932475,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "ara"
     ],
-    "wof:lastmodified":1582331167,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104535,
     "wof:name":"Hateen-block 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

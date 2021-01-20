@@ -69,6 +69,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459008898,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1d4de665072815572fdd0b0be617f778",
     "wof:hierarchy":[
         {
@@ -80,7 +83,13 @@
         }
     ],
     "wof:id":421171567,
-    "wof:lastmodified":1611094325,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104550,
     "wof:name":"Shuwaikh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

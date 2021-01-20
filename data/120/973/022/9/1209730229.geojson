@@ -54,6 +54,9 @@
         "gn:id":285783
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"01fc4cc85bae85a7edfeff8e573e67c5",
     "wof:hierarchy":[
         {
@@ -64,7 +67,13 @@
         }
     ],
     "wof:id":1209730229,
-    "wof:lastmodified":1611092500,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104539,
     "wof:name":"Al Maghasil",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -69,6 +69,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459010156,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e22a35924c3c7b866bb313ebd7a3475f",
     "wof:hierarchy":[
         {
@@ -79,7 +82,13 @@
         }
     ],
     "wof:id":421203557,
-    "wof:lastmodified":1611092484,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104544,
     "wof:name":"Sabahiya",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",

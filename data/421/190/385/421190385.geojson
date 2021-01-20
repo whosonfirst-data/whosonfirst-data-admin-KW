@@ -82,6 +82,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009656,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66eaa6f3a7f9737795e2d2052aafa2c9",
     "wof:hierarchy":[
         {
@@ -92,7 +95,13 @@
         }
     ],
     "wof:id":421190385,
-    "wof:lastmodified":1611092482,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104547,
     "wof:name":"Salwa",
     "wof:parent_id":85673395,
     "wof:placetype":"locality",

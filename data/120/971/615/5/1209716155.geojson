@@ -65,6 +65,9 @@
         "gn:id":285716
     },
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"004daedf7beda7b755d83417b8ca0dce",
     "wof:hierarchy":[
         {
@@ -75,7 +78,13 @@
         }
     ],
     "wof:id":1209716155,
-    "wof:lastmodified":1611092491,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104539,
     "wof:name":"Ash Shu`aybah",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",

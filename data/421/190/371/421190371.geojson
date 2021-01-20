@@ -10,7 +10,6 @@
     "geom:latitude":29.331305,
     "geom:longitude":47.925796,
     "iso:country":"KW",
-    "lbl:bbox":"47.905796,29.311305,47.945796,29.351305",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -64,7 +63,13 @@
         }
     ],
     "wof:id":421190371,
-    "wof:lastmodified":1601423085,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104547,
     "wof:name":"Al Ra",
     "wof:parent_id":85673383,
     "wof:placetype":"locality",

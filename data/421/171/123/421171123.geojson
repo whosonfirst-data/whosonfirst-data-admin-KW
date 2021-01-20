@@ -10,7 +10,6 @@
     "geom:latitude":29.255211,
     "geom:longitude":48.025301,
     "iso:country":"KW",
-    "lbl:bbox":"48.005301,29.235211,48.045301,29.275211",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -64,7 +63,13 @@
         }
     ],
     "wof:id":421171123,
-    "wof:lastmodified":1601423086,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104550,
     "wof:name":"Al Shuhada",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",

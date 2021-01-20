@@ -629,7 +629,13 @@
         }
     ],
     "wof:id":421202465,
-    "wof:lastmodified":1611092497,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104544,
     "wof:megacity":1,
     "wof:name":"Kuwait City",
     "wof:parent_id":85673383,

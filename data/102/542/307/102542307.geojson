@@ -133,6 +133,9 @@
         1729726339
     ],
     "wof:country":"KW",
+    "wof:geom_alt":[
+        "woedb"
+    ],
     "wof:geomhash":"80d48c4fdfdda0e54e597d93f668f614",
     "wof:hierarchy":[
         {
@@ -143,7 +146,13 @@
         }
     ],
     "wof:id":102542307,
-    "wof:lastmodified":1611095461,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104534,
     "wof:name":"Kuwait International Airport",
     "wof:parent_id":85932335,
     "wof:placetype":"campus",

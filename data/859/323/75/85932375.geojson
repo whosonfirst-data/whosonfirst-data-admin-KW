@@ -11,7 +11,6 @@
     "geom:longitude":48.097132,
     "gn:id":"",
     "iso:country":"KW",
-    "lbl:bbox":"48.092132,29.205848,48.102132,29.215848",
     "lbl:latitude":29.210848,
     "lbl:longitude":48.097132,
     "lbl:max_zoom":18.0,
@@ -81,10 +80,13 @@
         }
     ],
     "wof:id":85932375,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "ara"
     ],
-    "wof:lastmodified":1582331167,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104536,
     "wof:name":"Al Qurain-block 1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

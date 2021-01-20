@@ -446,7 +446,13 @@
         }
     ],
     "wof:id":421201553,
-    "wof:lastmodified":1610657590,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104547,
     "wof:name":"Al Asimah",
     "wof:parent_id":85673383,
     "wof:placetype":"county",

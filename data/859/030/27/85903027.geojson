@@ -117,10 +117,13 @@
         }
     ],
     "wof:id":85903027,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "ara"
     ],
-    "wof:lastmodified":1611094335,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104535,
     "wof:name":"As Sulaybikhat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

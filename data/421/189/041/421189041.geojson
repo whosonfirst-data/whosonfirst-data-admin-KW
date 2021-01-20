@@ -55,6 +55,9 @@
     },
     "wof:country":"KW",
     "wof:created":1459009602,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"275559b8844e0996f3dfc5af154fc81a",
     "wof:hierarchy":[
         {
@@ -66,7 +69,13 @@
         }
     ],
     "wof:id":421189041,
-    "wof:lastmodified":1611094324,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104545,
     "wof:name":"Mansouriya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

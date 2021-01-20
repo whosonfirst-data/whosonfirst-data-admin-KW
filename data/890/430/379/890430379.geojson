@@ -59,6 +59,9 @@
     },
     "wof:country":"KW",
     "wof:created":1469051850,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"0b49645c6403f9801475dbedfc95216a",
     "wof:hierarchy":[
         {
@@ -69,7 +72,13 @@
         }
     ],
     "wof:id":890430379,
-    "wof:lastmodified":1611092488,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104550,
     "wof:name":"Al-Fnaitees",
     "wof:parent_id":85673395,
     "wof:placetype":"locality",

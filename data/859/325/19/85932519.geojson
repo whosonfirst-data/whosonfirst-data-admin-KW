@@ -11,7 +11,6 @@
     "geom:longitude":48.087065,
     "gn:id":"",
     "iso:country":"KW",
-    "lbl:bbox":"48.082065,29.294762,48.092065,29.304762",
     "lbl:latitude":29.299762,
     "lbl:longitude":48.087065,
     "lbl:max_zoom":18.0,
@@ -81,10 +80,13 @@
         }
     ],
     "wof:id":85932519,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "ara"
     ],
-    "wof:lastmodified":1582331168,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104537,
     "wof:name":"Salwa-block 9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

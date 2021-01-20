@@ -11,7 +11,6 @@
     "geom:longitude":47.991813,
     "gn:id":"",
     "iso:country":"KW",
-    "lbl:bbox":"47.986813,29.319376,47.996813,29.329376",
     "lbl:latitude":29.324376,
     "lbl:longitude":47.991813,
     "lbl:max_zoom":18.0,
@@ -84,10 +83,13 @@
         }
     ],
     "wof:id":85932457,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "ara"
     ],
-    "wof:lastmodified":1582331166,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104535,
     "wof:name":"Rawda-block 1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

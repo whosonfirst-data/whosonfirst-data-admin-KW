@@ -10,7 +10,6 @@
     "geom:latitude":29.343875,
     "geom:longitude":48.085784,
     "iso:country":"KW",
-    "lbl:bbox":"48.065784,29.323875,48.105784,29.363875",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -58,7 +57,13 @@
         }
     ],
     "wof:id":421190369,
-    "wof:lastmodified":1566591069,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104547,
     "wof:name":"Ad Dumnah",
     "wof:parent_id":85673405,
     "wof:placetype":"locality",

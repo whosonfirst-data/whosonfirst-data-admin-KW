@@ -83,10 +83,13 @@
         }
     ],
     "wof:id":85907245,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "ara"
     ],
-    "wof:lastmodified":1611094324,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611104538,
     "wof:name":"Abdullah As Salem",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
