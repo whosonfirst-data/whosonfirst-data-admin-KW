@@ -1,0 +1,109 @@
+{
+  "id": 1729740649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.976136,29.374959,47.976136,29.374959",
+    "geom:latitude":29.374959,
+    "geom:longitude":47.976136,
+    "iso:country":"KW",
+    "lbl:latitude":29.374959,
+    "lbl:longitude":47.976136,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":29.373298,
+    "mps:longitude":47.979503,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_variant":[
+        "Koeweit Stad"
+    ],
+    "qs:gn_adm0_cc":"KW",
+    "qs:gn_id":0,
+    "qs:gn_local":285787,
+    "qs:gn_nam_loc":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, KW",
+    "qs:gn_namadm1":"02",
+    "qs:id":0,
+    "qs:local_max":1268,
+    "qs:local_sum":5995,
+    "qs:localhoods":31,
+    "qs:name":"Koeweit Stad",
+    "qs:name_adm0":"Kuwait",
+    "qs:name_adm1":"Al `Asimah",
+    "qs:name_adm2":"Kuwait City",
+    "qs:name_en":"Koeweit Stad",
+    "qs:name_local":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:photo_max":195,
+    "qs:photo_sum":543,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424870,
+    "qs:woe_adm1":20070169,
+    "qs:woe_adm2":55943085,
+    "qs:woe_lau":0,
+    "qs:woe_local":1940631,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55943276
+    },
+    "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"0728d834f36127fdd0417d9a4958d03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":-1,
+            "microhood_id":1729740649,
+            "neighbourhood_id":-1,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":1729740649,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611108587,
+    "wof:name":"Koeweit Stad",
+    "wof:parent_id":-1,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85932417
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.976136,
+    29.374959,
+    47.976136,
+    29.374959
+],
+  "geometry": {"coordinates":[47.976136,29.374959],"type":"Point"}
+}

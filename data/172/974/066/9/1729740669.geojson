@@ -1,0 +1,108 @@
+{
+  "id": 1729740669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.984045,29.317182,47.984045,29.317182",
+    "geom:latitude":29.317182,
+    "geom:longitude":47.984045,
+    "gn:id":"",
+    "iso:country":"KW",
+    "lbl:latitude":29.317182,
+    "lbl:longitude":47.984045,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":29.320356,
+    "mps:longitude":47.982925,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Qurtuba-block 4"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":130,
+    "qs:local_sum":201,
+    "qs:localhoods":2,
+    "qs:name":"Qurtuba-block 4",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0627\u0644\u0641\u0631\u0648\u0627\u0646\u064a\u0629",
+    "qs:name_adm2":"\u0627\u0644\u0641\u0631\u0648\u0627\u0646\u064a\u0629",
+    "qs:name_local":"Qurtubah",
+    "qs:photo_max":49,
+    "qs:photo_sum":71,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424870,
+    "qs:woe_adm1":20070168,
+    "qs:woe_adm2":55943082,
+    "qs:woe_lau":0,
+    "qs:woe_local":1940611,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55943362,
+        "qs_pg:id":1316616
+    },
+    "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"2358bbfc400551e3c35fd5cb7eb5652e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":-1,
+            "microhood_id":1729740669,
+            "neighbourhood_id":-1,
+            "region_id":85673389
+        }
+    ],
+    "wof:id":1729740669,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611108588,
+    "wof:name":"Qurtuba-block 4",
+    "wof:parent_id":-1,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85932483
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.984045,
+    29.317182,
+    47.984045,
+    29.317182
+],
+  "geometry": {"coordinates":[47.984045,29.317182],"type":"Point"}
+}
