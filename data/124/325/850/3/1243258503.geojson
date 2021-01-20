@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.10278,29.19746,48.10278,29.19746",
-    "geom:latitude":29.19746,
-    "geom:longitude":48.10278,
+    "geom:area":0.000718,
+    "geom:area_square_m":7746970.523391,
+    "geom:bbox":"48.089109,29.179841,48.119712,29.214509",
+    "geom:latitude":29.195609,
+    "geom:longitude":48.103011,
     "gn:admin1_code":"9.0",
     "gn:asciiname":"Abu Fatira",
     "gn:country_code":"KW",
@@ -23,13 +23,17 @@
     "gn:population":1240,
     "gn:timezone":"Asia/Kuwait",
     "iso:country":"KW",
-    "lbl:bbox":"48.08278,29.17746,48.12278,29.21746",
+    "lbl:latitude":29.19746,
+    "lbl:longitude":48.10278,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:latitude":29.19746,
+    "mz:longitude":48.10278,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,7 +45,7 @@
         "gn:id":11593499
     },
     "wof:country":"KW",
-    "wof:geomhash":"3e55ee6d1167b8bbf0a7e32a6abdce76",
+    "wof:geomhash":"d42e3cc1b0bc1134f9e503f7d07b0be9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243258503,
-    "wof:lastmodified":1566591076,
+    "wof:lastmodified":1611103245,
     "wof:name":"Abu Fatira",
     "wof:parent_id":85673391,
     "wof:placetype":"locality",
@@ -63,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.10278,
-    29.19746,
-    48.10278,
-    29.19746
+    48.089109,
+    29.179841,
+    48.119712,
+    29.214509
 ],
-  "geometry": {"coordinates":[48.10278,29.19746],"type":"Point"}
+  "geometry": {"coordinates":[[[[48.091296,29.179841],[48.089656,29.186266],[48.089109,29.189684],[48.089929,29.192691],[48.091843,29.195972],[48.093073,29.199799],[48.093073,29.202943],[48.09198,29.205951],[48.090886,29.209095],[48.108932,29.214509],[48.109554,29.213362],[48.109528,29.211695],[48.112026,29.206694],[48.112057,29.204971],[48.114529,29.200806],[48.114529,29.198334],[48.115417,29.1975],[48.115391,29.195833],[48.117889,29.190777],[48.117943,29.189194],[48.119556,29.1875],[48.119583,29.185833],[48.119712,29.185656],[48.099225,29.180388],[48.091296,29.179841]]]],"type":"MultiPolygon"}
 }
