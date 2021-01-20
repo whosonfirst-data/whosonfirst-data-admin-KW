@@ -3,30 +3,21 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
-    "geom:area":0.000398,
-    "geom:area_square_m":4288942.015954,
-    "geom:bbox":"47.675255,29.331531,47.713295,29.352577",
-    "geom:latitude":29.34178,
-    "geom:longitude":47.693594,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.735252,29.36542,47.735252,29.36542",
+    "geom:latitude":29.36542,
+    "geom:longitude":47.735252,
     "iso:country":"KW",
     "lbl:bbox":"47.715252,29.34542,47.755252,29.38542",
-    "lbl:latitude":29.341924,
-    "lbl:longitude":47.697038,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":29.341924,
-    "mps:longitude":47.697038,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:ara_x_preferred":[
-        "\u0627\u0644\u0642\u0635\u0631"
-    ],
-    "name:eng_x_preferred":[
-        "Qasr"
-    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -45,11 +36,7 @@
     "qs:qs_id":57258,
     "qs:woe_adm0":23424870,
     "qs:woe_id":10644928,
-    "src:geom":"whosonfirst",
-    "src:geom_alt":[
-        "quattroshapes"
-    ],
-    "src:lbl_centroid":"mapshaper",
+    "src:geom":"quattroshapes",
     "wof:belongsto":[
         85632401
     ],
@@ -60,10 +47,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459010145,
-    "wof:geom_alt":[
-        "quattroshapes"
-    ],
-    "wof:geomhash":"362194bc38a15804a000abf8c0e61346",
+    "wof:geomhash":"a735caffc0a1a59263bb3bf677bbf89b",
     "wof:hierarchy":[
         {
             "country_id":85632401,
@@ -71,26 +55,22 @@
         }
     ],
     "wof:id":421203273,
-    "wof:lang_x_official":[
-        "ara"
-    ],
-    "wof:lang_x_spoken":[
-        "ara"
-    ],
-    "wof:lastmodified":1611105474,
-    "wof:name":"Qasr",
+    "wof:lastmodified":1611109165,
+    "wof:name":"Al-qaser",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729741007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    47.675255,
-    29.331531,
-    47.713295,
-    29.352577
+    47.735252,
+    29.36542,
+    47.735252,
+    29.36542
 ],
-  "geometry": {"coordinates":[[[47.706354,29.331531],[47.701364,29.333969],[47.696922,29.336019],[47.694188,29.337591],[47.690223,29.340872],[47.686464,29.337865],[47.684482,29.336156],[47.683593,29.334926],[47.68347,29.334492],[47.682021,29.334789],[47.680039,29.334857],[47.677442,29.335199],[47.67628,29.335746],[47.675255,29.33684],[47.677647,29.339095],[47.678672,29.341897],[47.678672,29.344153],[47.678125,29.345588],[47.68455,29.350509],[47.686806,29.352355],[47.686939,29.352577],[47.711822,29.341419],[47.713295,29.340701],[47.706354,29.331531]]],"type":"Polygon"}
+  "geometry": {"coordinates":[47.735252,29.36542],"type":"Point"}
 }
