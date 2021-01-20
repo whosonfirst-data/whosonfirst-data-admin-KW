@@ -1,0 +1,58 @@
+{
+  "id": 1729728007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000208,
+    "geom:area_square_m":2245788.656596,
+    "geom:bbox":"47.961042,29.303059,47.979042,29.318418",
+    "geom:latitude":29.310443,
+    "geom:longitude":47.969693,
+    "iso:country":"KW",
+    "lbl:latitude":29.310611,
+    "lbl:longitude":47.969522,
+    "mps:latitude":29.310611,
+    "mps:longitude":47.969522,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0631\u0645\u0648\u0643"
+    ],
+    "name:eng_x_preferred":[
+        "Yarmouk"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611100665,
+    "wof:geomhash":"2ac0e11fcbbe30bfe5e22efff38a6738",
+    "wof:hierarchy":[],
+    "wof:id":1729728007,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1611101078,
+    "wof:name":"Yarmouk",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421190367
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.961042,
+    29.303059,
+    47.979042,
+    29.318418
+],
+  "geometry": {"coordinates":[[[47.963644,29.303059],[47.961042,29.316771],[47.974628,29.318418],[47.979042,29.304015],[47.963644,29.303059]]],"type":"Polygon"}
+}

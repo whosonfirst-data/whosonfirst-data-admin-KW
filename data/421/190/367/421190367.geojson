@@ -3,32 +3,23 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
-    "geom:area":0.000208,
-    "geom:area_square_m":2245788.656596,
-    "geom:bbox":"47.961042,29.303059,47.979042,29.318418",
-    "geom:latitude":29.310443,
-    "geom:longitude":47.969693,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.969398,29.307506,47.969398,29.307506",
+    "geom:latitude":29.307506,
+    "geom:longitude":47.969398,
     "iso:country":"KW",
     "lbl:bbox":"47.949398,29.2875065,47.989398,29.3275065",
-    "lbl:latitude":29.310611,
-    "lbl:longitude":47.969522,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":29.310611,
-    "mps:longitude":47.969522,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
-        "\u0627\u0644\u064a\u0631\u0645\u0648\u0643"
-    ],
-    "name:ara_x_variant":[
         "\u064a\u0631\u0645\u0648\u0643"
-    ],
-    "name:eng_x_preferred":[
-        "Yarmouk"
     ],
     "name:fas_x_preferred":[
         "\u06cc\u0631\u0645\u0648\u06a9"
@@ -66,11 +57,7 @@
     "qs:qs_id":1119523,
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940567,
-    "src:geom":"whosonfirst",
-    "src:geom_alt":[
-        "quattroshapes"
-    ],
-    "src:lbl_centroid":"mapshaper",
+    "src:geom":"quattroshapes",
     "wd:wordcount":226,
     "wof:belongsto":[
         102191569,
@@ -84,7 +71,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459009655,
-    "wof:geomhash":"2ac0e11fcbbe30bfe5e22efff38a6738",
+    "wof:geomhash":"95b60311934ecd6ba89aeec0253e1217",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,20 +81,22 @@
         }
     ],
     "wof:id":421190367,
-    "wof:lastmodified":1611094329,
+    "wof:lastmodified":1611101064,
     "wof:name":"Yarmouk",
     "wof:parent_id":85673389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729728007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    47.961042,
-    29.303059,
-    47.979042,
-    29.318418
+    47.969398,
+    29.307506,
+    47.969398,
+    29.307506
 ],
-  "geometry": {"coordinates":[[[47.963644,29.303059],[47.961042,29.316771],[47.974628,29.318418],[47.979042,29.304015],[47.963644,29.303059]]],"type":"Polygon"}
+  "geometry": {"coordinates":[47.969398,29.307506],"type":"Point"}
 }
