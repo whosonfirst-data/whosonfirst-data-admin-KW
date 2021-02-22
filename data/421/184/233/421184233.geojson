@@ -38,7 +38,7 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673389
+        85673383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +54,7 @@
             "country_id":85632401,
             "locality_id":-1,
             "neighbourhood_id":421184233,
-            "region_id":85673389
+            "region_id":85673383
         }
     ],
     "wof:id":421184233,
@@ -64,7 +64,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108595,
+    "wof:lastmodified":1614028121,
     "wof:name":"Qurtuba-block 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

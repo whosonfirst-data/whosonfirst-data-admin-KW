@@ -53,7 +53,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673389
+        85673389,
+        421204583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,6 +71,7 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":421204583,
             "locality_id":421188789,
             "region_id":85673389
         }
@@ -81,9 +83,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105476,
+    "wof:lastmodified":1614028329,
     "wof:name":"Khaitan",
-    "wof:parent_id":85673389,
+    "wof:parent_id":421204583,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

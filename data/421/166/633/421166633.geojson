@@ -58,7 +58,7 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673405
+        85673383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +75,7 @@
             "continent_id":102191569,
             "country_id":85632401,
             "locality_id":421166633,
-            "region_id":85673405
+            "region_id":85673383
         }
     ],
     "wof:id":421166633,
@@ -85,9 +85,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611351329,
+    "wof:lastmodified":1614028120,
     "wof:name":"Qurtubah",
-    "wof:parent_id":85673405,
+    "wof:parent_id":85673383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

@@ -55,9 +55,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673391,
         102191569,
         85632401,
-        85673391
+        421184441,
+        1729718859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +76,8 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":1729718859,
+            "locality_id":421184441,
             "microhood_id":1729740673,
             "neighbourhood_id":-1,
             "region_id":85673391
@@ -87,7 +90,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108588,
+    "wof:lastmodified":1614028231,
     "wof:name":"Abu Halifa-block 1",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

@@ -58,9 +58,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673405,
         102191569,
         85632401,
-        85673389
+        1729724865,
+        1729718867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,10 +79,11 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":1729718867,
+            "locality_id":1729724865,
             "microhood_id":1729740671,
             "neighbourhood_id":-1,
-            "region_id":85673389
+            "region_id":85673405
         }
     ],
     "wof:id":1729740671,
@@ -90,7 +93,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108588,
+    "wof:lastmodified":1614028258,
     "wof:name":"Al Salam-block 7",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

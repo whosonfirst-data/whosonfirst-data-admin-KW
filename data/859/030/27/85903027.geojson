@@ -91,7 +91,9 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673399
+        421202465,
+        421201553,
+        85673383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,9 +113,10 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":421201553,
+            "locality_id":421202465,
             "neighbourhood_id":85903027,
-            "region_id":85673399
+            "region_id":85673383
         }
     ],
     "wof:id":85903027,
@@ -123,9 +126,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105465,
+    "wof:lastmodified":1614028361,
     "wof:name":"As Sulaybikhat",
-    "wof:parent_id":-1,
+    "wof:parent_id":421202465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

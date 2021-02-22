@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673405
+        85673383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +55,11 @@
             "country_id":85632401,
             "locality_id":-1,
             "neighbourhood_id":421181431,
-            "region_id":85673405
+            "region_id":85673383
         }
     ],
     "wof:id":421181431,
-    "wof:lastmodified":1611094325,
+    "wof:lastmodified":1614028124,
     "wof:name":"Da'eyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

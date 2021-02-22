@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673395
+        85673405,
+        1729718867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,8 +76,9 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":1729718867,
             "locality_id":421189035,
-            "region_id":85673395
+            "region_id":85673405
         }
     ],
     "wof:id":421189035,
@@ -86,9 +88,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105475,
+    "wof:lastmodified":1614028325,
     "wof:name":"Mishref",
-    "wof:parent_id":85673395,
+    "wof:parent_id":1729718867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

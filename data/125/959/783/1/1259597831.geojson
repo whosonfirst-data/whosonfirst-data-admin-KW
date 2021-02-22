@@ -47,7 +47,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673383
+        85673383,
+        421201553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,7 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":421201553,
             "locality_id":1259597831,
             "region_id":85673383
         }
@@ -73,9 +75,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105481,
+    "wof:lastmodified":1614028414,
     "wof:name":"Al Bult",
-    "wof:parent_id":85673383,
+    "wof:parent_id":421201553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

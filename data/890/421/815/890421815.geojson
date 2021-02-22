@@ -30,7 +30,9 @@
     "qs:pop_sr":"6",
     "src:population":"geonames",
     "wof:belongsto":[
-        85632401
+        102191569,
+        85632401,
+        85673389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +44,11 @@
     "wof:geomhash":"2e73ce5fadbb920d085212267152e09d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632401,
-            "neighbourhood_id":890421815
+            "locality_id":-1,
+            "neighbourhood_id":890421815,
+            "region_id":85673389
         }
     ],
     "wof:id":890421815,
@@ -53,7 +58,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108596,
+    "wof:lastmodified":1614028101,
     "wof:name":"Jan\u016bb as Surrah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

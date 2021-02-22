@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        890439989,
+        421170031,
+        85673399
+    ],
     "wof:breaches":[],
     "wof:country":"KW",
     "wof:created":1611094339,
     "wof:geomhash":"ecba0cc480eac164f8f598161a825a0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421170031,
+            "locality_id":890439989,
+            "neighbourhood_id":1729726343,
+            "region_id":85673399
+        }
+    ],
     "wof:id":1729726343,
     "wof:lang_x_official":[
         "ara"
@@ -37,9 +52,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105470,
+    "wof:lastmodified":1614028389,
     "wof:name":"Naeem",
-    "wof:parent_id":-1,
+    "wof:parent_id":890439989,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

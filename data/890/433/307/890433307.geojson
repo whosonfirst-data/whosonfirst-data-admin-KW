@@ -34,7 +34,9 @@
     "qs:pop_sr":"7",
     "src:population":"geonames",
     "wof:belongsto":[
-        85632401
+        102191569,
+        85632401,
+        85673405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,12 +48,15 @@
     "wof:geomhash":"a2e4aef0865b0ecc075be16cb8084b8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632401,
-            "neighbourhood_id":890433307
+            "locality_id":-1,
+            "neighbourhood_id":890433307,
+            "region_id":85673405
         }
     ],
     "wof:id":890433307,
-    "wof:lastmodified":1611092478,
+    "wof:lastmodified":1614028103,
     "wof:name":"Bay\u0101n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

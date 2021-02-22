@@ -37,7 +37,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
-        85632401
+        85632401,
+        85673399,
+        421170031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +51,9 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":421170031,
             "locality_id":1310110697,
-            "region_id":-1
+            "region_id":85673399
         }
     ],
     "wof:id":1310110697,
@@ -60,9 +63,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105473,
+    "wof:lastmodified":1614028387,
     "wof:name":"Shumaymah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421170031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

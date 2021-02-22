@@ -58,7 +58,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673395
+        85673395,
+        85673405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +79,13 @@
             "locality_id":-1,
             "neighbourhood_id":85932475,
             "region_id":85673395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":-1,
+            "neighbourhood_id":85932475,
+            "region_id":85673405
         }
     ],
     "wof:id":85932475,
@@ -87,7 +95,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108587,
+    "wof:lastmodified":1614028108,
     "wof:name":"Hateen-block 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

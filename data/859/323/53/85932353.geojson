@@ -58,6 +58,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
+        421202689,
+        1729718867,
         85673405
     ],
     "wof:breaches":[],
@@ -75,7 +77,8 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":1729718867,
+            "locality_id":421202689,
             "neighbourhood_id":85932353,
             "region_id":85673405
         }
@@ -87,9 +90,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108589,
+    "wof:lastmodified":1614028140,
     "wof:name":"Bayan-block 6",
-    "wof:parent_id":-1,
+    "wof:parent_id":421202689,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[

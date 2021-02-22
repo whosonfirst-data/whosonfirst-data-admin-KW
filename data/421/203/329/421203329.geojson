@@ -44,6 +44,7 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191569,
+        421202465,
         85632401,
         85673383
     ],
@@ -60,15 +61,15 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "locality_id":421202465,
             "neighbourhood_id":421203329,
             "region_id":85673383
         }
     ],
     "wof:id":421203329,
-    "wof:lastmodified":1611094324,
+    "wof:lastmodified":1614028101,
     "wof:name":"Ash Shuwaykh",
-    "wof:parent_id":-1,
+    "wof:parent_id":421202465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[

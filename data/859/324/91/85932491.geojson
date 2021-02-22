@@ -58,6 +58,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
+        421181607,
+        421204583,
         85673389
     ],
     "wof:breaches":[],
@@ -75,7 +77,8 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":421204583,
+            "locality_id":421181607,
             "neighbourhood_id":85932491,
             "region_id":85673389
         }
@@ -87,9 +90,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108587,
+    "wof:lastmodified":1614028304,
     "wof:name":"Omariyah-block 3",
-    "wof:parent_id":-1,
+    "wof:parent_id":421181607,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[

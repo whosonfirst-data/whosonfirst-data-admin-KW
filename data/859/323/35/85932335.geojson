@@ -57,6 +57,7 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
+        421194545,
         85632401,
         85673389
     ],
@@ -75,7 +76,7 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "locality_id":421194545,
             "neighbourhood_id":85932335,
             "region_id":85673389
         }
@@ -87,9 +88,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108588,
+    "wof:lastmodified":1614028291,
     "wof:name":"Farwaniyah-block 6",
-    "wof:parent_id":-1,
+    "wof:parent_id":421194545,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[

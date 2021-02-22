@@ -34,7 +34,9 @@
     "qs:pop_sr":"7",
     "src:population":"geonames",
     "wof:belongsto":[
-        85632401
+        102191569,
+        85632401,
+        85673395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,12 +48,15 @@
     "wof:geomhash":"32e554b5815dd531437775be4ba7c53f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632401,
-            "neighbourhood_id":890440363
+            "locality_id":-1,
+            "neighbourhood_id":890440363,
+            "region_id":85673395
         }
     ],
     "wof:id":890440363,
-    "wof:lastmodified":1611092482,
+    "wof:lastmodified":1614028101,
     "wof:name":"Salw\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

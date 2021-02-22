@@ -38,6 +38,7 @@
     "qs:woe_id":10644928,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        102191569,
         85632401
     ],
     "wof:breaches":[],
@@ -50,12 +51,14 @@
     "wof:geomhash":"a735caffc0a1a59263bb3bf677bbf89b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":421203273
+            "locality_id":421203273,
+            "region_id":-1
         }
     ],
     "wof:id":421203273,
-    "wof:lastmodified":1611109165,
+    "wof:lastmodified":1614028092,
     "wof:name":"Al-qaser",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

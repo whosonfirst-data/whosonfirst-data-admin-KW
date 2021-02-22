@@ -35,9 +35,12 @@
     "qs:woe_id":55943254,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85673383,
         102191569,
         85632401,
-        85673383
+        421202465,
+        421201553,
+        421171567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":421201553,
+            "locality_id":421202465,
             "microhood_id":1729740827,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":421171567,
             "region_id":85673383
         }
     ],
@@ -64,9 +68,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108595,
+    "wof:lastmodified":1614028365,
     "wof:name":"Shuwaikh-block 5",
-    "wof:parent_id":-1,
+    "wof:parent_id":421171567,
     "wof:placetype":"microhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

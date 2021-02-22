@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632401
+        102191569,
+        85632401,
+        85673391,
+        1729718859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,11 @@
     "wof:geomhash":"d3621774925b3ced64d91d49574a64ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":1209232829
+            "county_id":1729718859,
+            "locality_id":1209232829,
+            "region_id":85673391
         }
     ],
     "wof:id":1209232829,
@@ -58,9 +64,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611106448,
+    "wof:lastmodified":1614028144,
     "wof:name":"An Nami",
-    "wof:parent_id":85632401,
+    "wof:parent_id":1729718859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

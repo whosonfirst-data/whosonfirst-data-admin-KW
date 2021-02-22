@@ -41,7 +41,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673391
+        85673395,
+        421193461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +54,9 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":421193461,
             "locality_id":1327218153,
-            "region_id":85673391
+            "region_id":85673395
         }
     ],
     "wof:id":1327218153,
@@ -64,9 +66,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611106448,
+    "wof:lastmodified":1614028294,
     "wof:name":"Dulay` Su`ud",
-    "wof:parent_id":85673391,
+    "wof:parent_id":421193461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

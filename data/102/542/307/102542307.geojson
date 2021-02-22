@@ -120,9 +120,11 @@
         "state_id":20070168
     },
     "wof:belongsto":[
+        85673389,
+        102191569,
         85632401,
-        85932335,
-        85673389
+        421204583,
+        1729726339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,8 +142,11 @@
     "wof:hierarchy":[
         {
             "campus_id":102542307,
+            "continent_id":102191569,
             "country_id":85632401,
-            "neighbourhood_id":85932335,
+            "county_id":421204583,
+            "locality_id":-1,
+            "neighbourhood_id":1729726339,
             "region_id":85673389
         }
     ],
@@ -152,9 +157,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105464,
+    "wof:lastmodified":1614028304,
     "wof:name":"Kuwait International Airport",
-    "wof:parent_id":85932335,
+    "wof:parent_id":1729726339,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

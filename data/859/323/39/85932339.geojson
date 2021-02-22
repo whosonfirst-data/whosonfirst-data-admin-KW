@@ -61,7 +61,7 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673405
+        85673383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +80,7 @@
             "country_id":85632401,
             "locality_id":-1,
             "neighbourhood_id":85932339,
-            "region_id":85673405
+            "region_id":85673383
         }
     ],
     "wof:id":85932339,
@@ -90,7 +90,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108589,
+    "wof:lastmodified":1614028123,
     "wof:name":"Rawda-block 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

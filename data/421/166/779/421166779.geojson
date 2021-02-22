@@ -53,7 +53,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673389
+        85673395,
+        421193461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,8 +68,9 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":421193461,
             "locality_id":421166779,
-            "region_id":85673389
+            "region_id":85673395
         }
     ],
     "wof:id":421166779,
@@ -78,9 +80,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105473,
+    "wof:lastmodified":1614028295,
     "wof:name":"Zahraa",
-    "wof:parent_id":85673389,
+    "wof:parent_id":421193461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

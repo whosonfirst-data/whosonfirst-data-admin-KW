@@ -37,7 +37,8 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191569,
-        85632401
+        85632401,
+        85673383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,7 @@
             "country_id":85632401,
             "locality_id":-1,
             "neighbourhood_id":421203289,
-            "region_id":-1
+            "region_id":85673383
         }
     ],
     "wof:id":421203289,
@@ -63,7 +64,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108593,
+    "wof:lastmodified":1614028125,
     "wof:name":"Dasman-block 15",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

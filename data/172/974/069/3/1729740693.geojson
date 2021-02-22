@@ -55,9 +55,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673395,
         102191569,
         85632401,
-        85673391
+        1243258503,
+        421193461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,10 +76,11 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":421193461,
+            "locality_id":1243258503,
             "microhood_id":1729740693,
             "neighbourhood_id":-1,
-            "region_id":85673391
+            "region_id":85673395
         }
     ],
     "wof:id":1729740693,
@@ -87,7 +90,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108589,
+    "wof:lastmodified":1614028296,
     "wof:name":"Al Qurain-block 1",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

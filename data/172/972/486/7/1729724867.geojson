@@ -24,12 +24,25 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673391,
+        1729718859
+    ],
     "wof:breaches":[],
     "wof:country":"KW",
     "wof:created":1611092483,
     "wof:geomhash":"cccfea70937395273c809fb9142a599e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":1729718859,
+            "locality_id":1729724867,
+            "region_id":85673391
+        }
+    ],
     "wof:id":1729724867,
     "wof:lang_x_official":[
         "ara"
@@ -37,9 +50,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105471,
+    "wof:lastmodified":1614028256,
     "wof:name":"Ali Sabah Al Salem",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729718859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

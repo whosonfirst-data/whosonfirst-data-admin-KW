@@ -58,7 +58,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673389
+        85673389,
+        85673405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +79,13 @@
             "locality_id":-1,
             "neighbourhood_id":85932453,
             "region_id":85673389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":-1,
+            "neighbourhood_id":85932453,
+            "region_id":85673405
         }
     ],
     "wof:id":85932453,
@@ -87,7 +95,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108587,
+    "wof:lastmodified":1614028107,
     "wof:name":"Zahra-block 8",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

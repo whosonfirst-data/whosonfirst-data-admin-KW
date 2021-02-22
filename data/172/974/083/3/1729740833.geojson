@@ -35,9 +35,11 @@
     "qs:woe_id":55943394,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85673391,
         102191569,
         85632401,
-        85673391
+        421190377,
+        1729718859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +53,8 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":1729718859,
+            "locality_id":421190377,
             "microhood_id":1729740833,
             "neighbourhood_id":-1,
             "region_id":85673391
@@ -64,7 +67,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108595,
+    "wof:lastmodified":1614028160,
     "wof:name":"Abu Halifa-block 2",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

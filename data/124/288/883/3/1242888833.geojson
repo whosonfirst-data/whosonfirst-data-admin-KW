@@ -39,7 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673389
+        85673399,
+        421170031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,8 +52,9 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":421170031,
             "locality_id":1242888833,
-            "region_id":85673389
+            "region_id":85673399
         }
     ],
     "wof:id":1242888833,
@@ -62,9 +64,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611106449,
+    "wof:lastmodified":1614028404,
     "wof:name":"Ash Shadadiyah",
-    "wof:parent_id":85673389,
+    "wof:parent_id":421170031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

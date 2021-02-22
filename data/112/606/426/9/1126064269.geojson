@@ -48,6 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
+        421190475,
+        1729718867,
         85673405
     ],
     "wof:breaches":[],
@@ -62,15 +64,16 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":1729718867,
+            "locality_id":421190475,
             "neighbourhood_id":1126064269,
             "region_id":85673405
         }
     ],
     "wof:id":1126064269,
-    "wof:lastmodified":1611092495,
+    "wof:lastmodified":1614028140,
     "wof:name":"As S\u0101lim\u012byah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190475,
     "wof:placetype":"neighbourhood",
     "wof:population":147649,
     "wof:population_rank":9,

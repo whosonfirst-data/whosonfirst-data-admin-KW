@@ -24,12 +24,25 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673391,
+        1729718859
+    ],
     "wof:breaches":[],
     "wof:country":"KW",
     "wof:created":1611092485,
     "wof:geomhash":"029f2dd1087bad910d0d3b099f1f9876",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":1729718859,
+            "locality_id":1729724871,
+            "region_id":85673391
+        }
+    ],
     "wof:id":1729724871,
     "wof:lang_x_official":[
         "ara"
@@ -37,9 +50,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105471,
+    "wof:lastmodified":1614028260,
     "wof:name":"Hadiya",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729718859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

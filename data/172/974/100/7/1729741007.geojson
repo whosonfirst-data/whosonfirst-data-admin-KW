@@ -26,7 +26,11 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85632401
+        102191569,
+        85632401,
+        890439989,
+        421170031,
+        85673399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +41,12 @@
     "wof:geomhash":"362194bc38a15804a000abf8c0e61346",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
-            "neighbourhood_id":1729741007
+            "county_id":421170031,
+            "locality_id":890439989,
+            "neighbourhood_id":1729741007,
+            "region_id":85673399
         }
     ],
     "wof:id":1729741007,
@@ -49,9 +56,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611109171,
+    "wof:lastmodified":1614028388,
     "wof:name":"Qasr",
-    "wof:parent_id":-1,
+    "wof:parent_id":890439989,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

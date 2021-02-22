@@ -59,7 +59,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673389
+        85673405,
+        1729718867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,8 +77,9 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":1729718867,
             "locality_id":421177963,
-            "region_id":85673389
+            "region_id":85673405
         }
     ],
     "wof:id":421177963,
@@ -87,9 +89,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105479,
+    "wof:lastmodified":1614028392,
     "wof:name":"Al-Siddeeq",
-    "wof:parent_id":85673389,
+    "wof:parent_id":1729718867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

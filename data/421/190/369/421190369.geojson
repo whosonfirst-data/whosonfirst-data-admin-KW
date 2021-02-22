@@ -39,7 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673405
+        85673405,
+        1729718867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,6 +54,7 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":1729718867,
             "locality_id":421190369,
             "region_id":85673405
         }
@@ -64,9 +66,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611106448,
+    "wof:lastmodified":1614028347,
     "wof:name":"Ad Dumnah",
-    "wof:parent_id":85673405,
+    "wof:parent_id":1729718867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

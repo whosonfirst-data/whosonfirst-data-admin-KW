@@ -55,9 +55,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673405,
         102191569,
         85632401,
-        85673405
+        421190475,
+        1729718867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +76,8 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":1729718867,
+            "locality_id":421190475,
             "microhood_id":1729740639,
             "neighbourhood_id":-1,
             "region_id":85673405
@@ -87,7 +90,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108586,
+    "wof:lastmodified":1614028187,
     "wof:name":"Salmiya-block 2",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

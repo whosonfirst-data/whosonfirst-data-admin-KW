@@ -55,9 +55,7 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        102191569,
-        85632401,
-        85673391
+        102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,11 +71,11 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632401,
+            "country_id":-1,
             "locality_id":-1,
             "microhood_id":1729740725,
             "neighbourhood_id":-1,
-            "region_id":85673391
+            "region_id":-1
         }
     ],
     "wof:id":1729740725,
@@ -87,7 +85,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108590,
+    "wof:lastmodified":1614028217,
     "wof:name":"Fahaheel-block 12",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

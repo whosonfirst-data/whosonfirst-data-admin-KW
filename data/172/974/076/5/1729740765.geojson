@@ -66,8 +66,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673383,
         102191569,
-        85632401
+        85632401,
+        421202465,
+        421201553,
+        85903031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,10 +88,11 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":421201553,
+            "locality_id":421202465,
             "microhood_id":1729740765,
-            "neighbourhood_id":-1,
-            "region_id":-1
+            "neighbourhood_id":85903031,
+            "region_id":85673383
         }
     ],
     "wof:id":1729740765,
@@ -97,9 +102,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108592,
+    "wof:lastmodified":1614028365,
     "wof:name":"\u0628\u0646\u064a\u062f \u0627\u0644\u0642\u0627\u0631",
-    "wof:parent_id":-1,
+    "wof:parent_id":85903031,
     "wof:placetype":"microhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

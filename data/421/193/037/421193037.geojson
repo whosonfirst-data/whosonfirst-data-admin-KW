@@ -38,6 +38,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
+        421190475,
+        1729718867,
         85673405
     ],
     "wof:breaches":[],
@@ -52,7 +54,8 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":1729718867,
+            "locality_id":421190475,
             "neighbourhood_id":421193037,
             "region_id":85673405
         }
@@ -64,9 +67,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108592,
+    "wof:lastmodified":1614028141,
     "wof:name":"Salmiya-block 7",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190475,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[

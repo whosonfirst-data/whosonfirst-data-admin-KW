@@ -35,9 +35,11 @@
     "qs:woe_id":55943285,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85673405,
         102191569,
         85632401,
-        85673405
+        421190737,
+        1729718867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +53,8 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":1729718867,
+            "locality_id":421190737,
             "microhood_id":1729740819,
             "neighbourhood_id":-1,
             "region_id":85673405
@@ -64,7 +67,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108595,
+    "wof:lastmodified":1614028205,
     "wof:name":"Rumaithiya-block 6",
     "wof:parent_id":-1,
     "wof:placetype":"microhood",

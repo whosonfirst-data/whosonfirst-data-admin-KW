@@ -57,8 +57,10 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
+        1193262799,
         85632401,
-        85673391
+        85673391,
+        85673395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,9 +77,16 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "locality_id":1193262799,
             "neighbourhood_id":85932403,
             "region_id":85673391
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":1193262799,
+            "neighbourhood_id":85932403,
+            "region_id":85673395
         }
     ],
     "wof:id":85932403,
@@ -87,9 +96,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108586,
+    "wof:lastmodified":1614028112,
     "wof:name":"Mubarak Al Kabeer-block 1",
-    "wof:parent_id":-1,
+    "wof:parent_id":1193262799,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[

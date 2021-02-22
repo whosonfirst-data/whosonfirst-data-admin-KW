@@ -49,7 +49,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673395
+        85673395,
+        421193461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,6 +68,7 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":421193461,
             "locality_id":890430379,
             "region_id":85673395
         }
@@ -78,9 +80,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105480,
+    "wof:lastmodified":1614028400,
     "wof:name":"Al-Fnaitees",
-    "wof:parent_id":85673395,
+    "wof:parent_id":421193461,
     "wof:placetype":"locality",
     "wof:population":1878,
     "wof:population_rank":3,

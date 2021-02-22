@@ -31,7 +31,9 @@
     "qs:pop_sr":"9",
     "src:population":"geonames",
     "wof:belongsto":[
-        85632401
+        102191569,
+        85632401,
+        85673395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +46,15 @@
     "wof:geomhash":"ce59137aacb4f4facf3a52e4cb7f6865",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632401,
-            "neighbourhood_id":890433339
+            "locality_id":-1,
+            "neighbourhood_id":890433339,
+            "region_id":85673395
         }
     ],
     "wof:id":890433339,
-    "wof:lastmodified":1611092488,
+    "wof:lastmodified":1614028096,
     "wof:name":"\u015eab\u0101\u1e29 as S\u0101lim",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

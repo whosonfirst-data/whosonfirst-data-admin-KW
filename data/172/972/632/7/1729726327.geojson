@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        421202465,
+        421201553,
+        85673383
+    ],
     "wof:breaches":[],
     "wof:country":"KW",
     "wof:created":1611094332,
     "wof:geomhash":"bd5e18e6f3397a48369f24cf7ba807f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421201553,
+            "locality_id":421202465,
+            "neighbourhood_id":1729726327,
+            "region_id":85673383
+        }
+    ],
     "wof:id":1729726327,
     "wof:lang_x_official":[
         "ara"
@@ -37,9 +52,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105471,
+    "wof:lastmodified":1614028358,
     "wof:name":"Kuwait Free Trade Zone",
-    "wof:parent_id":-1,
+    "wof:parent_id":421202465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

@@ -44,7 +44,7 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673399
+        85673383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,13 @@
             "continent_id":102191569,
             "country_id":85632401,
             "locality_id":1243278829,
-            "region_id":85673399
+            "region_id":85673383
         }
     ],
     "wof:id":1243278829,
-    "wof:lastmodified":1611101050,
+    "wof:lastmodified":1614028121,
     "wof:name":"Ad Dawhah",
-    "wof:parent_id":85673399,
+    "wof:parent_id":85673383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[

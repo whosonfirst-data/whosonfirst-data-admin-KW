@@ -45,7 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673405
+        85673405,
+        1729718867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,6 +60,7 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":1729718867,
             "locality_id":421184435,
             "region_id":85673405
         }
@@ -70,9 +72,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611106449,
+    "wof:lastmodified":1614028384,
     "wof:name":"Al Bayda",
-    "wof:parent_id":85673405,
+    "wof:parent_id":1729718867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

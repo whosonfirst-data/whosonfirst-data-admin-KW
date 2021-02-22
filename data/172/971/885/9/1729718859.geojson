@@ -199,7 +199,7 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673405
+        85673391
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -216,7 +216,7 @@
             "continent_id":102191569,
             "country_id":85632401,
             "county_id":1729718859,
-            "region_id":85673405
+            "region_id":85673391
         }
     ],
     "wof:id":1729718859,
@@ -226,9 +226,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105470,
+    "wof:lastmodified":1614028149,
     "wof:name":"Al Ahmadi",
-    "wof:parent_id":85673405,
+    "wof:parent_id":85673391,
     "wof:placetype":"county",
     "wof:population":809353,
     "wof:population_rank":11,

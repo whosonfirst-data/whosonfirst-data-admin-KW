@@ -58,9 +58,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673383,
         102191569,
         85632401,
-        85673405
+        421202465,
+        421201553,
+        1729726305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,10 +80,11 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":421201553,
+            "locality_id":421202465,
             "microhood_id":1729740677,
-            "neighbourhood_id":-1,
-            "region_id":85673405
+            "neighbourhood_id":1729726305,
+            "region_id":85673383
         }
     ],
     "wof:id":1729740677,
@@ -90,9 +94,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108588,
+    "wof:lastmodified":1614028367,
     "wof:name":"Nuzha-block 3",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729726305,
     "wof:placetype":"microhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

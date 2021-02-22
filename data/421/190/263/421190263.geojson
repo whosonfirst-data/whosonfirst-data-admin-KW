@@ -37,7 +37,10 @@
     "qs:woe_id":10644955,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85632401
+        102191569,
+        85632401,
+        85673391,
+        1729718859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +52,11 @@
     "wof:geomhash":"504ea1c4eadf7c68a205974e09a9fe29",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":421190263
+            "county_id":1729718859,
+            "locality_id":421190263,
+            "region_id":85673391
         }
     ],
     "wof:id":421190263,
@@ -60,9 +66,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611106448,
+    "wof:lastmodified":1614028349,
     "wof:name":"Khairan-1",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729718859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

@@ -24,12 +24,25 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673405,
+        1729718867
+    ],
     "wof:breaches":[],
     "wof:country":"KW",
     "wof:created":1611092493,
     "wof:geomhash":"c6c572e1e0f4b50eed37e304e236b9bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":1729718867,
+            "locality_id":1729724887,
+            "region_id":85673405
+        }
+    ],
     "wof:id":1729724887,
     "wof:lang_x_official":[
         "ara"
@@ -37,9 +50,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105471,
+    "wof:lastmodified":1614028251,
     "wof:name":"Shaab",
-    "wof:parent_id":-1,
+    "wof:parent_id":1729718867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

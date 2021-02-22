@@ -58,9 +58,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673383,
         102191569,
         85632401,
-        85673383
+        421202465,
+        421201553,
+        421203569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,9 +78,10 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":421201553,
+            "locality_id":421202465,
             "microhood_id":1729740649,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":421203569,
             "region_id":85673383
         }
     ],
@@ -88,9 +92,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108587,
+    "wof:lastmodified":1614028366,
     "wof:name":"Koeweit Stad",
-    "wof:parent_id":-1,
+    "wof:parent_id":421203569,
     "wof:placetype":"microhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

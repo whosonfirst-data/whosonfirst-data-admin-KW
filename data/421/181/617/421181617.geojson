@@ -44,7 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673391
+        85673391,
+        1729718859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,6 +59,7 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":1729718859,
             "locality_id":421181617,
             "region_id":85673391
         }
@@ -69,9 +71,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611105476,
+    "wof:lastmodified":1614028333,
     "wof:name":"Nuwaiseeb",
-    "wof:parent_id":85673391,
+    "wof:parent_id":1729718859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

@@ -57,7 +57,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
-        85632401
+        85632401,
+        85673405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +77,7 @@
             "country_id":85632401,
             "locality_id":-1,
             "neighbourhood_id":85932325,
-            "region_id":-1
+            "region_id":85673405
         }
     ],
     "wof:id":85932325,
@@ -86,7 +87,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1611108590,
+    "wof:lastmodified":1614028107,
     "wof:name":"Salmiya-block 1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
