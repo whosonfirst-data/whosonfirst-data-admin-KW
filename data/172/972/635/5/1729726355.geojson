@@ -1,0 +1,71 @@
+{
+  "id": 1729726355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000172,
+    "geom:area_square_m":1851899.584102,
+    "geom:bbox":"47.649487,29.335814,47.667531,29.349894",
+    "geom:latitude":29.342105,
+    "geom:longitude":47.658628,
+    "iso:country":"KW",
+    "lbl:latitude":29.342795,
+    "lbl:longitude":47.658456,
+    "mps:latitude":29.342795,
+    "mps:longitude":47.658456,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u062d\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "Waha"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        890439989,
+        421170031,
+        85673399
+    ],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094343,
+    "wof:geomhash":"d6d9e23f18c11c167802f7e579ed0542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421170031,
+            "locality_id":890439989,
+            "neighbourhood_id":1729726355,
+            "region_id":85673399
+        }
+    ],
+    "wof:id":1729726355,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028389,
+    "wof:name":"Waha",
+    "wof:parent_id":890439989,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.649487,
+    29.335814,
+    47.667531,
+    29.349894
+],
+  "geometry": {"coordinates":[[[47.66015,29.348664],[47.664251,29.34511],[47.667053,29.342581],[47.667531,29.341351],[47.667463,29.338753],[47.666301,29.335814],[47.6622,29.336703],[47.657962,29.337045],[47.654067,29.337045],[47.649487,29.337097],[47.651264,29.343469],[47.652905,29.34675],[47.654408,29.348937],[47.655912,29.349758],[47.657962,29.349894],[47.66015,29.348664]]],"type":"Polygon"}
+}

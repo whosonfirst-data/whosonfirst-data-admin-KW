@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,14 +12,13 @@
     "geom:longitude":47.963531,
     "gn:id":"",
     "iso:country":"KW",
-    "lbl:bbox":"47.958531,29.366066,47.968531,29.376066",
     "lbl:latitude":29.371066,
     "lbl:longitude":47.963531,
     "lbl:max_zoom":18.0,
     "mps:latitude":29.380702,
     "mps:longitude":47.952527,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -67,6 +67,7 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
+        421202465,
         85632401,
         85673383
     ],
@@ -85,21 +86,26 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "locality_id":421202465,
             "neighbourhood_id":85932427,
             "region_id":85673383
         }
     ],
     "wof:id":85932427,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "ara"
     ],
-    "wof:lastmodified":1582331166,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028099,
     "wof:name":"\u0627\u0644\u0642\u0628\u0644\u0629-\u0642\u0637\u0639\u0629 3",
-    "wof:parent_id":-1,
+    "wof:parent_id":421202465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729740641
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

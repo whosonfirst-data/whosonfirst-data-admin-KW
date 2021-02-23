@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -14,7 +15,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
@@ -37,6 +38,7 @@
     "qs:woe_id":10644928,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        102191569,
         85632401
     ],
     "wof:breaches":[],
@@ -49,17 +51,21 @@
     "wof:geomhash":"a735caffc0a1a59263bb3bf677bbf89b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":421203273
+            "locality_id":421203273,
+            "region_id":-1
         }
     ],
     "wof:id":421203273,
-    "wof:lastmodified":1566591064,
+    "wof:lastmodified":1614028092,
     "wof:name":"Al-qaser",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729741007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

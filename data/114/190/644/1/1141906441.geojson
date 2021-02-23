@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.6580622953,29.3374715363,47.6580622953,29.3374715363",
+    "geom:bbox":"47.658062,29.337472,47.658062,29.337472",
     "geom:latitude":29.337472,
     "geom:longitude":47.658062,
     "iso:country":"KW",
@@ -16,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0647\u0631\u0627\u0621"
@@ -249,7 +250,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673399
+        85673399,
+        421170031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -257,30 +259,33 @@
     },
     "wof:country":"KW",
     "wof:created":1499130588,
-    "wof:geomhash":"ee0940faba7180452d5eee37ee691ef6",
+    "wof:geomhash":"7178fc00703fbc05b340866907b5935e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":421170031,
             "locality_id":1141906441,
             "region_id":85673399
         }
     ],
     "wof:id":1141906441,
-    "wof:lastmodified":1566591078,
+    "wof:lastmodified":1614028386,
     "wof:name":"Al Jahra",
-    "wof:parent_id":85673399,
+    "wof:parent_id":421170031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890439989
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    47.65806229532564,
-    29.33747153626661,
-    47.65806229532564,
-    29.33747153626661
+    47.658062,
+    29.337472,
+    47.658062,
+    29.337472
 ],
-  "geometry": {"coordinates":[47.65806229532564,29.33747153626661],"type":"Point"}
+  "geometry": {"coordinates":[47.658062,29.337472],"type":"Point"}
 }

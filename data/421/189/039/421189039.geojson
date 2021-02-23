@@ -4,15 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.030071,29.31845,48.030071,29.31845",
-    "geom:latitude":29.31845,
-    "geom:longitude":48.030071,
+    "geom:area":0.000593,
+    "geom:area_square_m":6390571.776474,
+    "geom:bbox":"48.012146,29.307377,48.052916,29.331078",
+    "geom:latitude":29.31862,
+    "geom:longitude":48.032594,
     "iso:country":"KW",
     "lbl:bbox":"48.010071,29.29845,48.050071,29.33845",
+    "lbl:latitude":29.319145,
+    "lbl:longitude":48.032594,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.319145,
+    "mps:longitude":48.032594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -56,12 +60,17 @@
     "qs:qs_id":1109771,
     "qs:woe_adm0":23424870,
     "qs:woe_id":22724747,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":395,
     "wof:belongsto":[
         102191569,
         85632401,
-        85673405
+        85673405,
+        1729718867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,19 +80,29 @@
     },
     "wof:country":"KW",
     "wof:created":1459009602,
-    "wof:geomhash":"68bb786ffb3d3f0f4b90fba466a7ad01",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"f09db2b486a9658281a0cf98e0edecbc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":1729718867,
             "locality_id":421189039,
             "region_id":85673405
         }
     ],
     "wof:id":421189039,
-    "wof:lastmodified":1566591066,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028324,
     "wof:name":"Jabriya",
-    "wof:parent_id":85673405,
+    "wof:parent_id":1729718867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
@@ -91,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.030071,
-    29.31845,
-    48.030071,
-    29.31845
+    48.012146,
+    29.307377,
+    48.052916,
+    29.331078
 ],
-  "geometry": {"coordinates":[48.030071,29.31845],"type":"Point"}
+  "geometry": {"coordinates":[[[48.012146,29.323064],[48.023993,29.326897],[48.035028,29.330149],[48.039674,29.331078],[48.052916,29.314236],[48.047573,29.311216],[48.040139,29.309822],[48.020985,29.307377],[48.02016,29.310752],[48.018767,29.314352],[48.015166,29.319231],[48.012146,29.323064]]],"type":"Polygon"}
 }

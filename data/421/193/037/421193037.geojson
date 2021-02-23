@@ -3,17 +3,17 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.0798055,29.329488,48.0798055,29.329488",
+    "geom:bbox":"48.079805,29.329488,48.079805,29.329488",
     "geom:latitude":29.329488,
     "geom:longitude":48.079805,
     "iso:country":"KW",
-    "lbl:bbox":"48.0748055,29.324488,48.0848055,29.334488",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
@@ -38,6 +38,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
+        421190475,
+        1729718867,
         85673405
     ],
     "wof:breaches":[],
@@ -47,31 +49,40 @@
     },
     "wof:country":"KW",
     "wof:created":1459009758,
-    "wof:geomhash":"034727cd41debd7606ac1de90193b8ab",
+    "wof:geomhash":"aadecbf5e8bcfbb5ea9f539c186a1da7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":1729718867,
+            "locality_id":421190475,
             "neighbourhood_id":421193037,
             "region_id":85673405
         }
     ],
     "wof:id":421193037,
-    "wof:lastmodified":1566591062,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028141,
     "wof:name":"Salmiya-block 7",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190475,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729740775
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    48.0798055,
+    48.079805,
     29.329488,
-    48.0798055,
+    48.079805,
     29.329488
 ],
-  "geometry": {"coordinates":[48.0798055,29.329488],"type":"Point"}
+  "geometry": {"coordinates":[48.079805,29.329488],"type":"Point"}
 }

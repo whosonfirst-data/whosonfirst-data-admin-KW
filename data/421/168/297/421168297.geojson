@@ -3,17 +3,17 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.0547105,29.2886315,48.0547105,29.2886315",
+    "geom:bbox":"48.05471,29.288632,48.05471,29.288632",
     "geom:latitude":29.288632,
     "geom:longitude":48.05471,
     "iso:country":"KW",
-    "lbl:bbox":"48.0497105,29.2836315,48.0597105,29.2936315",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
@@ -38,7 +38,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673395
+        85673395,
+        85673405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
     },
     "wof:country":"KW",
     "wof:created":1459008760,
-    "wof:geomhash":"5b827f70a8b66e6e008697777c244384",
+    "wof:geomhash":"62ff3cd6222f824d30535a2bdba63a57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,23 +56,38 @@
             "locality_id":-1,
             "neighbourhood_id":421168297,
             "region_id":85673395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":-1,
+            "neighbourhood_id":421168297,
+            "region_id":85673405
         }
     ],
     "wof:id":421168297,
-    "wof:lastmodified":1566591061,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028108,
     "wof:name":"Bayan-block 12",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729740767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    48.0547105,
-    29.2886315,
-    48.0547105,
-    29.2886315
+    48.05471,
+    29.288632,
+    48.05471,
+    29.288632
 ],
-  "geometry": {"coordinates":[48.0547105,29.2886315],"type":"Point"}
+  "geometry": {"coordinates":[48.05471,29.288632],"type":"Point"}
 }

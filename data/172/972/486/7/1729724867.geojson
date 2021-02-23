@@ -1,0 +1,69 @@
+{
+  "id": 1729724867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000623,
+    "geom:area_square_m":6745112.55318,
+    "geom:bbox":"48.135987,28.943217,48.172197,28.971438",
+    "geom:latitude":28.956941,
+    "geom:longitude":48.153259,
+    "iso:country":"KW",
+    "lbl:latitude":28.955958,
+    "lbl:longitude":48.151793,
+    "mps:latitude":28.955958,
+    "mps:longitude":48.151793,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a \u0635\u0628\u0627\u062d \u0627\u0644\u0633\u0627\u0644\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Ali Sabah Al Salem"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673391,
+        1729718859
+    ],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611092483,
+    "wof:geomhash":"cccfea70937395273c809fb9142a599e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":1729718859,
+            "locality_id":1729724867,
+            "region_id":85673391
+        }
+    ],
+    "wof:id":1729724867,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028256,
+    "wof:name":"Ali Sabah Al Salem",
+    "wof:parent_id":1729718859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.135987,
+    28.943217,
+    48.172197,
+    28.971438
+],
+  "geometry": {"coordinates":[[[48.138542,28.964799],[48.14033,28.964096],[48.141926,28.964033],[48.143267,28.96448],[48.144481,28.964863],[48.145224,28.965772],[48.146728,28.966592],[48.15604,28.969269],[48.157317,28.969589],[48.158147,28.968695],[48.161973,28.971438],[48.164498,28.966319],[48.167642,28.960441],[48.172197,28.954964],[48.156806,28.944938],[48.155613,28.94554],[48.15534,28.943217],[48.147138,28.94472],[48.135987,28.953751],[48.137584,28.963458],[48.138542,28.964799]]],"type":"Polygon"}
+}

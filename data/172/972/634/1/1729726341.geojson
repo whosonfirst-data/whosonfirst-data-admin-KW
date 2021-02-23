@@ -1,0 +1,71 @@
+{
+  "id": 1729726341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001199,
+    "geom:area_square_m":12925752.952591,
+    "geom:bbox":"47.734924,29.283732,47.786049,29.323511",
+    "geom:latitude":29.302777,
+    "geom:longitude":47.76318,
+    "iso:country":"KW",
+    "lbl:latitude":29.303957,
+    "lbl:longitude":47.76318,
+    "mps:latitude":29.303957,
+    "mps:longitude":47.76318,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0623\u0645\u063a\u0631\u0629 \u0635\u0646\u0627\u0639\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Amgarah Industrial"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        890439989,
+        421170031,
+        85673399
+    ],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094338,
+    "wof:geomhash":"36d05115d062ce88252e1de80603d4ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421170031,
+            "locality_id":890439989,
+            "neighbourhood_id":1729726341,
+            "region_id":85673399
+        }
+    ],
+    "wof:id":1729726341,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028389,
+    "wof:name":"Amgarah Industrial",
+    "wof:parent_id":890439989,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.734924,
+    29.283732,
+    47.786049,
+    29.323511
+],
+  "geometry": {"coordinates":[[[47.734924,29.295898],[47.750917,29.323511],[47.776617,29.311892],[47.785229,29.311482],[47.785092,29.295762],[47.786049,29.290294],[47.786049,29.287833],[47.784955,29.283732],[47.780163,29.285284],[47.772999,29.287344],[47.764761,29.289583],[47.758134,29.291105],[47.748374,29.293343],[47.734924,29.295898]]],"type":"Polygon"}
+}

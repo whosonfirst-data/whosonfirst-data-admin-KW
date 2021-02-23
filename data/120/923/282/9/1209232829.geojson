@@ -23,11 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuwait",
     "iso:country":"KW",
-    "lbl:bbox":"48.34444,28.61972,48.38444,28.65972",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u064e\u0644\u0646\u064e\u0651\u0627\u0645\u0650\u064a"
@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632401
+        102191569,
+        85632401,
+        85673391,
+        1729718859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,23 @@
     "wof:geomhash":"d3621774925b3ced64d91d49574a64ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":1209232829
+            "county_id":1729718859,
+            "locality_id":1209232829,
+            "region_id":85673391
         }
     ],
     "wof:id":1209232829,
-    "wof:lastmodified":1566591060,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028144,
     "wof:name":"An Nami",
-    "wof:parent_id":85632401,
+    "wof:parent_id":1729718859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

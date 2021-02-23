@@ -1,0 +1,18 @@
+{
+  "id": 102542307,
+  "type": "Feature",
+  "properties": {
+    "src:alt_label":"woedb",
+    "src:geom":"woedb",
+    "wof:geomhash":"ed842b3748772b34a4f4bc8c0cd0ff26",
+    "wof:id":102542307,
+    "wof:repo":"whosonfirst-data-admin-kw"
+},
+  "bbox": [
+    47.961609,
+    29.265858,
+    47.97131,
+    29.273682
+],
+  "geometry": {"coordinates":[[[47.961609,29.265858],[47.967167,29.273048],[47.967766,29.273682],[47.971199,29.268431],[47.97131,29.268328],[47.961609,29.265858]]],"type":"Polygon"}
+}

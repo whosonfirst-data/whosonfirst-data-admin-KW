@@ -3,17 +3,17 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.0726365,29.2776795,48.0726365,29.2776795",
+    "geom:bbox":"48.072637,29.27768,48.072637,29.27768",
     "geom:latitude":29.27768,
     "geom:longitude":48.072637,
     "iso:country":"KW",
-    "lbl:bbox":"48.0676365,29.2726795,48.0776365,29.2826795",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
@@ -37,8 +37,10 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191569,
+        421189035,
         85632401,
-        85673395
+        85673395,
+        85673405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,31 +49,46 @@
     },
     "wof:country":"KW",
     "wof:created":1459009404,
-    "wof:geomhash":"1382078c1c94fcec39cbf8566322da26",
+    "wof:geomhash":"7d28c0a449c6c5e1e81f45e498e75256",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "locality_id":421189035,
             "neighbourhood_id":421184243,
             "region_id":85673395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "locality_id":421189035,
+            "neighbourhood_id":421184243,
+            "region_id":85673405
         }
     ],
     "wof:id":421184243,
-    "wof:lastmodified":1566591071,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028109,
     "wof:name":"Mishref-block 3",
-    "wof:parent_id":-1,
+    "wof:parent_id":421189035,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729740813
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    48.0726365,
-    29.2776795,
-    48.0726365,
-    29.2776795
+    48.072637,
+    29.27768,
+    48.072637,
+    29.27768
 ],
-  "geometry": {"coordinates":[48.0726365,29.2776795],"type":"Point"}
+  "geometry": {"coordinates":[48.072637,29.27768],"type":"Point"}
 }

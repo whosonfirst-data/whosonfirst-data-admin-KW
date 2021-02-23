@@ -1,0 +1,71 @@
+{
+  "id": 1729726333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000503,
+    "geom:area_square_m":5419033.930316,
+    "geom:bbox":"47.831898,29.295215,47.865212,29.310759",
+    "geom:latitude":29.302965,
+    "geom:longitude":47.848379,
+    "iso:country":"KW",
+    "lbl:latitude":29.302917,
+    "lbl:longitude":47.848379,
+    "mps:latitude":29.302917,
+    "mps:longitude":47.848379,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0647\u0636\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Nahdha"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        421202465,
+        421201553,
+        85673383
+    ],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094336,
+    "wof:geomhash":"e540b4449cabeb08ba4acb5342106ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421201553,
+            "locality_id":421202465,
+            "neighbourhood_id":1729726333,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":1729726333,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028362,
+    "wof:name":"Nahdha",
+    "wof:parent_id":421202465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.831898,
+    29.295215,
+    47.865212,
+    29.310759
+],
+  "geometry": {"coordinates":[[[47.831898,29.295402],[47.831996,29.310759],[47.862053,29.310388],[47.865212,29.310287],[47.864828,29.295764],[47.856312,29.295215],[47.831898,29.295402]]],"type":"Polygon"}
+}

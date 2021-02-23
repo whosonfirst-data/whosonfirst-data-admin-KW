@@ -1,0 +1,73 @@
+{
+  "id": 1729726339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003665,
+    "geom:area_square_m":39547477.406868,
+    "geom:bbox":"47.931769,29.189547,48.008525,29.265916",
+    "geom:latitude":29.226587,
+    "geom:longitude":47.968706,
+    "iso:country":"KW",
+    "lbl:latitude":29.227607,
+    "lbl:longitude":47.965599,
+    "mps:latitude":29.227607,
+    "mps:longitude":47.965599,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u0643\u0648\u064a\u062a \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Kuwait International Airport"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        421204583,
+        85673389
+    ],
+    "wof:breaches":[],
+    "wof:coterminous":[
+        102542307
+    ],
+    "wof:country":"KW",
+    "wof:created":1611094338,
+    "wof:geomhash":"80d48c4fdfdda0e54e597d93f668f614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421204583,
+            "locality_id":-1,
+            "neighbourhood_id":1729726339,
+            "region_id":85673389
+        }
+    ],
+    "wof:id":1729726339,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028304,
+    "wof:name":"Kuwait International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.931769,
+    29.189547,
+    48.008525,
+    29.265916
+],
+  "geometry": {"coordinates":[[[47.953641,29.258853],[47.95781,29.258716],[47.960681,29.257349],[47.962048,29.256666],[47.971617,29.259537],[47.970742,29.265916],[47.987895,29.265916],[47.989661,29.252018],[47.992258,29.233837],[48.002921,29.212239],[48.007842,29.203354],[48.008525,29.200073],[48.007295,29.196382],[47.996633,29.200483],[47.969977,29.194331],[47.953026,29.189547],[47.932795,29.23165],[47.938126,29.237118],[47.931769,29.245047],[47.940791,29.249284],[47.946123,29.251745],[47.952001,29.257213],[47.953641,29.258853]]],"type":"Polygon"}
+}

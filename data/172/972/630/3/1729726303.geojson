@@ -1,0 +1,71 @@
+{
+  "id": 1729726303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000163,
+    "geom:area_square_m":1757895.336602,
+    "geom:bbox":"47.994026,29.340371,48.013535,29.356969",
+    "geom:latitude":29.348914,
+    "geom:longitude":48.003266,
+    "iso:country":"KW",
+    "lbl:latitude":29.348947,
+    "lbl:longitude":48.003118,
+    "mps:latitude":29.348947,
+    "mps:longitude":48.003118,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0627\u062f\u0633\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Qadsiya"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        421202465,
+        421201553,
+        85673383
+    ],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094321,
+    "wof:geomhash":"deffe0dcae61d99f3c4cce7fa098da82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421201553,
+            "locality_id":421202465,
+            "neighbourhood_id":1729726303,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":1729726303,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028362,
+    "wof:name":"Qadsiya",
+    "wof:parent_id":421202465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.994026,
+    29.340371,
+    48.013535,
+    29.356969
+],
+  "geometry": {"coordinates":[[[48.003223,29.356969],[48.006178,29.354747],[48.010933,29.351412],[48.012663,29.350177],[48.013535,29.34971],[48.013307,29.349314],[48.010636,29.347166],[48.006048,29.343797],[48.000763,29.340371],[47.994026,29.350244],[47.997743,29.352451],[48.002389,29.356284],[48.003223,29.356969]]],"type":"Polygon"}
+}

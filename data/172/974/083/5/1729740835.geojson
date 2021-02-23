@@ -1,0 +1,89 @@
+{
+  "id": 1729740835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.993092,29.371333,47.993092,29.371333",
+    "geom:latitude":29.371333,
+    "geom:longitude":47.993092,
+    "iso:country":"KW",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":15.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Dasma-block 2",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:photos":54,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":54,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":973923,
+    "qs:woe_adm0":23424870,
+    "qs:woe_id":55943497,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85673383,
+        102191569,
+        85632401,
+        421202465,
+        421201553,
+        421192435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55943497,
+        "qs_pg:id":973923
+    },
+    "wof:country":"KW",
+    "wof:created":1459009366,
+    "wof:geomhash":"f6d0179acd558407761eb0a1a8e80e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421201553,
+            "locality_id":421202465,
+            "microhood_id":1729740835,
+            "neighbourhood_id":421192435,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":1729740835,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028364,
+    "wof:name":"Dasma-block 2",
+    "wof:parent_id":421192435,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421183355
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.993092,
+    29.371333,
+    47.993092,
+    29.371333
+],
+  "geometry": {"coordinates":[47.993092,29.371333],"type":"Point"}
+}

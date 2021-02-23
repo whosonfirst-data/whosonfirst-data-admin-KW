@@ -3,17 +3,17 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.0882725,29.319788,48.0882725,29.319788",
+    "geom:bbox":"48.088273,29.319788,48.088273,29.319788",
     "geom:latitude":29.319788,
     "geom:longitude":48.088273,
     "iso:country":"KW",
-    "lbl:bbox":"48.0832725,29.314788,48.0932725,29.324788",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
@@ -38,6 +38,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
+        421190737,
+        1729718867,
         85673405
     ],
     "wof:breaches":[],
@@ -47,31 +49,40 @@
     },
     "wof:country":"KW",
     "wof:created":1459009410,
-    "wof:geomhash":"48b7e6b75ba65aacb9c74d16e5c763b7",
+    "wof:geomhash":"3b7a0d9a08ece0409ed9a4e7833e9c7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":1729718867,
+            "locality_id":421190737,
             "neighbourhood_id":421184417,
             "region_id":85673405
         }
     ],
     "wof:id":421184417,
-    "wof:lastmodified":1566591072,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028139,
     "wof:name":"Rumaithiya-block 6",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190737,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729740819
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    48.0882725,
+    48.088273,
     29.319788,
-    48.0882725,
+    48.088273,
     29.319788
 ],
-  "geometry": {"coordinates":[48.0882725,29.319788],"type":"Point"}
+  "geometry": {"coordinates":[48.088273,29.319788],"type":"Point"}
 }

@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.969398,29.3075065,47.969398,29.3075065",
+    "geom:bbox":"47.969398,29.307506,47.969398,29.307506",
     "geom:latitude":29.307506,
     "geom:longitude":47.969398,
     "iso:country":"KW",
@@ -14,7 +15,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -61,7 +62,7 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673389
+        85673383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,30 +71,32 @@
     },
     "wof:country":"KW",
     "wof:created":1459009655,
-    "wof:geomhash":"b6ed6dc028bf247da8fa809ca7389e2e",
+    "wof:geomhash":"95b60311934ecd6ba89aeec0253e1217",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
             "locality_id":421190367,
-            "region_id":85673389
+            "region_id":85673383
         }
     ],
     "wof:id":421190367,
-    "wof:lastmodified":1566591069,
+    "wof:lastmodified":1614028121,
     "wof:name":"Yarmouk",
-    "wof:parent_id":85673389,
+    "wof:parent_id":85673383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729728007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     47.969398,
-    29.3075065,
+    29.307506,
     47.969398,
-    29.3075065
+    29.307506
 ],
-  "geometry": {"coordinates":[47.969398,29.3075065],"type":"Point"}
+  "geometry": {"coordinates":[47.969398,29.307506],"type":"Point"}
 }

@@ -10,10 +10,10 @@
     "geom:latitude":29.32972,
     "geom:longitude":47.93611,
     "iso:country":"KW",
-    "lbl:bbox":"47.93111,29.32472,47.94111,29.33472",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -44,6 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
+        421202465,
+        421201553,
         85673383
     ],
     "wof:breaches":[],
@@ -59,15 +61,22 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":421201553,
+            "locality_id":421202465,
             "neighbourhood_id":421204363,
             "region_id":85673383
         }
     ],
     "wof:id":421204363,
-    "wof:lastmodified":1566591063,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028363,
     "wof:name":"Al Mina'",
-    "wof:parent_id":-1,
+    "wof:parent_id":421202465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

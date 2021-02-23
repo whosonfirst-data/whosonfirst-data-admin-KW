@@ -4,23 +4,33 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.079261,29.084526,48.079261,29.084526",
-    "geom:latitude":29.084526,
-    "geom:longitude":48.079261,
+    "geom:area":0.001519,
+    "geom:area_square_m":16417480.329572,
+    "geom:bbox":"48.050902,29.063238,48.099567,29.117917",
+    "geom:latitude":29.089265,
+    "geom:longitude":48.074994,
     "iso:country":"KW",
     "lbl:bbox":"48.059261,29.064526,48.099261,29.104526",
+    "lbl:latitude":29.089971,
+    "lbl:longitude":48.072598,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.089971,
+    "mps:longitude":48.072598,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u062d\u0645\u062f\u064a"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0627\u062d\u0645\u062f\u0649"
     ],
     "name:eng_x_preferred":[
+        "Ahmadi"
+    ],
+    "name:eng_x_variant":[
         "Al Ahmadi"
     ],
     "qs:gn_country":null,
@@ -41,11 +51,16 @@
     "qs:qs_id":1119535,
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940621,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
-        85673391
+        85673391,
+        1729718859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,30 +69,43 @@
     },
     "wof:country":"KW",
     "wof:created":1459009655,
-    "wof:geomhash":"85ce29dd186ed9e0638e54f343170999",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"5261ad2959d01b876993634660fdb8c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":1729718859,
             "locality_id":421190381,
             "region_id":85673391
         }
     ],
     "wof:id":421190381,
-    "wof:lastmodified":1601423083,
-    "wof:name":"Al Ahmadi",
-    "wof:parent_id":85673391,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028354,
+    "wof:name":"Ahmadi",
+    "wof:parent_id":1729718859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259789489,
+        1141906439
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    48.079261,
-    29.084526,
-    48.079261,
-    29.084526
+    48.050902,
+    29.063238,
+    48.099567,
+    29.117917
 ],
-  "geometry": {"coordinates":[48.079261,29.084526],"type":"Point"}
+  "geometry": {"coordinates":[[[48.097926,29.09338],[48.098746,29.088937],[48.099567,29.079778],[48.099567,29.072533],[48.0982,29.063238],[48.083983,29.068432],[48.061154,29.078821],[48.058831,29.082102],[48.050902,29.082512],[48.052132,29.10083],[48.051449,29.104247],[48.054593,29.104521],[48.055823,29.108212],[48.057464,29.110672],[48.060061,29.112996],[48.061701,29.117917],[48.065665,29.116824],[48.067853,29.116003],[48.06922,29.1145],[48.085487,29.096455],[48.08576,29.094678],[48.097926,29.09338]]],"type":"Polygon"}
 }

@@ -23,7 +23,6 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kuwait",
     "iso:country":"KW",
-    "lbl:bbox":"47.94722,28.94667,47.98722,28.98667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -40,26 +39,34 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673391
+        85673391,
+        1729718859
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":285599
     },
     "wof:country":"KW",
-    "wof:geomhash":"76a04e2cc1fde971fd82b0f5079da724",
+    "wof:geomhash":"3adceb80274943cda4024e5b4eb8e1dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":1729718859,
             "locality_id":1326544779,
             "region_id":85673391
         }
     ],
     "wof:id":1326544779,
-    "wof:lastmodified":1566591050,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028144,
     "wof:name":"Ju`aydan",
-    "wof:parent_id":85673391,
+    "wof:parent_id":1729718859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.96722000000001,
+    47.96722,
     28.96667,
-    47.96722000000001,
+    47.96722,
     28.96667
 ],
-  "geometry": {"coordinates":[47.96722000000001,28.96667],"type":"Point"}
+  "geometry": {"coordinates":[47.96722,28.96667],"type":"Point"}
 }

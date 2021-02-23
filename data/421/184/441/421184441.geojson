@@ -4,23 +4,30 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.12152,29.139059,48.12152,29.139059",
-    "geom:latitude":29.139059,
-    "geom:longitude":48.12152,
+    "geom:area":0.000381,
+    "geom:area_square_m":4118550.591737,
+    "geom:bbox":"48.110672,29.136683,48.13376,29.160772",
+    "geom:latitude":29.147735,
+    "geom:longitude":48.121205,
     "iso:country":"KW",
     "lbl:bbox":"48.10152,29.119059,48.14152,29.159059",
+    "lbl:latitude":29.147259,
+    "lbl:longitude":48.120985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.147259,
+    "mps:longitude":48.120985,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0647\u0628\u0648\u0644\u0629"
     ],
     "name:eng_x_preferred":[
+        "Mahboula"
+    ],
+    "name:eng_x_variant":[
         "Al Mahboula"
     ],
     "qs:gn_country":null,
@@ -41,11 +48,16 @@
     "qs:qs_id":996422,
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940552,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
-        85673391
+        85673391,
+        1729718859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,30 +66,42 @@
     },
     "wof:country":"KW",
     "wof:created":1459009411,
-    "wof:geomhash":"e1adf15e46a8071127590896055bf438",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"cd909d895978531bf69ba6f3f2f02722",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":1729718859,
             "locality_id":421184441,
             "region_id":85673391
         }
     ],
     "wof:id":421184441,
-    "wof:lastmodified":1601423085,
-    "wof:name":"Al Mahboula",
-    "wof:parent_id":85673391,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028374,
+    "wof:name":"Mahboula",
+    "wof:parent_id":1729718859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890430377
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    48.12152,
-    29.139059,
-    48.12152,
-    29.139059
+    48.110672,
+    29.136683,
+    48.13376,
+    29.160772
 ],
-  "geometry": {"coordinates":[48.12152,29.139059],"type":"Point"}
+  "geometry": {"coordinates":[[[48.114299,29.136683],[48.110672,29.1604],[48.113647,29.160772],[48.116244,29.159815],[48.118568,29.158585],[48.123079,29.158448],[48.12539,29.158817],[48.125389,29.158306],[48.127029,29.155027],[48.12875,29.149944],[48.133751,29.14164],[48.13376,29.138086],[48.125403,29.137397],[48.116791,29.13726],[48.114299,29.136683]]],"type":"Polygon"}
 }

@@ -1,0 +1,71 @@
+{
+  "id": 1729726311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000475,
+    "geom:area_square_m":5121099.472996,
+    "geom:bbox":"47.926309,29.30053,47.963644,29.316771",
+    "geom:latitude":29.308483,
+    "geom:longitude":47.944755,
+    "iso:country":"KW",
+    "lbl:latitude":29.308471,
+    "lbl:longitude":47.944755,
+    "mps:latitude":29.308471,
+    "mps:longitude":47.944755,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Rai"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        421202465,
+        421201553,
+        85673383
+    ],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094327,
+    "wof:geomhash":"04b16c51bac01f228cfbfdd576d57ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421201553,
+            "locality_id":421202465,
+            "neighbourhood_id":1729726311,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":1729726311,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028358,
+    "wof:name":"Rai",
+    "wof:parent_id":421202465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.926309,
+    29.30053,
+    47.963644,
+    29.316771
+],
+  "geometry": {"coordinates":[[[47.926309,29.313539],[47.942105,29.315398],[47.945822,29.314933],[47.959296,29.316559],[47.961042,29.316771],[47.963644,29.303059],[47.945358,29.301924],[47.927702,29.30053],[47.926309,29.313539]]],"type":"Polygon"}
+}

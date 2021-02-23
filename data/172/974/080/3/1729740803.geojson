@@ -1,0 +1,97 @@
+{
+  "id": 1729740803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.981029,29.37472,47.981029,29.37472",
+    "geom:latitude":29.37472,
+    "geom:longitude":47.981029,
+    "iso:country":"KW",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":15.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0648\u0627\u0628\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Sawabir"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sawaber",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:photos":117,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":117,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1262814,
+    "qs:woe_adm0":23424870,
+    "qs:woe_id":22724764,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        85673383,
+        102191569,
+        85632401,
+        421202465,
+        421201553,
+        421205053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724764,
+        "qs_pg:id":1262814,
+        "wd:id":"Q12245661"
+    },
+    "wof:country":"KW",
+    "wof:created":1459009898,
+    "wof:geomhash":"d091afa28f3c3dd670d50ae8958e0a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421201553,
+            "locality_id":421202465,
+            "microhood_id":1729740803,
+            "neighbourhood_id":421205053,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":1729740803,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028367,
+    "wof:name":"Sawaber",
+    "wof:parent_id":421205053,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421196959
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.981029,
+    29.37472,
+    47.981029,
+    29.37472
+],
+  "geometry": {"coordinates":[47.981029,29.37472],"type":"Point"}
+}

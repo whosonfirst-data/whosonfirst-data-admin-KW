@@ -4,23 +4,30 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"47.959999,29.282249,47.959999,29.282249",
-    "geom:latitude":29.282249,
-    "geom:longitude":47.959999,
+    "geom:area":0.000435,
+    "geom:area_square_m":4696235.916336,
+    "geom:bbox":"47.947731,29.265916,47.970742,29.290097",
+    "geom:latitude":29.277876,
+    "geom:longitude":47.959312,
     "iso:country":"KW",
     "lbl:bbox":"47.939999,29.262249,47.979999,29.302249",
+    "lbl:latitude":29.277888,
+    "lbl:longitude":47.959311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.277888,
+    "mps:longitude":47.959311,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0631\u0648\u0627\u0646\u064a\u0629"
     ],
     "name:eng_x_preferred":[
+        "Farwaniya"
+    ],
+    "name:eng_x_variant":[
         "Al Farwaniyah"
     ],
     "qs:gn_country":null,
@@ -41,11 +48,16 @@
     "qs:qs_id":492722,
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940539,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
-        85673389
+        85673389,
+        421204583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,30 +66,42 @@
     },
     "wof:country":"KW",
     "wof:created":1459009811,
-    "wof:geomhash":"d5cc12b553b18f225e6cb31d51181694",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"2ed90eeb2e90ec60328c9ebdd1be45f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":421204583,
             "locality_id":421194545,
             "region_id":85673389
         }
     ],
     "wof:id":421194545,
-    "wof:lastmodified":1601423084,
-    "wof:name":"Al Farwaniyah",
-    "wof:parent_id":85673389,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028304,
+    "wof:name":"Farwaniya",
+    "wof:parent_id":421204583,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890430385
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    47.959999,
-    29.282249,
-    47.959999,
-    29.282249
+    47.947731,
+    29.265916,
+    47.970742,
+    29.290097
 ],
-  "geometry": {"coordinates":[47.959999,29.282249],"type":"Point"}
+  "geometry": {"coordinates":[[[47.970742,29.265916],[47.968821,29.265916],[47.952683,29.266118],[47.949968,29.27758],[47.949539,29.27939],[47.947731,29.289135],[47.966121,29.290097],[47.967081,29.285075],[47.970742,29.265916]]],"type":"Polygon"}
 }

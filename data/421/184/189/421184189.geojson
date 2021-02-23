@@ -10,10 +10,10 @@
     "geom:latitude":29.364223,
     "geom:longitude":47.970085,
     "iso:country":"KW",
-    "lbl:bbox":"47.965085,29.359223,47.975085,29.369223",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
@@ -38,6 +38,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
+        421202465,
+        421201553,
         85673383
     ],
     "wof:breaches":[],
@@ -52,15 +54,22 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":421201553,
+            "locality_id":421202465,
             "neighbourhood_id":421184189,
             "region_id":85673383
         }
     ],
     "wof:id":421184189,
-    "wof:lastmodified":1566591072,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028380,
     "wof:name":"Salhiya",
-    "wof:parent_id":-1,
+    "wof:parent_id":421202465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

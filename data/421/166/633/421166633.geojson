@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-22",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -10,11 +11,10 @@
     "geom:latitude":29.334896,
     "geom:longitude":48.004074,
     "iso:country":"KW",
-    "lbl:bbox":"47.984074,29.314896,48.024074,29.354896",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -58,7 +58,7 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673405
+        85673383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,13 +75,19 @@
             "continent_id":102191569,
             "country_id":85632401,
             "locality_id":421166633,
-            "region_id":85673405
+            "region_id":85673383
         }
     ],
     "wof:id":421166633,
-    "wof:lastmodified":1566591061,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028120,
     "wof:name":"Qurtubah",
-    "wof:parent_id":85673405,
+    "wof:parent_id":85673383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,14 +12,13 @@
     "geom:longitude":48.049973,
     "gn:id":"",
     "iso:country":"KW",
-    "lbl:bbox":"48.044973,29.257809,48.054973,29.267809",
     "lbl:latitude":29.262809,
     "lbl:longitude":48.049973,
     "lbl:max_zoom":18.0,
     "mps:latitude":29.258699,
     "mps:longitude":48.05023,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -58,6 +58,7 @@
     "wof:belongsto":[
         102191569,
         85632401,
+        421193461,
         85673395
     ],
     "wof:breaches":[],
@@ -75,21 +76,27 @@
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":421193461,
             "locality_id":-1,
             "neighbourhood_id":85932515,
             "region_id":85673395
         }
     ],
     "wof:id":85932515,
-    "wof:lang":[
-        "eng"
+    "wof:lang_x_official":[
+        "ara"
     ],
-    "wof:lastmodified":1582331168,
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028295,
     "wof:name":"Sabah Al Salem-block 6",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729740761
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

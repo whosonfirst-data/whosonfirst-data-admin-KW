@@ -1,0 +1,114 @@
+{
+  "id": 1729740671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.006706,29.293286,48.006706,29.293286",
+    "geom:latitude":29.293286,
+    "geom:longitude":48.006706,
+    "gn:id":"",
+    "iso:country":"KW",
+    "lbl:latitude":29.293286,
+    "lbl:longitude":48.006706,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":29.292073,
+    "mps:longitude":48.007596,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Al Salam-block 7"
+    ],
+    "qs:gn_adm0_cc":"KW",
+    "qs:gn_id":0,
+    "qs:gn_local":285787,
+    "qs:gn_nam_loc":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, KW",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":1268,
+    "qs:local_sum":5995,
+    "qs:localhoods":31,
+    "qs:name":"Al Salam-block 7",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u062d\u0648\u0644\u0649",
+    "qs:name_adm2":"\u062d\u0648\u0644\u0649",
+    "qs:name_local":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:photo_max":21,
+    "qs:photo_sum":45,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424870,
+    "qs:woe_adm1":20070167,
+    "qs:woe_adm2":55943084,
+    "qs:woe_lau":0,
+    "qs:woe_local":1940631,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        85673405,
+        102191569,
+        85632401,
+        1729724865,
+        1729718867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55943338,
+        "qs_pg:id":959673
+    },
+    "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"84d6475fc71b6816194f33153f20b0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":1729718867,
+            "locality_id":1729724865,
+            "microhood_id":1729740671,
+            "neighbourhood_id":-1,
+            "region_id":85673405
+        }
+    ],
+    "wof:id":1729740671,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028258,
+    "wof:name":"Al Salam-block 7",
+    "wof:parent_id":-1,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85932471
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.006706,
+    29.293286,
+    48.006706,
+    29.293286
+],
+  "geometry": {"coordinates":[48.006706,29.293286],"type":"Point"}
+}

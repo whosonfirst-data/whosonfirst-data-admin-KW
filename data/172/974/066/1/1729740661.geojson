@@ -1,0 +1,111 @@
+{
+  "id": 1729740661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.993516,29.268431,47.993516,29.268431",
+    "geom:latitude":29.268431,
+    "geom:longitude":47.993516,
+    "gn:id":"",
+    "iso:country":"KW",
+    "lbl:latitude":29.268431,
+    "lbl:longitude":47.993516,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":29.262795,
+    "mps:longitude":47.994777,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Zahra-block 8"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":306,
+    "qs:local_sum":312,
+    "qs:localhoods":2,
+    "qs:name":"Zahra-block 8",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u062d\u0648\u0644\u0649",
+    "qs:name_adm2":"\u062d\u0648\u0644\u0649",
+    "qs:name_local":"Zahraa",
+    "qs:photo_max":195,
+    "qs:photo_sum":306,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424870,
+    "qs:woe_adm1":20070167,
+    "qs:woe_adm2":55943084,
+    "qs:woe_lau":0,
+    "qs:woe_local":10644941,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        85673405,
+        102191569,
+        85632401,
+        1729724891,
+        1729718867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55943304,
+        "qs_pg:id":1119981
+    },
+    "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"f77cc35d1c4632870e2af2c80d71e618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":1729718867,
+            "locality_id":1729724891,
+            "microhood_id":1729740661,
+            "neighbourhood_id":-1,
+            "region_id":85673405
+        }
+    ],
+    "wof:id":1729740661,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028265,
+    "wof:name":"Zahra-block 8",
+    "wof:parent_id":-1,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85932453
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.993516,
+    29.268431,
+    47.993516,
+    29.268431
+],
+  "geometry": {"coordinates":[47.993516,29.268431],"type":"Point"}
+}

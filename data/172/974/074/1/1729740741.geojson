@@ -1,0 +1,122 @@
+{
+  "id": 1729740741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.988947,29.372375,47.988947,29.372375",
+    "geom:latitude":29.372375,
+    "geom:longitude":47.988947,
+    "gn:id":"",
+    "iso:country":"KW",
+    "lbl:latitude":29.372375,
+    "lbl:longitude":47.988947,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":29.371556,
+    "mps:longitude":47.987598,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0642-\u0642\u0637\u0639\u0629 8"
+    ],
+    "name:eng_x_preferred":[
+        "Sharq-block 8"
+    ],
+    "name:eng_x_variant":[
+        "Sharq-block 8"
+    ],
+    "qs:gn_adm0_cc":"KW",
+    "qs:gn_id":0,
+    "qs:gn_local":285787,
+    "qs:gn_nam_loc":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a, KW",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":1268,
+    "qs:local_sum":5995,
+    "qs:localhoods":31,
+    "qs:name":"\u0634\u0631\u0642-\u0642\u0637\u0639\u0629 8",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm2":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_en":"Sharq-block 8",
+    "qs:name_local":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:photo_max":25,
+    "qs:photo_sum":76,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424870,
+    "qs:woe_adm1":20070169,
+    "qs:woe_adm2":55943085,
+    "qs:woe_lau":0,
+    "qs:woe_local":1940631,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        85673383,
+        102191569,
+        85632401,
+        421202465,
+        421201553,
+        421192435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55943421,
+        "qs_pg:id":986747
+    },
+    "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"d71cb453d94472f89130a53d240d624a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421201553,
+            "locality_id":421202465,
+            "microhood_id":1729740741,
+            "neighbourhood_id":421192435,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":1729740741,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028367,
+    "wof:name":"\u0634\u0631\u0642-\u0642\u0637\u0639\u0629 8",
+    "wof:parent_id":421192435,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85932509
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.988947,
+    29.372375,
+    47.988947,
+    29.372375
+],
+  "geometry": {"coordinates":[47.988947,29.372375],"type":"Point"}
+}

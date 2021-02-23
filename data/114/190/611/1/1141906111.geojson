@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.9999975591,29.3333400154,47.9999975591,29.3333400154",
+    "geom:bbox":"47.999998,29.33334,47.999998,29.33334",
     "geom:latitude":29.33334,
     "geom:longitude":47.999998,
     "iso:country":"KW",
@@ -16,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0648\u0644\u064a"
@@ -177,7 +178,7 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673405
+        85673383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -185,30 +186,32 @@
     },
     "wof:country":"KW",
     "wof:created":1499130542,
-    "wof:geomhash":"b1f38739dc31c07683ccfec22cbc10f8",
+    "wof:geomhash":"00223d0b1d01df7c7132cb6da14b5a16",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
             "locality_id":1141906111,
-            "region_id":85673405
+            "region_id":85673383
         }
     ],
     "wof:id":1141906111,
-    "wof:lastmodified":1566591078,
+    "wof:lastmodified":1614028121,
     "wof:name":"Hawalli",
-    "wof:parent_id":85673405,
+    "wof:parent_id":85673383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421172941
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    47.99999755907982,
-    29.33334001538776,
-    47.99999755907982,
-    29.33334001538776
+    47.999998,
+    29.33334,
+    47.999998,
+    29.33334
 ],
-  "geometry": {"coordinates":[47.99999755907982,29.33334001538776],"type":"Point"}
+  "geometry": {"coordinates":[47.999998,29.33334],"type":"Point"}
 }

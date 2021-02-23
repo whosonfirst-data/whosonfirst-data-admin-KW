@@ -4,16 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.00139,29.32472,48.00139,29.32472",
-    "geom:latitude":29.32472,
-    "geom:longitude":48.00139,
+    "geom:area":0.000288,
+    "geom:area_square_m":3109573.921262,
+    "geom:bbox":"47.987521,29.320392,48.012146,29.340371",
+    "geom:latitude":29.32945,
+    "geom:longitude":47.998946,
     "iso:country":"KW",
     "lbl:bbox":"47.99639,29.31972,48.00639,29.32972",
+    "lbl:latitude":29.329207,
+    "lbl:longitude":47.99876,
     "lbl:max_zoom":18.0,
+    "mps:latitude":29.329207,
+    "mps:longitude":47.99876,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -40,11 +44,17 @@
     "qs:qs_id":1189754,
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940574,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
-        85673405
+        421202465,
+        421201553,
+        85673383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,20 +64,30 @@
     },
     "wof:country":"KW",
     "wof:created":1459010184,
-    "wof:geomhash":"93c97636775deb064db0b1f83ee8bdce",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"07caa312fa92a8a314f12d338d7f6ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":421201553,
+            "locality_id":421202465,
             "neighbourhood_id":421204367,
-            "region_id":85673405
+            "region_id":85673383
         }
     ],
     "wof:id":421204367,
-    "wof:lastmodified":1566591063,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028359,
     "wof:name":"Ar Rawdah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421202465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
@@ -75,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.00139,
-    29.32472,
-    48.00139,
-    29.32472
+    47.987521,
+    29.320392,
+    48.012146,
+    29.340371
 ],
-  "geometry": {"coordinates":[48.00139,29.32472],"type":"Point"}
+  "geometry": {"coordinates":[[[47.993445,29.320392],[47.987521,29.334911],[47.994607,29.337699],[48.000763,29.340371],[48.012146,29.323064],[47.993445,29.320392]]],"type":"Polygon"}
 }

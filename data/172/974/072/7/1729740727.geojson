@@ -1,0 +1,114 @@
+{
+  "id": 1729740727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.132751,29.09942,48.132751,29.09942",
+    "geom:latitude":29.09942,
+    "geom:longitude":48.132751,
+    "gn:id":"",
+    "iso:country":"KW",
+    "lbl:latitude":29.09942,
+    "lbl:longitude":48.132751,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":29.097795,
+    "mps:longitude":48.12409,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Manqaf-block 4"
+    ],
+    "qs:gn_adm0_cc":"KW",
+    "qs:gn_id":0,
+    "qs:gn_local":285778,
+    "qs:gn_nam_loc":"al manqaf",
+    "qs:gn_namadm1":"04",
+    "qs:local_max":55,
+    "qs:local_sum":104,
+    "qs:localhoods":2,
+    "qs:name":"Manqaf-block 4",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0627\u0644\u0623\u062d\u0645\u062f\u0649",
+    "qs:name_adm2":"\u0627\u0644\u0623\u062d\u0645\u062f\u0649",
+    "qs:name_local":"Al Manqaf",
+    "qs:photo_max":26,
+    "qs:photo_sum":55,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424870,
+    "qs:woe_adm1":20070166,
+    "qs:woe_adm2":55943081,
+    "qs:woe_lau":0,
+    "qs:woe_local":1940553,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        85673391,
+        102191569,
+        85632401,
+        421189403,
+        1729718859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55943409,
+        "qs_pg:id":986746
+    },
+    "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"272d5c2f6953c4516730ea6c21cc3edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":1729718859,
+            "locality_id":421189403,
+            "microhood_id":1729740727,
+            "neighbourhood_id":-1,
+            "region_id":85673391
+        }
+    ],
+    "wof:id":1729740727,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028213,
+    "wof:name":"Manqaf-block 4",
+    "wof:parent_id":-1,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85932505
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.132751,
+    29.09942,
+    48.132751,
+    29.09942
+],
+  "geometry": {"coordinates":[48.132751,29.09942],"type":"Point"}
+}

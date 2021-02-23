@@ -1,0 +1,69 @@
+{
+  "id": 1729724863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000307,
+    "geom:area_square_m":3312079.122123,
+    "geom:bbox":"48.03497,29.264523,48.056827,29.284832",
+    "geom:latitude":29.274039,
+    "geom:longitude":48.046925,
+    "iso:country":"KW",
+    "lbl:latitude":29.27419,
+    "lbl:longitude":48.046717,
+    "mps:latitude":29.27419,
+    "mps:longitude":48.046717,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0628\u0627\u0631\u0643 \u0627\u0644\u0639\u0628\u062f \u0627\u0644\u0644\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "Mubarak Al-Abdullah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        85673405,
+        1729718867
+    ],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611092481,
+    "wof:geomhash":"6a61dc74f1a07bb62b64629770acb15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":1729718867,
+            "locality_id":1729724863,
+            "region_id":85673405
+        }
+    ],
+    "wof:id":1729724863,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028258,
+    "wof:name":"Mubarak Al-Abdullah",
+    "wof:parent_id":1729718867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03497,
+    29.264523,
+    48.056827,
+    29.284832
+],
+  "geometry": {"coordinates":[[[48.051592,29.284832],[48.054846,29.274645],[48.056827,29.268986],[48.056827,29.264523],[48.042752,29.264523],[48.03497,29.280087],[48.04381,29.283276],[48.051592,29.284832]]],"type":"Polygon"}
+}

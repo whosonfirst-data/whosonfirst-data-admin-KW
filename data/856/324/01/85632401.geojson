@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.6133,
-    "geom:area_square_m":17386976158.407143,
+    "geom:area_square_m":17386975666.303757,
     "geom:bbox":"46.55304,28.524446,48.777943,30.103699",
     "geom:latitude":29.354403,
     "geom:longitude":47.613542,
@@ -994,7 +994,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583797379,
+    "wof:lastmodified":1614028104,
     "wof:name":"Kuwait",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

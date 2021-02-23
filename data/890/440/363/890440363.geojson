@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -16,7 +17,7 @@
     "lbl:bbox":"48.07361,29.29083,48.08361,29.30083",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0633\u064e\u0644\u0652\u0648\u064e\u0649"
@@ -33,7 +34,9 @@
     "qs:pop_sr":"7",
     "src:population":"geonames",
     "wof:belongsto":[
-        85632401
+        102191569,
+        85632401,
+        85673395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +48,24 @@
     "wof:geomhash":"32e554b5815dd531437775be4ba7c53f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632401,
-            "neighbourhood_id":890440363
+            "locality_id":-1,
+            "neighbourhood_id":890440363,
+            "region_id":85673395
         }
     ],
     "wof:id":890440363,
-    "wof:lastmodified":1566591075,
+    "wof:lastmodified":1614028101,
     "wof:name":"Salw\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:population":40945,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421190385
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

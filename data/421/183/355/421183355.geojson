@@ -3,17 +3,17 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.993092,29.3713335,47.993092,29.3713335",
+    "geom:bbox":"47.993092,29.371333,47.993092,29.371333",
     "geom:latitude":29.371333,
     "geom:longitude":47.993092,
     "iso:country":"KW",
-    "lbl:bbox":"47.988092,29.3663335,47.998092,29.3763335",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
@@ -37,6 +37,7 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191569,
+        421202465,
         85632401,
         85673383
     ],
@@ -47,31 +48,39 @@
     },
     "wof:country":"KW",
     "wof:created":1459009366,
-    "wof:geomhash":"d186b716596ff79e7b3c227f6cc3874a",
+    "wof:geomhash":"f6d0179acd558407761eb0a1a8e80e08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "locality_id":421202465,
             "neighbourhood_id":421183355,
             "region_id":85673383
         }
     ],
     "wof:id":421183355,
-    "wof:lastmodified":1566591074,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028096,
     "wof:name":"Dasma-block 2",
-    "wof:parent_id":-1,
+    "wof:parent_id":421202465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729740835
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     47.993092,
-    29.3713335,
+    29.371333,
     47.993092,
-    29.3713335
+    29.371333
 ],
-  "geometry": {"coordinates":[47.993092,29.3713335],"type":"Point"}
+  "geometry": {"coordinates":[47.993092,29.371333],"type":"Point"}
 }

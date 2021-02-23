@@ -6,15 +6,15 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.1288285,29.1492935,48.1288285,29.1492935",
+    "geom:bbox":"48.128828,29.149293,48.128828,29.149293",
     "geom:latitude":29.149293,
     "geom:longitude":48.128828,
     "iso:country":"KW",
-    "lbl:bbox":"48.1088285,29.1292935,48.1488285,29.1692935",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -51,7 +51,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
-        85673391
+        85673391,
+        1729718859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,19 +61,26 @@
     },
     "wof:country":"KW",
     "wof:created":1459008703,
-    "wof:geomhash":"02eff3c76d8ee4531c993c04cc6eac99",
+    "wof:geomhash":"634a77d7eff466d4987561c5549a0e2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":1729718859,
             "locality_id":421166809,
             "region_id":85673391
         }
     ],
     "wof:id":421166809,
-    "wof:lastmodified":1566591061,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028288,
     "wof:name":"Hadiyah",
-    "wof:parent_id":85673391,
+    "wof:parent_id":1729718859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
@@ -80,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.1288285,
-    29.1492935,
-    48.1288285,
-    29.1492935
+    48.128828,
+    29.149293,
+    48.128828,
+    29.149293
 ],
-  "geometry": {"coordinates":[48.1288285,29.1492935],"type":"Point"}
+  "geometry": {"coordinates":[48.128828,29.149293],"type":"Point"}
 }

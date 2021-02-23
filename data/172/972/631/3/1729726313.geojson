@@ -1,0 +1,71 @@
+{
+  "id": 1729726313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000447,
+    "geom:area_square_m":4815943.53629,
+    "geom:bbox":"47.878033,29.310432,47.912833,29.335991",
+    "geom:latitude":29.323367,
+    "geom:longitude":47.895192,
+    "iso:country":"KW",
+    "lbl:latitude":29.323652,
+    "lbl:longitude":47.895456,
+    "mps:latitude":29.323652,
+    "mps:longitude":47.895456,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0648\u064a\u062e \u0627\u0644\u0637\u0628\u064a\u0629\n"
+    ],
+    "name:eng_x_preferred":[
+        "Shuwaikh Medical Area"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        421202465,
+        421201553,
+        85673383
+    ],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094327,
+    "wof:geomhash":"2c9a9171a92b8b8abbc58b715ba58a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421201553,
+            "locality_id":421202465,
+            "neighbourhood_id":1729726313,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":1729726313,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028358,
+    "wof:name":"Shuwaikh Medical Area",
+    "wof:parent_id":421202465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.878033,
+    29.310432,
+    47.912833,
+    29.335991
+],
+  "geometry": {"coordinates":[[[47.902737,29.335991],[47.905746,29.330726],[47.908504,29.331977],[47.912833,29.323429],[47.901916,29.318185],[47.889836,29.31261],[47.885168,29.310432],[47.878867,29.32412],[47.878033,29.325787],[47.880024,29.327031],[47.882015,29.327405],[47.88438,29.327716],[47.88575,29.326221],[47.886931,29.325911],[47.888922,29.326845],[47.890788,29.329022],[47.899139,29.334528],[47.902737,29.335991]]],"type":"Polygon"}
+}

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.0757,29.2043,48.0757,29.2043",
-    "geom:latitude":29.2043,
-    "geom:longitude":48.0757,
+    "geom:area":0.000389,
+    "geom:area_square_m":4201100.192087,
+    "geom:bbox":"48.059859,29.19204,48.093073,29.209505",
+    "geom:latitude":29.202317,
+    "geom:longitude":48.076209,
     "gn:admin1_code":"9.0",
     "gn:asciiname":"Al Qurayn",
     "gn:country_code":"KW",
@@ -24,35 +24,60 @@
     "gn:timezone":"Asia/Kuwait",
     "iso:country":"KW",
     "lbl:bbox":"48.0557,29.1843,48.0957,29.2243",
+    "lbl:latitude":29.202923,
+    "lbl:longitude":48.075893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.202923,
+    "mps:longitude":48.075893,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Qurain"
+    ],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
-        85673391
+        85673395,
+        421193461
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7329410
     },
     "wof:country":"KW",
-    "wof:geomhash":"8c3b11839480dc4558f66987190f4173",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6949e71ecb50c51223d76857e11905e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":421193461,
             "locality_id":1209799911,
-            "region_id":85673391
+            "region_id":85673395
         }
     ],
     "wof:id":1209799911,
-    "wof:lastmodified":1566591060,
-    "wof:name":"Al Qurayn",
-    "wof:parent_id":85673391,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028295,
+    "wof:name":"Al-Qurain",
+    "wof:parent_id":421193461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
@@ -60,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.0757,
-    29.2043,
-    48.0757,
-    29.2043
+    48.059859,
+    29.19204,
+    48.093073,
+    29.209505
 ],
-  "geometry": {"coordinates":[48.0757,29.2043],"type":"Point"}
+  "geometry": {"coordinates":[[[48.091843,29.195972],[48.087606,29.198022],[48.085213,29.198569],[48.081864,29.198159],[48.073526,29.195904],[48.067579,29.193443],[48.064003,29.19204],[48.059859,29.206172],[48.071065,29.208958],[48.075234,29.209232],[48.077763,29.209505],[48.081044,29.209232],[48.085828,29.208753],[48.088562,29.20889],[48.090886,29.209095],[48.09198,29.205951],[48.093073,29.202943],[48.093073,29.199799],[48.091843,29.195972]]],"type":"Polygon"}
 }

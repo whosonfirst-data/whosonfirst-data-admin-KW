@@ -3,17 +3,17 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.1235715,29.127815,48.1235715,29.127815",
+    "geom:bbox":"48.123571,29.127815,48.123571,29.127815",
     "geom:latitude":29.127815,
     "geom:longitude":48.123571,
     "iso:country":"KW",
-    "lbl:bbox":"48.1185715,29.122815,48.1285715,29.132815",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
@@ -38,6 +38,8 @@
     "wof:belongsto":[
         102191569,
         85632401,
+        421190377,
+        1729718859,
         85673391
     ],
     "wof:breaches":[],
@@ -47,31 +49,40 @@
     },
     "wof:country":"KW",
     "wof:created":1459008837,
-    "wof:geomhash":"d9adc6cb8261fe8fde35279291582448",
+    "wof:geomhash":"acd67a5d16264ec1861e6f074d8c86e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":1729718859,
+            "locality_id":421190377,
             "neighbourhood_id":421170117,
             "region_id":85673391
         }
     ],
     "wof:id":421170117,
-    "wof:lastmodified":1566591073,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028148,
     "wof:name":"Abu Halifa-block 2",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190377,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729740833
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    48.1235715,
+    48.123571,
     29.127815,
-    48.1235715,
+    48.123571,
     29.127815
 ],
-  "geometry": {"coordinates":[48.1235715,29.127815],"type":"Point"}
+  "geometry": {"coordinates":[48.123571,29.127815],"type":"Point"}
 }

@@ -4,26 +4,36 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.065959,29.282655,48.065959,29.282655",
-    "geom:latitude":29.282655,
-    "geom:longitude":48.065959,
+    "geom:area":0.001091,
+    "geom:area_square_m":11767706.51455,
+    "geom:bbox":"48.042752,29.23892,48.097196,29.270702",
+    "geom:latitude":29.254827,
+    "geom:longitude":48.06934,
     "iso:country":"KW",
     "lbl:bbox":"48.045959,29.262655,48.085959,29.302655",
+    "lbl:latitude":29.253899,
+    "lbl:longitude":48.06934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.253899,
+    "mps:longitude":48.06934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
+        "\u0635\u0628\u0627\u062d \u0627\u0644\u0633\u0627\u0644\u0645"
+    ],
+    "name:ara_x_variant":[
         "\u0636\u0627\u062d\u064a\u0629 \u0635\u0628\u0627\u062d \u0627\u0644\u0633\u0627\u0644\u0645"
     ],
     "name:ceb_x_preferred":[
         "\u015eab\u0101\u1e29 as S\u0101lim"
     ],
     "name:eng_x_preferred":[
+        "Sabah as Salim"
+    ],
+    "name:eng_x_variant":[
         "Sabah Al-Salem"
     ],
     "name:fas_x_preferred":[
@@ -62,12 +72,17 @@
     "qs:qs_id":1109770,
     "qs:woe_adm0":23424870,
     "qs:woe_id":22724743,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         102191569,
         85632401,
-        85673395
+        85673395,
+        421193461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,30 +92,42 @@
     },
     "wof:country":"KW",
     "wof:created":1459009602,
-    "wof:geomhash":"46dc78ef61e922b93c93fc40f93d3a52",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"c4aeefd829618c5618925484cb1d88b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":421193461,
             "locality_id":421189037,
             "region_id":85673395
         }
     ],
     "wof:id":421189037,
-    "wof:lastmodified":1566591066,
-    "wof:name":"Sabah As Salem",
-    "wof:parent_id":85673395,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028323,
+    "wof:name":"Sabah as Salim",
+    "wof:parent_id":421193461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890433339
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    48.065959,
-    29.282655,
-    48.065959,
-    29.282655
+    48.042752,
+    29.23892,
+    48.097196,
+    29.270702
 ],
-  "geometry": {"coordinates":[48.065959,29.282655],"type":"Point"}
+  "geometry": {"coordinates":[[[48.097196,29.250434],[48.090066,29.248601],[48.083094,29.246003],[48.077216,29.243816],[48.070928,29.242723],[48.061086,29.241356],[48.050258,29.23892],[48.042752,29.264523],[48.059885,29.264523],[48.068945,29.265219],[48.079863,29.26731],[48.085671,29.268704],[48.087529,29.270098],[48.091221,29.270702],[48.091221,29.265862],[48.092056,29.264166],[48.092918,29.263334],[48.09375,29.2575],[48.097057,29.250889],[48.097196,29.250434]]],"type":"Polygon"}
 }

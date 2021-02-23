@@ -4,16 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.00167,29.36514,48.00167,29.36514",
-    "geom:latitude":29.36514,
-    "geom:longitude":48.00167,
+    "geom:area":0.000162,
+    "geom:area_square_m":1741542.02258,
+    "geom:bbox":"47.992284,29.357009,48.010868,29.37389",
+    "geom:latitude":29.365243,
+    "geom:longitude":48.001343,
     "iso:country":"KW",
     "lbl:bbox":"47.99667,29.36014,48.00667,29.37014",
+    "lbl:latitude":29.365167,
+    "lbl:longitude":48.001484,
     "lbl:max_zoom":18.0,
+    "mps:latitude":29.365167,
+    "mps:longitude":48.001484,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
@@ -34,10 +38,16 @@
     "qs:qs_id":990011,
     "qs:woe_adm0":23424870,
     "qs:woe_id":22724735,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
+        421202465,
+        421201553,
         85673383
     ],
     "wof:breaches":[],
@@ -47,31 +57,43 @@
     },
     "wof:country":"KW",
     "wof:created":1459009403,
-    "wof:geomhash":"622743c0883ef982032f62d4188d01d5",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"017e4a38a07963980f9ffc1c1008430b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
-            "locality_id":-1,
+            "county_id":421201553,
+            "locality_id":421202465,
             "neighbourhood_id":421184191,
             "region_id":85673383
         }
     ],
     "wof:id":421184191,
-    "wof:lastmodified":1566591072,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028381,
     "wof:name":"Dasma",
-    "wof:parent_id":-1,
+    "wof:parent_id":421202465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        421184309
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    48.00167,
-    29.36514,
-    48.00167,
-    29.36514
+    47.992284,
+    29.357009,
+    48.010868,
+    29.37389
 ],
-  "geometry": {"coordinates":[48.00167,29.36514],"type":"Point"}
+  "geometry": {"coordinates":[[[47.996753,29.37389],[48.002389,29.370687],[48.010868,29.365808],[48.008894,29.362556],[48.005641,29.358955],[48.003272,29.357009],[47.992284,29.364879],[47.995187,29.369293],[47.996753,29.37389]]],"type":"Polygon"}
 }

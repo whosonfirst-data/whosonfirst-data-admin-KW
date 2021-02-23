@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.1375,29.04111,48.1375,29.04111",
-    "geom:latitude":29.04111,
-    "geom:longitude":48.1375,
+    "geom:area":0.002885,
+    "geom:area_square_m":31188618.550911,
+    "geom:bbox":"48.108725,28.987342,48.168664,29.076729",
+    "geom:latitude":29.034528,
+    "geom:longitude":48.139681,
     "gn:admin1_code":"4.0",
     "gn:asciiname":"Ash Shu`aybah",
     "gn:country_code":"KW",
@@ -24,10 +24,14 @@
     "gn:timezone":"Asia/Kuwait",
     "iso:country":"KW",
     "lbl:bbox":"48.1175,29.02111,48.1575,29.06111",
+    "lbl:latitude":29.034544,
+    "lbl:longitude":48.139227,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.034544,
+    "mps:longitude":48.139227,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u064e\u0644\u0634\u064f\u0651\u0639\u064e\u064a\u0652\u0628\u064e\u0629"
@@ -46,30 +50,45 @@
         "Shi\u2019aibah",
         "Ash Shu\u2018aybah"
     ],
-    "src:geom":"geonames",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
-        85673391
+        85673391,
+        1729718859
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":285716
     },
     "wof:country":"KW",
-    "wof:geomhash":"4fc98b6cb0191ced43fbd0bb0c5795f6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"004daedf7beda7b755d83417b8ca0dce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":1729718859,
             "locality_id":1209716155,
             "region_id":85673391
         }
     ],
     "wof:id":1209716155,
-    "wof:lastmodified":1566591060,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028145,
     "wof:name":"Ash Shu`aybah",
-    "wof:parent_id":85673391,
+    "wof:parent_id":1729718859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
@@ -77,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.1375,
-    29.04111,
-    48.1375,
-    29.04111
+    48.108725,
+    28.987342,
+    48.168664,
+    29.076729
 ],
-  "geometry": {"coordinates":[48.1375,29.04111],"type":"Point"}
+  "geometry": {"coordinates":[[[48.111323,29.071645],[48.126086,29.070004],[48.137159,29.072055],[48.143561,29.076729],[48.14539,29.074139],[48.146667,29.072889],[48.149555,29.0725],[48.150391,29.070807],[48.150417,29.064167],[48.152084,29.060806],[48.152889,29.060028],[48.152863,29.055805],[48.152084,29.054167],[48.152943,29.053333],[48.152916,29.047501],[48.15453,29.045],[48.154583,29.043278],[48.153751,29.042528],[48.15789,29.039167],[48.157944,29.037527],[48.158749,29.036667],[48.15789,29.032473],[48.158749,29.031639],[48.158749,29.025],[48.159611,29.024139],[48.159611,29.01664],[48.161278,29.013306],[48.161251,29.011639],[48.165417,29],[48.165359,28.998194],[48.167889,28.994055],[48.168664,28.987342],[48.149051,28.988054],[48.143173,28.996119],[48.134835,29.006371],[48.129914,29.015393],[48.11351,29.047654],[48.109272,29.056266],[48.108725,29.059273],[48.110229,29.067612],[48.111323,29.071645]]],"type":"Polygon"}
 }

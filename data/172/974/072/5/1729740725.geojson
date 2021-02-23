@@ -1,0 +1,106 @@
+{
+  "id": 1729740725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.142206,29.079933,48.142206,29.079933",
+    "geom:latitude":29.079933,
+    "geom:longitude":48.142206,
+    "gn:id":"",
+    "iso:country":"KW",
+    "lbl:latitude":29.079933,
+    "lbl:longitude":48.142206,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":29.075692,
+    "mps:longitude":48.14377,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Fahaheel-block 12"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":452,
+    "qs:local_sum":567,
+    "qs:localhoods":2,
+    "qs:name":"Fahaheel-block 12",
+    "qs:name_adm0":"\u0627\u0644\u0643\u0648\u064a\u062a",
+    "qs:name_adm1":"\u0627\u0644\u0623\u062d\u0645\u062f\u0649",
+    "qs:name_adm2":"\u0627\u0644\u0623\u062d\u0645\u062f\u0649",
+    "qs:name_local":"Al Ifhaihil",
+    "qs:photo_max":198,
+    "qs:photo_sum":452,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424870,
+    "qs:woe_adm1":20070166,
+    "qs:woe_adm2":55943081,
+    "qs:woe_lau":0,
+    "qs:woe_local":1940542,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55943599,
+        "qs_pg:id":1090211
+    },
+    "wof:country":"KW",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"0f68227441fdb3b060701ef0736c3be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":-1,
+            "microhood_id":1729740725,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1729740725,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028217,
+    "wof:name":"Fahaheel-block 12",
+    "wof:parent_id":-1,
+    "wof:placetype":"microhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85932593
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.142206,
+    29.079933,
+    48.142206,
+    29.079933
+],
+  "geometry": {"coordinates":[48.142206,29.079933],"type":"Point"}
+}

@@ -4,15 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.039093,29.303529,48.039093,29.303529",
-    "geom:latitude":29.303529,
-    "geom:longitude":48.039093,
+    "geom:area":0.000948,
+    "geom:area_square_m":10228126.950906,
+    "geom:bbox":"48.022713,29.280087,48.069431,29.314236",
+    "geom:latitude":29.297342,
+    "geom:longitude":48.045092,
     "iso:country":"KW",
     "lbl:bbox":"48.019093,29.283529,48.059093,29.323529",
+    "lbl:latitude":29.297142,
+    "lbl:longitude":48.045092,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.297142,
+    "mps:longitude":48.045092,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -47,11 +51,16 @@
     "qs:qs_id":31167,
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940594,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401,
-        85673405
+        85673405,
+        1729718867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,30 +70,42 @@
     },
     "wof:country":"KW",
     "wof:created":1459010126,
-    "wof:geomhash":"0191588c67673ebc3c570d0aefdc56c0",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"1dba99a1bc7800d7d70c7a115524295c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":1729718867,
             "locality_id":421202689,
             "region_id":85673405
         }
     ],
     "wof:id":421202689,
-    "wof:lastmodified":1566591064,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028308,
     "wof:name":"Bayan",
-    "wof:parent_id":85673405,
+    "wof:parent_id":1729718867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890433307
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    48.039093,
-    29.303529,
-    48.039093,
-    29.303529
+    48.022713,
+    29.280087,
+    48.069431,
+    29.314236
 ],
-  "geometry": {"coordinates":[48.039093,29.303529],"type":"Point"}
+  "geometry": {"coordinates":[[[48.069431,29.293447],[48.065883,29.291199],[48.062204,29.28837],[48.055978,29.285823],[48.051592,29.284832],[48.04381,29.283276],[48.03497,29.280087],[48.027188,29.295419],[48.024052,29.302969],[48.022774,29.306222],[48.022713,29.307598],[48.040139,29.309822],[48.047573,29.311216],[48.052916,29.314236],[48.069431,29.293447]]],"type":"Polygon"}
 }

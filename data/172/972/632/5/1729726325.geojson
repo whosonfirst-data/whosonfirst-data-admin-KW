@@ -1,0 +1,71 @@
+{
+  "id": 1729726325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00046,
+    "geom:area_square_m":4963774.869117,
+    "geom:bbox":"47.864828,29.295764,47.905229,29.310432",
+    "geom:latitude":29.303003,
+    "geom:longitude":47.88289,
+    "iso:country":"KW",
+    "lbl:latitude":29.303209,
+    "lbl:longitude":47.88289,
+    "mps:latitude":29.303209,
+    "mps:longitude":47.88289,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0646\u062f\u0644\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Andalous"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        421202465,
+        421201553,
+        85673383
+    ],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094332,
+    "wof:geomhash":"10beff51209e1181fb55d9fb628e48b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421201553,
+            "locality_id":421202465,
+            "neighbourhood_id":1729726325,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":1729726325,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028358,
+    "wof:name":"Andalous",
+    "wof:parent_id":421202465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.864828,
+    29.295764,
+    47.905229,
+    29.310432
+],
+  "geometry": {"coordinates":[[[47.905229,29.29864],[47.864828,29.295764],[47.865212,29.310287],[47.878918,29.30959],[47.882867,29.309358],[47.885168,29.310432],[47.887746,29.309358],[47.891927,29.307732],[47.895412,29.30657],[47.900755,29.30657],[47.904472,29.307499],[47.905229,29.29864]]],"type":"Polygon"}
+}

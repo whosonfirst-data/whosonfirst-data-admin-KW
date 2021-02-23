@@ -4,17 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"48.27472,29.4425,48.27472,29.4425",
-    "geom:latitude":29.4425,
-    "geom:longitude":48.27472,
+    "geom:area":0.000262,
+    "geom:area_square_m":2822851.041775,
+    "geom:bbox":"48.266792,29.427528,48.285354,29.450653",
+    "geom:latitude":29.438269,
+    "geom:longitude":48.276149,
     "iso:country":"KW",
     "lbl:bbox":"48.25472,29.4225,48.29472,29.4625",
+    "lbl:latitude":29.43815,
+    "lbl:longitude":48.277077,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
+    "mps:latitude":29.43815,
+    "mps:longitude":48.277077,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -41,12 +45,17 @@
     "qs:qs_id":911275,
     "qs:woe_adm0":23424870,
     "qs:woe_id":1940628,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191569,
         85632401,
-        85673383
+        85673383,
+        421201553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,19 +65,29 @@
     },
     "wof:country":"KW",
     "wof:created":1459009050,
-    "wof:geomhash":"ee12f1bb10198b725a1d49d3f43dc185",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"31253015c66b1692db29c66f9323fe27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":421201553,
             "locality_id":421174963,
             "region_id":85673383
         }
     ],
     "wof:id":421174963,
-    "wof:lastmodified":1566591065,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028356,
     "wof:name":"Az Zawr",
-    "wof:parent_id":85673383,
+    "wof:parent_id":421201553,
     "wof:placetype":"locality",
     "wof:population":5750,
     "wof:population_rank":5,
@@ -78,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.27472,
-    29.4425,
-    48.27472,
-    29.4425
+    48.266792,
+    29.427528,
+    48.285354,
+    29.450653
 ],
-  "geometry": {"coordinates":[48.27472,29.4425],"type":"Point"}
+  "geometry": {"coordinates":[[[48.275364,29.450653],[48.280667,29.449666],[48.280914,29.448063],[48.279927,29.444794],[48.281345,29.444301],[48.284367,29.444301],[48.285354,29.444116],[48.283164,29.435513],[48.279927,29.431567],[48.280019,29.429069],[48.276782,29.42799],[48.273575,29.427528],[48.269906,29.427898],[48.267563,29.42873],[48.266792,29.430087],[48.267347,29.431413],[48.268087,29.432523],[48.26858,29.433941],[48.269844,29.436192],[48.270893,29.439583],[48.272126,29.442451],[48.272249,29.443962],[48.270985,29.445318],[48.272373,29.449173],[48.27487,29.449573],[48.275364,29.450653]]],"type":"Polygon"}
 }

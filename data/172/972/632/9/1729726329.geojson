@@ -1,0 +1,71 @@
+{
+  "id": 1729726329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000496,
+    "geom:area_square_m":5349437.655968,
+    "geom:bbox":"47.902439,29.323429,47.938625,29.352685",
+    "geom:latitude":29.338275,
+    "geom:longitude":47.918531,
+    "iso:country":"KW",
+    "lbl:latitude":29.335871,
+    "lbl:longitude":47.917299,
+    "mps:latitude":29.335871,
+    "mps:longitude":47.917299,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u064a\u062e \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Shuwaikh Educational Area"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        421202465,
+        421201553,
+        85673383
+    ],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094334,
+    "wof:geomhash":"83a830f1f1e17a4e555f16897930957d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421201553,
+            "locality_id":421202465,
+            "neighbourhood_id":1729726329,
+            "region_id":85673383
+        }
+    ],
+    "wof:id":1729726329,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028357,
+    "wof:name":"Shuwaikh Educational Area",
+    "wof:parent_id":421202465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.902439,
+    29.323429,
+    47.938625,
+    29.352685
+],
+  "geometry": {"coordinates":[[[47.938625,29.347747],[47.925182,29.339869],[47.930613,29.331969],[47.912833,29.323429],[47.908504,29.331977],[47.905746,29.330726],[47.902737,29.335991],[47.90261,29.336411],[47.902439,29.336846],[47.902672,29.337126],[47.903123,29.33736],[47.904788,29.338013],[47.905239,29.33834],[47.905348,29.338666],[47.905037,29.33918],[47.904959,29.339382],[47.905192,29.340144],[47.905721,29.34044],[47.906296,29.340968],[47.907029,29.342144],[47.906708,29.350033],[47.914662,29.345607],[47.914725,29.346239],[47.917548,29.344356],[47.922808,29.347435],[47.92287,29.347459],[47.924796,29.346762],[47.929111,29.349501],[47.933082,29.351592],[47.934744,29.352685],[47.938625,29.347747]]],"type":"Polygon"}
+}

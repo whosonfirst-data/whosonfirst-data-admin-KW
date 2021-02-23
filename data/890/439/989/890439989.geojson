@@ -4,18 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"47.65806,29.3375,47.65806,29.3375",
-    "geom:latitude":29.3375,
-    "geom:longitude":47.65806,
+    "geom:area":0.005031,
+    "geom:area_square_m":54244873.419424,
+    "geom:bbox":"47.6473,29.283732,47.786049,29.360967",
+    "geom:latitude":29.319881,
+    "geom:longitude":47.712475,
     "gn:country":"KW",
     "gn:fcode":"PPL",
     "gn:population":24281,
     "iso:country":"KW",
     "lbl:bbox":"47.63806,29.3175,47.67806,29.3575",
+    "lbl:latitude":29.319908,
+    "lbl:longitude":47.712475,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
+    "mps:latitude":29.319908,
+    "mps:longitude":47.712475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -164,11 +168,17 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"9",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
         85632401,
-        85673399
+        85673399,
+        421170031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -178,32 +188,44 @@
     },
     "wof:country":"KW",
     "wof:created":1469052258,
-    "wof:geomhash":"cd2491f629b080eecfc825f190ed532e",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"78d30cce75269274d1c533af948a604e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632401,
+            "county_id":421170031,
             "locality_id":890439989,
             "region_id":85673399
         }
     ],
     "wof:id":890439989,
-    "wof:lastmodified":1566591075,
-    "wof:name":"Al Jahr\u0101\u2019",
-    "wof:parent_id":85673399,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028399,
+    "wof:name":"Al Jahra",
+    "wof:parent_id":421170031,
     "wof:placetype":"locality",
     "wof:population":24281,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141906441
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    47.65806,
-    29.3375,
-    47.65806,
-    29.3375
+    47.6473,
+    29.283732,
+    47.786049,
+    29.360967
 ],
-  "geometry": {"coordinates":[47.65806,29.3375],"type":"Point"}
+  "geometry": {"coordinates":[[[47.785229,29.311482],[47.785092,29.295762],[47.786049,29.290294],[47.786049,29.287833],[47.784955,29.283732],[47.780163,29.285284],[47.772999,29.287344],[47.764761,29.289583],[47.758134,29.291105],[47.748374,29.293343],[47.734924,29.295898],[47.718246,29.298222],[47.700612,29.299726],[47.684482,29.301503],[47.676553,29.303007],[47.679561,29.312029],[47.659033,29.319268],[47.653588,29.321188],[47.650307,29.322555],[47.647984,29.324468],[47.6473,29.327202],[47.6473,29.329253],[47.649487,29.337097],[47.651264,29.343469],[47.652905,29.34675],[47.654408,29.348937],[47.655912,29.349758],[47.657962,29.349894],[47.66015,29.348664],[47.672589,29.360967],[47.67505,29.358916],[47.681338,29.355089],[47.686939,29.352577],[47.711822,29.341419],[47.713295,29.340701],[47.750917,29.323511],[47.776617,29.311892],[47.785229,29.311482]]],"type":"Polygon"}
 }

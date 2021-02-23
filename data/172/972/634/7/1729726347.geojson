@@ -1,0 +1,71 @@
+{
+  "id": 1729726347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000409,
+    "geom:area_square_m":4409734.760869,
+    "geom:bbox":"47.663128,29.314079,47.701159,29.33684",
+    "geom:latitude":29.326692,
+    "geom:longitude":47.682,
+    "iso:country":"KW",
+    "lbl:latitude":29.326323,
+    "lbl:longitude":47.686466,
+    "mps:latitude":29.326323,
+    "mps:longitude":47.686466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0645\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Taima"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632401,
+        890439989,
+        421170031,
+        85673399
+    ],
+    "wof:breaches":[],
+    "wof:country":"KW",
+    "wof:created":1611094341,
+    "wof:geomhash":"2d53e2ba9ea089dabc78b048b2a2ed53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632401,
+            "county_id":421170031,
+            "locality_id":890439989,
+            "neighbourhood_id":1729726347,
+            "region_id":85673399
+        }
+    ],
+    "wof:id":1729726347,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1614028389,
+    "wof:name":"Taima",
+    "wof:parent_id":890439989,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.663128,
+    29.314079,
+    47.701159,
+    29.33684
+],
+  "geometry": {"coordinates":[[[47.679834,29.314079],[47.679561,29.314899],[47.678672,29.315446],[47.677715,29.315856],[47.680244,29.3244],[47.663128,29.328597],[47.664387,29.331713],[47.666301,29.335814],[47.669582,29.335336],[47.672042,29.335404],[47.675255,29.33684],[47.67628,29.335746],[47.677442,29.335199],[47.680039,29.334857],[47.682021,29.334789],[47.684687,29.334242],[47.687011,29.333354],[47.689061,29.33226],[47.69241,29.330073],[47.696648,29.327407],[47.698562,29.326382],[47.701159,29.325835],[47.701159,29.324468],[47.693367,29.320504],[47.691864,29.321461],[47.689403,29.31777],[47.686669,29.31572],[47.683115,29.314079],[47.679834,29.314079]]],"type":"Polygon"}
+}
