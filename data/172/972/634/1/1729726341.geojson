@@ -25,11 +25,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85673399,
         102191569,
         85632401,
         890439989,
-        421170031,
-        85673399
+        421170031
     ],
     "wof:breaches":[],
     "wof:country":"KW",
@@ -52,7 +52,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614028389,
+    "wof:lastmodified":1618265338,
     "wof:name":"Amgarah Industrial",
     "wof:parent_id":890439989,
     "wof:placetype":"neighbourhood",

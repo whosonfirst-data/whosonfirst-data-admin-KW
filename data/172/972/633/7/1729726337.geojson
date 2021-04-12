@@ -25,11 +25,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85673383,
         102191569,
         85632401,
         421202465,
-        421201553,
-        85673383
+        421201553
     ],
     "wof:breaches":[],
     "wof:country":"KW",
@@ -52,7 +52,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614028361,
+    "wof:lastmodified":1618265338,
     "wof:name":"South Doha",
     "wof:parent_id":421202465,
     "wof:placetype":"neighbourhood",
