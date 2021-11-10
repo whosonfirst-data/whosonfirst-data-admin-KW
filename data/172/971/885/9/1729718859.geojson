@@ -94,6 +94,9 @@
         "\u0905\u0932 \u0905\u0939\u092e\u0926\u0940 \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
     ],
     "name:hun_x_preferred":[
+        "Al Ahmadi"
+    ],
+    "name:hun_x_variant":[
         "Ahmadi korm\u00e1nyz\u00f3s\u00e1g"
     ],
     "name:hye_x_preferred":[
@@ -226,7 +229,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614028149,
+    "wof:lastmodified":1636497448,
     "wof:name":"Al Ahmadi",
     "wof:parent_id":85673391,
     "wof:placetype":"county",

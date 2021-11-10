@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Al Farwaniyah"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05e4\u05d0\u05e8\u05d5\u05d5\u05d0\u05e0\u05d9\u05d4"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -92,7 +95,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627522308,
+    "wof:lastmodified":1636497449,
     "wof:name":"Al Farwaniyah",
     "wof:parent_id":85673389,
     "wof:placetype":"county",

@@ -176,6 +176,9 @@
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u062d\u0648\u0644\u06cc"
     ],
     "name:vie_x_preferred":[
+        "Hawalli"
+    ],
+    "name:vie_x_variant":[
         "T\u1ec9nh Hawalli"
     ],
     "name:zho_x_preferred":[
@@ -306,7 +309,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614028109,
+    "wof:lastmodified":1636497447,
     "wof:name":"Hawalli",
     "wof:parent_id":85632401,
     "wof:placetype":"region",

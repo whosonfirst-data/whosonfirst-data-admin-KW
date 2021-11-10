@@ -378,6 +378,9 @@
         "El' Kuveit"
     ],
     "name:vie_x_preferred":[
+        "Al Asimah"
+    ],
+    "name:vie_x_variant":[
         "Th\u00e0nh ph\u1ed1 Kuwait"
     ],
     "name:vol_x_preferred":[
@@ -452,7 +455,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614028368,
+    "wof:lastmodified":1636497449,
     "wof:name":"Al Asimah",
     "wof:parent_id":85673383,
     "wof:placetype":"county",

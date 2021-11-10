@@ -20,7 +20,37 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064a\u062f\u0627\u0621"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u09ac\u09be\u0987\u09a6\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039c\u03c0\u03ac\u03b9\u03bd\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u092c\u093e\u092f\u0926\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:ind_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c \ubc14\uc774\ub2e4"
+    ],
+    "name:spa_x_preferred":[
+        "Al Baida"
+    ],
+    "name:tur_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:vie_x_preferred":[
         "Al Bayda"
     ],
     "qs:gn_country":null,
@@ -72,7 +102,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614028384,
+    "wof:lastmodified":1636497449,
     "wof:name":"Al Bayda",
     "wof:parent_id":1729718867,
     "wof:placetype":"locality",
