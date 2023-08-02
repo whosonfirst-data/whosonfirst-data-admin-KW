@@ -42,7 +42,13 @@
     "name:mzn_x_preferred":[
         "\u062c\u0644\u06cc\u0628 \u0627\u0644\u0634\u06cc\u0648\u062e"
     ],
+    "name:nld_x_preferred":[
+        "Jleeb Al-Shuyoukh"
+    ],
     "name:nno_x_preferred":[
+        "Jleeb Al-Shuyoukh"
+    ],
+    "name:nob_x_preferred":[
         "Jleeb Al-Shuyoukh"
     ],
     "name:pol_x_preferred":[
@@ -114,7 +120,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614028339,
+    "wof:lastmodified":1690938378,
     "wof:name":"Jleeb Al-Shuyoukh",
     "wof:parent_id":421204583,
     "wof:placetype":"locality",

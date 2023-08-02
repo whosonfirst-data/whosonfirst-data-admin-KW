@@ -23,8 +23,14 @@
     "name:ara_x_variant":[
         "\u062d\u0648\u0644\u064a"
     ],
+    "name:cat_x_preferred":[
+        "Hawalli"
+    ],
     "name:ceb_x_preferred":[
         "\u1e28awall\u012b"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bf\u03c5\u03b1\u03bb\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
         "Hawalli"
@@ -34,6 +40,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062d\u0648\u0644\u06cc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d5\u05d0\u05dc\u05d9"
     ],
     "name:ind_x_preferred":[
         "Hawalli"
@@ -52,6 +61,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u062d\u0648\u0644\u06cc"
+    ],
+    "name:nno_x_preferred":[
+        "Hawalli"
+    ],
+    "name:nob_x_preferred":[
+        "Hawalli"
     ],
     "name:pol_x_preferred":[
         "Hawalli"
@@ -232,7 +247,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614028379,
+    "wof:lastmodified":1690938379,
     "wof:name":"East Hawalli",
     "wof:parent_id":1729718867,
     "wof:placetype":"locality",
