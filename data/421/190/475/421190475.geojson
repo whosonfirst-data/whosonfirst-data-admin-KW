@@ -27,8 +27,14 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0633\u0627\u0644\u0645\u064a\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Salmiya"
+    ],
     "name:ceb_x_preferred":[
         "As S\u0101lim\u012byah"
+    ],
+    "name:deu_x_preferred":[
+        "Salmiya"
     ],
     "name:eng_x_preferred":[
         "Abu Fateira"
@@ -41,6 +47,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0633\u0627\u0644\u0645\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Salmiya"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30eb\u30df\u30a2"
@@ -57,6 +66,9 @@
     "name:mzn_x_preferred":[
         "\u0627\u0644\u0633\u0627\u0644\u0645\u06cc\u0647"
     ],
+    "name:nob_x_preferred":[
+        "Salmiya"
+    ],
     "name:pol_x_preferred":[
         "As-Salimija"
     ],
@@ -65,6 +77,9 @@
     ],
     "name:swe_x_preferred":[
         "As S\u0101lim\u012byah"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u043c\u0456\u044f"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0644\u0645\u06cc\u06c1"
@@ -127,7 +142,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614028348,
+    "wof:lastmodified":1690938378,
     "wof:name":"Abu Fateira",
     "wof:parent_id":1729718867,
     "wof:placetype":"locality",

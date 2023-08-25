@@ -30,6 +30,9 @@
     "name:fas_x_preferred":[
         "\u062c\u0627\u0628\u0631\u06cc\u0647"
     ],
+    "name:fra_x_preferred":[
+        "Jabriya"
+    ],
     "name:lit_x_preferred":[
         "D\u017eabrija"
     ],
@@ -100,7 +103,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614028324,
+    "wof:lastmodified":1690938377,
     "wof:name":"Jabriya",
     "wof:parent_id":1729718867,
     "wof:placetype":"locality",

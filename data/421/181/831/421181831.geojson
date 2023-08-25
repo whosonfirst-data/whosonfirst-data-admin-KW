@@ -38,6 +38,12 @@
     "name:hin_x_preferred":[
         "\u0938\u0930\u094d\u0930\u093e \u0930\u094b\u0917"
     ],
+    "name:ind_x_preferred":[
+        "Penyakit surra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30fc\u30e9\u75c5"
+    ],
     "name:pol_x_preferred":[
         "Surra"
     ],
@@ -69,11 +75,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1148,
     "wof:belongsto":[
+        85673383,
         102191569,
         85632401,
         421202465,
-        421201553,
-        85673383
+        421201553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +110,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614028364,
+    "wof:lastmodified":1690938377,
     "wof:name":"Surra",
     "wof:parent_id":421202465,
     "wof:placetype":"neighbourhood",

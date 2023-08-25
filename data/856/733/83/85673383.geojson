@@ -56,11 +56,20 @@
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u0986\u09b8\u09bf\u09ae\u09be\u09b9"
     ],
+    "name:ben_x_variant":[
+        "\u09b0\u09be\u099c\u09a7\u09be\u09a8\u09c0 \u0997\u09ad\u09b0\u09cd\u09a8\u09b0\u09c7\u099f"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043b-\u0410\u0441\u0438\u043c\u0430"
     ],
     "name:ceb_x_preferred":[
         "Al Asimah Governorate"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0639\u0627\u0633\u06cc\u0645\u06d5"
+    ],
+    "name:deu_x_preferred":[
+        "Gouvernement al-Asima"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u03a0\u03c1\u03c9\u03c4\u03b5\u03cd\u03bf\u03c5\u03c3\u03b1\u03c2"
@@ -70,7 +79,6 @@
     ],
     "name:eng_x_variant":[
         "Kuwait City",
-        "Al Asimah",
         "Al `Asimah",
         "Al Kuwayt",
         "Al Asimah Governorate",
@@ -153,6 +161,9 @@
     ],
     "name:swe_x_preferred":[
         "Al Asimahguvernementet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bb2\u0bc8\u0ba8\u0b95\u0bb0 \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0b95\u0bae\u0bcd"
     ],
     "name:tur_x_preferred":[
         "El Asime Valili\u011fi"
@@ -298,7 +309,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636497448,
+    "wof:lastmodified":1690938375,
     "wof:name":"Al Asimah",
     "wof:parent_id":85632401,
     "wof:placetype":"region",
