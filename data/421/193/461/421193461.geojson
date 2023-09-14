@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009509,
-    "geom:area_square_m":102613482.045006,
+    "geom:area_square_m":102613482.045004,
     "geom:bbox":"47.987895,29.172382,48.119712,29.270702",
     "geom:latitude":29.221164,
     "geom:longitude":48.051522,
     "iso:country":"KW",
+    "label:eng_x_preferred_longname":[
+        "Mubarak Al-Kabeer Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":29.218717,
     "lbl:longitude":48.052774,
     "lbl:max_zoom":10.0,
@@ -76,7 +82,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01f9e327f4294b48de33fa54f22d1e44",
+    "wof:geomhash":"778341cf25e6c14cd23f862c56bfcb42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +98,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636497449,
+    "wof:lastmodified":1694498103,
     "wof:name":"Mubarak Al-Kabeer",
     "wof:parent_id":85673395,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.61044,
-    "geom:area_square_m":17386975666.303757,
+    "geom:area_square_m":17356363939.504524,
     "geom:bbox":"46.55304,28.524446,48.777943,30.103699",
     "geom:latitude":29.353174,
     "geom:longitude":47.613137,
@@ -14,6 +14,9 @@
     "iso:country":"KW",
     "itu:country_code":[
         "965"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "KW"
@@ -1073,7 +1076,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"965",
     "statoids:ds":"KWT",
     "statoids:fifa":"KUW",
@@ -1131,7 +1135,7 @@
         "naturalearth",
         "quattroshapes"
     ],
-    "wof:geomhash":"84aaf36af692451fc56d2a45d9183d72",
+    "wof:geomhash":"1c928d68464e3469fc68f9e738ee06f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1145,12 +1149,12 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938373,
+    "wof:lastmodified":1694639522,
     "wof:name":"Kuwait",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":2789132,
-    "wof:population_rank":12,
+    "wof:population":4207083,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-kw",
     "wof:shortcode":"KW",
     "wof:superseded_by":[],

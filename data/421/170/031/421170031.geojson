@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.145648,
-    "geom:area_square_m":12323077784.681065,
+    "geom:area_square_m":12323077784.680893,
     "geom:bbox":"46.55304,28.966039,48.38039,30.103699",
     "geom:latitude":29.552232,
     "geom:longitude":47.473571,
     "iso:country":"KW",
+    "label:eng_x_preferred_longname":[
+        "Al Jahrah Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":29.629503,
     "lbl:longitude":47.403967,
     "lbl:max_zoom":10.0,
@@ -136,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5bdeb98e692fe81c316ee898c02a4acd",
+    "wof:geomhash":"480e78f55d0241e3e11b931fb41dd729",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,7 +158,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636497449,
+    "wof:lastmodified":1694498103,
     "wof:name":"Al Jahrah",
     "wof:parent_id":85673399,
     "wof:placetype":"county",
