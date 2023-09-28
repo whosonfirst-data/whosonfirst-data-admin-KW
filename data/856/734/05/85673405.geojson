@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007864,
-    "geom:area_square_m":84794060.227532,
+    "geom:area_square_m":84794060.227526,
     "geom:bbox":"47.979042,29.264523,48.102101,29.360688",
     "geom:latitude":29.305571,
     "geom:longitude":48.043579,
@@ -291,11 +291,13 @@
         "gn:id":285628,
         "gp:id":20070167,
         "hasc:id":"KW.HW",
+        "iso:code":"KW-HA",
         "iso:id":"KW-HA",
         "qs_pg:id":1154065,
         "wd:id":"Q747432",
         "wk:page":"Hawalli_Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1729718859
     ],
@@ -303,7 +305,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"19e32216ddc45e71a426298eeec3b7a8",
+    "wof:geomhash":"a8c23ec61a9835c6f503b8fc652211f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938374,
+    "wof:lastmodified":1695884852,
     "wof:name":"Hawalli",
     "wof:parent_id":85632401,
     "wof:placetype":"region",

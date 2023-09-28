@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017341,
-    "geom:area_square_m":186883262.606636,
+    "geom:area_square_m":186883262.606621,
     "geom:bbox":"47.785092,28.676111,48.777943,29.489611",
     "geom:latitude":29.358939,
     "geom:longitude":48.029579,
@@ -282,11 +282,13 @@
         "gn:id":285788,
         "gp:id":20070169,
         "hasc:id":"KW.KU",
+        "iso:code":"KW-KU",
         "iso:id":"KW-KU",
         "qs_pg:id":891476,
         "wd:id":"Q1046645",
         "wk:page":"Capital_Governorate_(Kuwait)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421201553
     ],
@@ -294,7 +296,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8e0e6db0867ca6e56f4e85c6b6144678",
+    "wof:geomhash":"bbd21ea6665f35208a860443776d5d86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -309,7 +311,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938375,
+    "wof:lastmodified":1695884852,
     "wof:name":"Al Asimah",
     "wof:parent_id":85632401,
     "wof:placetype":"region",
