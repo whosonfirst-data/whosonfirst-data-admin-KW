@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.145648,
-    "geom:area_square_m":12323077784.681065,
+    "geom:area_square_m":12323077784.680893,
     "geom:bbox":"46.55304,28.966039,48.38039,30.103699",
     "geom:latitude":29.552232,
     "geom:longitude":47.473571,
@@ -293,12 +293,14 @@
         "gn:id":285798,
         "gp:id":20070165,
         "hasc:id":"KW.JA",
+        "iso:code":"KW-JA",
         "iso:id":"KW-JA",
         "qs_pg:id":1154063,
         "unlc:id":"KW-JA",
         "wd:id":"Q405701",
         "wk:page":"Jahra_Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421170031
     ],
@@ -306,7 +308,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5bdeb98e692fe81c316ee898c02a4acd",
+    "wof:geomhash":"480e78f55d0241e3e11b931fb41dd729",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -321,7 +323,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938375,
+    "wof:lastmodified":1695884852,
     "wof:name":"Al Jahrah",
     "wof:parent_id":85632401,
     "wof:placetype":"region",

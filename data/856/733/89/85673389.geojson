@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017284,
-    "geom:area_square_m":186493137.189483,
+    "geom:area_square_m":186493137.189482,
     "geom:bbox":"47.805606,29.179906,48.008525,29.304015",
     "geom:latitude":29.237931,
     "geom:longitude":47.918634,
@@ -301,12 +301,14 @@
         "gn:id":285816,
         "gp:id":20070168,
         "hasc:id":"KW.FA",
+        "iso:code":"KW-FA",
         "iso:id":"KW-FA",
         "qs_pg:id":1154066,
         "unlc:id":"KW-FA",
         "wd:id":"Q1072757",
         "wk:page":"Farwaniya_Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421204583
     ],
@@ -314,7 +316,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa6f869746911306dae44499b656c473",
+    "wof:geomhash":"df7079b6d1687a4c94b139366739cfd0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -329,7 +331,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938374,
+    "wof:lastmodified":1695884852,
     "wof:name":"Al Farwaniyah",
     "wof:parent_id":85632401,
     "wof:placetype":"region",

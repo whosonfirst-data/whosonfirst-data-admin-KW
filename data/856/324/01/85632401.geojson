@@ -1114,6 +1114,7 @@
         "hasc:id":"KW",
         "icao:code":"9K",
         "ioc:id":"KUW",
+        "iso:code":"KW",
         "itu:id":"KWT",
         "loc:id":"n80053139",
         "m49:code":"414",
@@ -1128,6 +1129,7 @@
         "wk:page":"Kuwait",
         "wmo:id":"KW"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KW",
     "wof:country_alpha3":"KWT",
     "wof:geom_alt":[
@@ -1149,7 +1151,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694639522,
+    "wof:lastmodified":1695881177,
     "wof:name":"Kuwait",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

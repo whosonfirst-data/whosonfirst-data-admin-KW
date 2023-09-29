@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.415752,
-    "geom:area_square_m":4504164417.673508,
+    "geom:area_square_m":4504164417.673552,
     "geom:bbox":"47.497992,28.524446,48.431641,29.208789",
     "geom:latitude":28.817898,
     "geom:longitude":47.951182,
@@ -308,11 +308,13 @@
         "gn:id":285841,
         "gp:id":20070166,
         "hasc:id":"KW.AH",
+        "iso:code":"KW-AH",
         "iso:id":"KW-AH",
         "qs_pg:id":1154064,
         "wd:id":"Q552354",
         "wk:page":"Ahmadi_Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1729718867
     ],
@@ -320,7 +322,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"612e057c6991337fd1b75a61882b05f3",
+    "wof:geomhash":"607e619f362feca6d814f4d5a0753c9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -335,7 +337,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938374,
+    "wof:lastmodified":1695884852,
     "wof:name":"Al Ahmadi",
     "wof:parent_id":85632401,
     "wof:placetype":"region",
